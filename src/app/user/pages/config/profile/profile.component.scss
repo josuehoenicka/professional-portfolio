@@ -1,0 +1,110 @@
+.containers {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.profile-container {
+  height: 100vh;
+  padding-top: 0.5em;
+}
+
+.input-project-file {
+  font-size: 1em;
+  padding: 1em;
+  color: var(--white-off);
+}
+
+.input-config-profile {
+  width: 41.5vw;
+  font-size: 1.7em;
+  padding: 0.2em;
+  margin: 0.2em;
+  background-color: transparent;
+  border: none;
+  border-bottom: 0.1em var(--white-off) solid;
+  outline: none;
+  color: var(--white-off);
+}
+
+.input-config-profile:focus {
+  color: var(--white-on);
+  transition: 0.5s;
+  border-bottom: 0.1em var(--white-on) solid;
+}
+
+.active {
+  width: 38vw;
+}
+
+.fa-static {
+  font-size: 1.5em;
+}
+
+.p-social-container {
+  display: flex;
+  flex-direction: column;
+  padding-top: 1.3em;
+}
+
+
+.p-features-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow-y: scroll;
+}
+
+.p-edit-container {
+  padding-top: 2.3em;
+}
+
+.profile-img {
+  margin-top: 0.5em;
+  width: 10em;
+  height: 10em;
+  border-radius: 100%;
+  object-fit: cover;
+}
+
+.btns-container {
+  margin-top: 3em;
+}
+
+.save-profile-btn {
+  background-color: var(--green_off);
+  color: var(--black-on);
+  padding: 0.5em 1.5em;
+  text-decoration: none;
+  border-radius: 2em;
+  font-size: 1.8em;
+  margin-top: 1em;
+  margin: 0 2em;
+  width: 15vw;
+  text-align: center;
+}
+
+.save-profile-btn:hover {
+  background-color: var(--green_on);
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.cancel-profile-btn {
+  background-color: var(--red_off);
+  color: var(--black-on);
+  padding: 0.5em 1.5em;
+  text-decoration: none;
+  border-radius: 2em;
+  font-size: 1.8em;
+  margin-top: 1em;
+  margin: 0 2em;
+  width: 15vw;
+  text-align: center;
+}
+
+.cancel-profile-btn:hover {
+  background-color: var(--red_on);
+  transition: 0.5s;
+  cursor: pointer;
+}

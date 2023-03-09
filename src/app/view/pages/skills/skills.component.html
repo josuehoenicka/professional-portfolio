@@ -1,0 +1,22 @@
+<app-nav></app-nav>
+<section id="skills">
+  <div id="tech-container">
+      <div id="tech-grid-container" >
+        <div *ngFor="let tech of tech">
+          <img [src]="tech.img" class="tech-items {{tech.level}}" title="{{tech.title}}">
+        </div>
+      </div>
+  </div>
+  <div id="lang-container-desktop">
+      <div *ngFor="let lang of lang" class="lang-items">
+          <img [src]="lang.img" title="{{lang.name}}" class="flag-items">
+          <p class="lvl-items">{{lang.level}}</p>
+      </div>
+  </div>
+  <div id="lang-container-mobile">
+    <div *ngFor="let lang of lang" class="lang-items">
+        <img [src]="lang.img" title="{{lang.name}}" class="flag-items">
+        <p class="lvl-items">{{lang.level}}</p>
+    </div>
+  </div>
+</section>

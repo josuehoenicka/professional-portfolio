@@ -1,0 +1,23 @@
+<app-nav></app-nav>
+<section id="projects">
+  <div class="container">
+    <div class="inputs-container">
+      <fieldset>
+        <legend>Cargo</legend>
+        <input type="text" class="input-text" placeholder="(ejemplo: Software Engineer)" maxlength="15">
+      </fieldset>
+      <fieldset>
+        <legend>Empresa</legend>
+        <input type="text" class="input-text" placeholder="(ejemplo: Amazon)" maxlength="15">
+      </fieldset>
+      <fieldset>
+        <legend>Descripción del trabajo</legend>
+        <textarea type="text" class="input-description" placeholder="(ejemplo: Desarrolle muchos proyectos y crecí en conjunto con mi equipo de trabajo)" maxlength="245"></textarea>
+      </fieldset>
+    </div>
+    <div class="btn-container">
+      <a class="save-configprojects-btn configproject-btn">Guardar</a>
+      <a (click)="backClicked()" class="cancel-configprojects-btn configproject-btn">Cancelar</a>
+    </div>
+  </div>
+</section>

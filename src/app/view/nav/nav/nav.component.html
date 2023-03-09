@@ -1,0 +1,30 @@
+<nav>
+    <div class="show-mobile">
+      <div>
+        <button (click)="toggleMenu()" [class.active]="activeMenu">
+          <img src="../../../../assets/items/nav.svg" alt="menu">
+        </button>
+        <p class="nav-name" routerLink="/home">Josue Hoenicka</p>
+      </div>
+      <div class="side-menu" [class.active]="activeMenu">
+        <button (click)="toggleMenu()">X</button>
+        <ul>
+          <li><a routerLink="/about">Sobre mí</a></li>
+          <li><a routerLink="/skills">Habilidades</a></li>
+          <li><a routerLink="/projects">Proyectos</a></li>
+          <li><a routerLink="/contact">Contacto</a></li>
+          <li><a href="../../../../assets/personal/cv.pdf">CV</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="navbar-container">
+      <a class="navbar-title" href="https://www.linkedin.com/in/josuehoenicka/" target="_blank">Josue Hoenicka</a>
+      <div>
+        <a routerLink="/about" class="navbar-items">Sobre mí</a>
+        <a routerLink="/skills" class="navbar-items">Habilidades</a>
+        <a routerLink="/projects" class="navbar-items">Proyectos</a>
+        <a routerLink="/contact" class="navbar-items">Redes sociales</a>
+        <a routerLink="/register" class="btn-navbar">Contract me</a>
+      </div>
+    </div>
+</nav>

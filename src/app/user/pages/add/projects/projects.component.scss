@@ -1,0 +1,101 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  user-select: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  z-index: -1;
+  padding-top: 6.5em;
+}
+
+.inputs-container {
+  text-align: start;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0 15em;
+}
+
+.inputs-link-container {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5em 0;
+}
+
+.btn-container {
+  padding: 1.5em 0;
+}
+
+fieldset {
+  margin: 0.5em 0;
+  border-color: var(--white-off);
+}
+
+legend {
+  color: var(--white-off);
+  padding: 0 1em;
+  font-size: 1.6em;
+  text-align: center;
+}
+
+.input-text, .inputs-link {
+  width: 100%;
+  font-size: 1.88em;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: var(--white-on);
+  padding:  0.10em 0 0.25em 0.5em;
+}
+
+.inputs-link {
+  margin: 0.15em 0;
+  width: 70vw;
+  font-size: 1.88em;
+  border-bottom: 0.01em var(--white-off) solid;
+}
+
+.configproject-btn {
+  color: var(--black-on);
+  padding: 0.45em 1.5em;
+  text-decoration: none;
+  border-radius: 2em;
+  font-size: 1.8em;
+  margin: 0 0.5em;
+  text-align: center;
+}
+
+.configproject-btn:hover {
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.cancel-configprojects-btn {
+  background-color: var(--white-off);
+}
+
+.cancel-configprojects-btn:hover {
+  background-color: var(--white-on);
+}
+
+.save-configprojects-btn {
+  background-color: var(--green_off);
+}
+
+.save-configprojects-btn:hover {
+  background-color: var(--green_on);
+}
+
+.delete-configprojects-btn {
+  background-color: var(--red_off);
+}
+
+.delete-configprojects-btn:hover {
+  background-color: var(--red_on);
+}

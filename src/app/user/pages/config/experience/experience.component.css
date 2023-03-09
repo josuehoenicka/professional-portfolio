@@ -1,0 +1,144 @@
+#skills {
+  height: 100vh;
+  user-select: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  z-index: -1;
+}
+
+.slide-bottom-container {
+  padding: 1em;
+}
+
+.title-slide-text {
+  color: var(--white-off);
+  font-size: 1.5em;
+  padding: 0.5em;
+}
+
+.mySlides2 {
+  display: none;
+}
+
+.experience-container {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 4em;
+}
+
+.prev, .next {
+  cursor: pointer;
+  padding: 2.5em;
+  color: var(--white-off);
+  font-size: 3em;
+  font-weight: bold;
+  transition: 0.6s ease;
+  border-radius: 0 0.1em 0.1em 0;
+  user-select: none;
+}
+
+.prev {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.next {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.prev:hover, .next:hover {
+  transition: 0.3s;
+  font-size: 3em;
+  color: var(--white-on);
+}
+
+fieldset {
+  margin: 0.5em 0;
+  border-color: var(--white-off);
+}
+
+legend {
+  color: var(--white-off);
+  padding: 0 1em;
+  font-size: 1.4em;
+}
+
+.slide-img-tech {
+  padding-bottom: 0.5em;
+  width: 7em;
+}
+
+.slider-container-structure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 2em;
+}
+
+.input-text {
+  width: 50vw;
+  font-size: 1.88em;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  padding: 0.2em 0.5em;
+  color: var(--white-on);
+}
+
+.input-description {
+  width: 50vw;
+  font-size: 1.88em;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: var(--white-on);
+  height: 25vh;
+  padding: 0.5em;
+  resize: none;
+}
+
+.configskill-btn {
+  color: var(--black-on);
+  padding: 0.5em 2em;
+  text-decoration: none;
+  border-radius: 2em;
+  font-size: 2em;
+  margin: 0 0.5em;
+  text-align: center;
+}
+
+.configskill-btn:hover {
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.cancel-configskills-btn {
+  background-color: var(--white-off);
+}
+
+.cancel-configskills-btn:hover {
+  background-color: var(--white-on);
+}
+
+.save-configskills-btn {
+  background-color: var(--green_off);
+}
+
+.save-configskills-btn:hover {
+  background-color: var(--green_on);
+}
+
+.delete-configskills-btn {
+  background-color: var(--red_off);
+}
+
+.delete-configskills-btn:hover {
+  background-color: var(--red_on);
+}

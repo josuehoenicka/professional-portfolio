@@ -1,0 +1,146 @@
+#skills {
+  display: grid;
+  grid-template-columns: 6fr 3fr;
+  width: 100vw;
+  height: 100vh;
+  user-select: none;
+  padding-top: 1em;
+}
+
+#tech-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 4.7em;
+}
+
+#tech-grid-container {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  padding-top: 1em;
+}
+
+.tech-items {
+  width: 6em;
+  height: 6em;
+  margin: 1em 1em;
+  background-color: transparent;
+}
+
+.tech-items:hover {
+  cursor: pointer;
+}
+
+.si, .SI, .Si, .sI {
+  opacity: 0.8;
+}
+
+.no, .NO, .No, .nO {
+  opacity: 0.08;
+}
+
+#lang-container-mobile {
+  display: none;
+}
+
+#lang-container-desktop {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 5.5em;
+}
+
+.lang-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.lang-items > p {
+  padding-left: 0.5em;
+}
+
+.lang-items:hover > p {
+  color: var(--white-on);
+  transition: 0.5s;
+  padding-left: 0.7em;
+  cursor: pointer;
+}
+
+.lvl-items {
+  color: var(--white-off);
+  font-size: 3em;
+}
+
+.lvl-items:hover {
+  color: var(--white-on);
+  transition: 0.5s;
+}
+
+.flag-items {
+  width: 5.5em;
+  padding: 1em 0;
+  cursor: pointer;
+}
+
+
+// Mobile
+@media (min-width: 15em) and (max-width: 39.9em){
+  #skills {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    user-select: none;
+    padding-top: 27em;
+  }
+  #tech-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 0;
+  }
+  #tech-grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding-top: 0;
+  }
+  #lang-container-desktop {
+    display: none;
+  }
+  #lang-container-mobile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding-top: 2em;
+  }
+  .lang-items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .lang-items:hover > p {
+    color: var(--white-on);
+    transition: 0.5s;
+    padding-left: 0.7em;
+    cursor: pointer;
+  }
+  .tech-items {
+    width: 5em;
+    height: 5em;
+    margin: 1em 1em;
+    background-color: transparent;
+  }
+  .lvl-items {
+    display: none;
+  }
+  .flag-items {
+    width: 5em;
+    margin: 0 0.25em;
+  }
+}

@@ -1,0 +1,23 @@
+<main>
+  <form>
+      <section class="profile-container containers">
+          <img [src]="name.photo" class="profile-img" alt="profile">
+          <input type="file" name="file-project" class="input-project-file">
+          <input name="username" type="text" placeholder="{{name.nameUser}}" class="input-config-profile">
+          <input name="description" type="text" placeholder="{{name.ocupation}}" class="input-config-profile">
+          <div>
+              <i class="fa fa-github fa-static"></i><input name="github_link" type="text" class="input-config-profile active" placeholder="Inserta el link de tu GitHub">
+          </div>
+          <div>
+              <i class="fa fa-linkedin fa-static"></i><input name="linkedin_link" type="text" class="input-config-profile active" placeholder="Inserta el link de tu LinkedIn">
+          </div>
+          <div>
+              <i class="fa fa-instagram fa-static"></i><input name="intagram_link" type="text" class="input-config-profile active" placeholder="Inserta el link de tu Instagram">
+          </div>
+          <div class="btns-container">
+              <a class="save-profile-btn">Guardar</a>
+              <a (click)="backClicked()" class="cancel-profile-btn">Cancelar</a>
+          </div>
+      </section>
+  </form>
+</main>

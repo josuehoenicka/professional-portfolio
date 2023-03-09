@@ -1,0 +1,151 @@
+figcaption {
+  background-color: transparent;
+}
+
+#bio-container {
+  display: grid;
+  grid-template-columns: 2.5fr 4fr 3fr;
+  width: 100vw;
+  padding-top: 1em;
+}
+
+#about-me {
+  padding-top: 3em;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  user-select: none;
+}
+
+#description-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+}
+
+
+#photo-container {
+  margin-top: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.fig-name, .fig-title {
+  background-color: transparent;
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  opacity: 0.9;
+}
+
+.fig-name {
+  font-size: 3.5em;
+  color: var(--white_off);
+  letter-spacing: 0.02em;
+}
+
+.fig-title {
+  font-size: 2em;
+  color: var(--white-on);
+  letter-spacing: 0.02em;
+}
+
+.scroll-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    text-align: left;
+    margin-top: 2em;
+    height: 70vh;
+    margin: 3em 0 0 1.5em;
+    padding-top: 1em;
+    line-height: 2em;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.scroll-container::-webkit-scrollbar {
+    background-color: var(--white-off);
+    border-radius: 1em;
+}
+
+.scroll-container::-webkit-scrollbar-thumb {
+    background-color: var(--white-on);
+    border-radius: 1em;
+}
+
+.fa-config {
+    display: flex;
+}
+
+.edit-description-container {
+  padding: 0.5em;
+}
+
+.photo-item {
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  object-position: center;
+  width: 18em;
+  height: 18em;
+  border-radius: 100%;
+  opacity: 0.7;
+  padding: 0.5em 0;
+}
+
+.description-items {
+    font-size: 2em;
+    color: var(--white-off);
+    text-align: justify;
+}
+
+.description-items:hover {
+    color: var(--white-on);
+    transition: 0.3s;
+}
+
+.description-config-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.description-items {
+    padding-left: 0.5em;
+}
+
+.titles {
+  padding: 0.25em 0;
+  text-align: center;
+  font-size: 2em;
+  color: var(--white-off);
+  margin: 0.25em 5em;
+  border: 0.1em var(--white-off) solid;
+  border-radius: 2em;
+}
+
+.active {
+  margin: 0.25em 7.7em;
+}
+
+.about-containers {
+  margin: 1.5em 0;
+}
+
+.about-titles {
+  padding-right: 0.8em;
+  font-size: 2em;
+  color: var(--white_off);
+}
+
+.about-subtitles {
+  text-align: justify;
+  padding-right: 1.2em;
+  font-size: 1.8em;
+  color: var(--white-on);
+}

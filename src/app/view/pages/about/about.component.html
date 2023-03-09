@@ -1,0 +1,35 @@
+<app-nav></app-nav>
+<section id="about-me">
+    <div id="bio-container">
+        <div id="photo-container">
+            <figure>
+              <img [src]="name.photo" class="photo-item">
+            </figure>
+            <figcaption>
+                <p class="fig-name">{{name.nameUser}}</p>
+                <p class="fig-title">{{name.ocupation}}</p>
+            </figcaption>
+        </div>
+        <div class="scroll-container">
+          <p class="titles active-desktop">EXPERIENCIA</p>
+          <p class="titles active">Scroll Down</p>
+          <hr>
+          <div *ngFor="let experience of experience" class="description-config-container certification-config">
+            <div class="about-containers">
+              <p class="about-titles">{{experience.title}} / {{experience.company}}</p>
+              <p class="about-subtitles">{{experience.description}}</p>
+              <hr>
+            </div>
+          </div>
+        </div>
+        <div class="scroll-container education-section">
+          <p class="titles">EDUCACIÓN</p>
+          <div *ngFor="let education of certification" class="description-config-container certification-config">
+            <div class="about-containers">
+              <p class="about-subtitles">{{education.school}}</p>
+              <p class="about-titles">{{education.title}}</p>
+            </div>
+          </div>
+        </div>
+    </div>
+</section>

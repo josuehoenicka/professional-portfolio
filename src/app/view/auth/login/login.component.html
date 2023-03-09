@@ -1,0 +1,25 @@
+<div class="login-container">
+  <div class="form-with-news-container">
+      <form class="" ><!--(ngSubmit)="onEnviar($event)"-->
+          <input type="text" name="email_login" placeholder="Email address" id="email_login" required autocomplete="off" class="input-login">
+          <input type="password" name="password_login" placeholder="Password" id="password_login" required class="input-login">
+          <div id="btn-container">
+              <input routerLink="/user" type="submit" value="Login" id="btn-login-login">
+          </div>
+          <div id="btn-container">
+            <input routerLink="/register" type="submit" value="Register" id="btn-register-login">
+        </div>
+        <div id="btn-container">
+            <input routerLink="/home" type="submit" value="Volver al portfolio original" id="btn-return-login">
+        </div>
+      </form>
+      <div class="news-container">
+          <img routerLink="/argprog" src="../../../assets/others/argprog.png" alt="argentina programa" id="news">
+      </div>
+  </div>
+</div>
+<footer>
+  <p class="footer-title"><a href="https://www.linkedin.com/in/josuehoenicka/" target="_blank" class="link-footer">¿Tienes un problema o idea? Escríbeme (DALE CLIC AQUÍ)</a></p>
+</footer>
+
+

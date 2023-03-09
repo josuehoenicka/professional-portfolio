@@ -1,0 +1,27 @@
+<app-nav></app-nav>
+<section id="projects">
+  <div class="container">
+    <div class="inputs-container">
+      <fieldset>
+        <legend>Nombre del proyecto</legend>
+        <input type="text" class="input-text" placeholder="" maxlength="15">
+      </fieldset>
+      <fieldset>
+        <legend>Descripción del proyecto</legend>
+        <input type="text" class="input-text" placeholder="" maxlength="25">
+      </fieldset>
+      <fieldset>
+        <legend>¿Qué tecnologías tiene?</legend>
+        <input type="text" class="input-text" placeholder="" maxlength="70">
+      </fieldset>
+    </div>
+    <div class="inputs-link-container">
+        <input type="text" class="inputs-link" placeholder="Link de deploy del proyecto">
+        <input type="text" class="inputs-link" placeholder="Link del proyecto en GitHub">
+    </div>
+    <div class="btn-container">
+      <a class="save-configprojects-btn configproject-btn">Guardar</a>
+      <a (click)="backClicked()" class="cancel-configprojects-btn configproject-btn">Cancelar</a>
+    </div>
+  </div>
+</section>

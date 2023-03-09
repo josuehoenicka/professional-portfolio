@@ -1,0 +1,28 @@
+<app-nav></app-nav>
+<section id="skills">
+    <div class="experience-container">
+        <a class="prev" onclick="plusSlides(-1, 1)">&#10094;</a>
+        <div>
+          <div class="mySlides2" *ngFor="let exp of exp">
+            <div class="slider-container-structure">
+              <fieldset>
+                <legend>Cargo</legend>
+                <input type="text" class="input-text" placeholder="{{exp.title}}">
+              </fieldset>
+              <fieldset>
+                <legend>Institución</legend>
+                <input type="text" class="input-text" placeholder="{{exp.company}}">
+              </fieldset>
+              <fieldset>
+                <legend>Descripción</legend>
+                <textarea type="text" class="input-description" placeholder="{{exp.description}}"></textarea>
+              </fieldset>
+            </div>
+            <a class="save-configskills-btn configskill-btn">Guardar</a>
+            <a class="delete-configskills-btn configskill-btn">Borrar</a>
+            <a (click)="backClicked()" class="cancel-configskills-btn configskill-btn">Cancelar</a>
+          </div>
+        </div>
+        <a class="next" onclick="plusSlides(1, 1)">&#10095;</a>
+    </div>
+</section>

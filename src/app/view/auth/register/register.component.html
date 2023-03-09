@@ -1,0 +1,13 @@
+<section>
+  <p *ngIf="nameRegister; else elseWelcomeMessage" class="welcome-message">Bienvenido, un gusto en conocerte {{nameRegister}} !</p>
+  <ng-template #elseWelcomeMessage>
+    <p class="welcome-message">Bienvenido, un gusto en conocerte !</p>
+  </ng-template>
+  <form action="/register" method="POST">
+      <input [(ngModel)]="nameRegister" [class.valid]="nameRegister" [autocomplete]="true" type="text" name="name_register" placeholder="Nombre y apellido (ejemplo: Josue Hoenicka)" id="name_register" class="input_register" autocomplete="off" maxlength="50" required>
+      <input [(ngModel)]="emailRegister" type="email" [class.valid]="emailRegister" [autocomplete]="true" name="email_register" placeholder="Correo electrónico (ejemplo: josuehoenicka@email.com)" id="email_register" class="input_register" maxlength="50" required >
+      <input [(ngModel)]="descriptionRegister" type="text" [class.valid]="descriptionRegister" [autocomplete]="true" name="ocupation_register" placeholder="Tipo de servicio (ejemplo: Con contrato | Temporal | Freelance)" id="ocupation_register" class="input_register input_active" required autocomplete="off" maxlength="50">
+      <button type="submit" class="btn-back" routerLink="/home">Volver</button>
+      <button type="submit" class="btn-register" routerLink="/home">Enviar</button>
+  </form>
+</section>
