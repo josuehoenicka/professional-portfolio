@@ -1,19 +1,19 @@
 {
   "photo": "../../../assets/personal/josuehoenicka.png",
-	"nameUser": "Front-End Developer",
-  "ocupation": "(Software Developer)",
+	"nameUser": "Josue Hoenicka",
+  "ocupation": "Developer & Polyglot",
   "github": "https://github.com/josuehoenicka",
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
   "hackerrank": "https://www.hackerrank.com/josuehoenicka",
   "leetcode": "https://leetcode.com/josuehoenicka/",
   "experience": [{
-    "title": "Angular Developer",
+    "title": "Angular Front-End Developer",
     "company": "Codebash",
     "description": "Junto con las tecnologías Angular, Flask y MongoDB trabajo con mi equipo en el desarrollo de una plataforma ecommerce. Construí la estructura del lado del cliente y realice una migración dentro del proyecto que consistió en migrar el proyecto de templates estáticos de HTML/CSS a Angular y la migración de hoja de estilos de CSS a SASS. Actualmente sigo trabajando en la parte del cliente"
   },
   {
-    "title": "Front End Developer",
-    "company": "Freelance",
+    "title": "Freelance Front-End Developer",
+    "company": "Hoenixer",
     "description": "Más de 2 años experiencia con las tecnologías HTML5, CSS, SASS, JavaScript y Git, un año de experiencia en TypeScript y Angular. He desarrollado proyectos personales, proyectos en conjunto y he realizado servicios de freelance para empresas, entidades y personas para impulsar su marca y/o emprendimiento"
   }
   ],
@@ -23,8 +23,16 @@
       "title": "Full Stack Web Development"
     },
     {
+      "school": "Codo a Codo 4.0",
+      "title": "Full Stack JavaScript Development"
+    },
+    {
       "school": "Universidad de Buenos Aires",
       "title": "English for IT"
+    },
+    {
+      "school": "freeCodeCamp",
+      "title": "JavaScript Algorithms & Data Structure"
     },
     {
       "school": "freeCodeCamp",
@@ -32,14 +40,18 @@
     },
     {
       "school": "Platzi",
-      "title": "JavaScript Curriculum"
+      "title": "Front End Web Development"
+    },
+    {
+      "school": "Universidad Tecnológica Nacional",
+      "title": "Introduction to JavaScript"
     },
     {
       "school": "Argentina Programa",
       "title": "Full Stack Web Development"
     },
     {
-      "school": "Facultad Regional Rosario",
+      "school": "Argentina Programa",
       "title": "Introduction to Programming"
     },
     {
@@ -55,29 +67,29 @@
       "title": "Computing"
     },
     {
-      "school": "EEMPI N°3060 - San Jorge",
-      "title": "High School Degree"
+      "school": "EEMPI N°3060 San Jorge",
+      "title": "High School"
     }
   ],
   "languages": [
   {
     "img": "../../../assets/lang/es.svg",
-    "name": "Español",
+    "name": "Spanish",
     "level": "ADVANCED"
   },
   {
     "img": "../../../assets/lang/br.svg",
-    "name": "Portugués",
+    "name": "Brazilian Portuguese",
     "level": "ADVANCED"
   },
   {
     "img": "../../../assets/lang/us.svg",
-    "name": "Inglés",
+    "name": "English",
     "level": "ADVANCED"
   },
   {
-    "img": "../../../assets/lang/cn.jpg",
-    "name": "Portugués",
+    "img": "../../../assets/lang/cn.svg",
+    "name": "Chinese",
     "level": "BEGINNER"
   }
   ],
@@ -105,7 +117,7 @@
   {
     "img": "../../../assets/tech/ruby.png",
     "title": "Ruby",
-    "level": "No"
+    "level": "Sí"
   },
   {
     "img": "../../../assets/tech/python.png",
@@ -133,16 +145,6 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/rails.png",
-    "title": "Rails",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/flask.png",
-    "title": "Flask",
-    "level": "No"
-  },
-  {
     "img": "../../../assets/tech/mysql.png",
     "title": "MySQL",
     "level": "Sí"
@@ -150,27 +152,38 @@
   {
     "img": "../../../assets/tech/mongodb.svg",
     "title": "MongoDB",
+    "level": "Sí"
+  },
+  
+  {
+    "img": "../../../assets/tech/jestjs.png",
+    "title": "JestJS",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/karma.png",
+    "title": "Karma + (Jasmine)",
     "level": "No"
   },
   {
     "img": "../../../assets/tech/nodejs.png",
-    "title": "NodeJS",
+    "title": "NodeJS + (ExpressJS)",
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/universal.png",
-    "title": "Angular Universal",
+    "img": "../../../assets/tech/protractor.png",
+    "title": "Protractor",
     "level": "No"
   },
   {
-    "img": "../../../assets/tech/git.png",
-    "title": "Git",
+    "img": "../../../assets/tech/rails.png",
+    "title": "Ruby On Rails",
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/linux.png",
-    "title": "Linux",
-    "level": "No"
+    "img": "../../../assets/tech/flask.png",
+    "title": "Flask",
+    "level": "Sí"
   }
   ],
   "projects": [
