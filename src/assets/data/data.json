@@ -145,6 +145,16 @@
     "level": "Sí"
   },
   {
+    "img": "../../../assets/tech/webpack.png",
+    "title": "Webpack",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/babel.png",
+    "title": "Babel",
+    "level": "Si"
+  },
+  {
     "img": "../../../assets/tech/mysql.png",
     "title": "MySQL",
     "level": "Sí"
@@ -152,28 +162,17 @@
   {
     "img": "../../../assets/tech/mongodb.svg",
     "title": "MongoDB",
-    "level": "Sí"
-  },
-  
-  {
-    "img": "../../../assets/tech/jestjs.png",
-    "title": "JestJS",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/karma.png",
-    "title": "Karma + (Jasmine)",
     "level": "No"
   },
   {
     "img": "../../../assets/tech/nodejs.png",
-    "title": "NodeJS + (ExpressJS)",
+    "title": "NodeJS",
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/protractor.png",
-    "title": "Protractor",
-    "level": "No"
+    "img": "../../../assets/tech/expressjs.png",
+    "title": "ExpressJS",
+    "level": "Si"
   },
   {
     "img": "../../../assets/tech/rails.png",
@@ -183,7 +182,7 @@
   {
     "img": "../../../assets/tech/flask.png",
     "title": "Flask",
-    "level": "Sí"
+    "level": "No"
   }
   ],
   "projects": [
