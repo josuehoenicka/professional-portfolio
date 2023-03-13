@@ -1,5 +1,5 @@
 {
-  "photo": "../../../assets/personal/josuehoenicka.png",
+  "photo": "../../../assets/personal/logo.jpg",
 	"nameUser": "Josue Hoenicka",
   "ocupation": "Developer & Polyglot",
   "github": "https://github.com/josuehoenicka",
@@ -75,12 +75,12 @@
   {
     "img": "../../../assets/lang/es.svg",
     "name": "Spanish",
-    "level": "ADVANCED"
+    "level": "FLUENT"
   },
   {
     "img": "../../../assets/lang/br.svg",
     "name": "Brazilian Portuguese",
-    "level": "ADVANCED"
+    "level": "FLUENT"
   },
   {
     "img": "../../../assets/lang/us.svg",
@@ -145,14 +145,14 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/webpack.png",
-    "title": "Webpack",
-    "level": "Sí"
+    "img": "../../../assets/tech/svelte.png",
+    "title": "Svelte",
+    "level": "No"
   },
   {
-    "img": "../../../assets/tech/babel.png",
-    "title": "Babel",
-    "level": "Si"
+    "img": "../../../assets/tech/qwik.png",
+    "title": "Qwik",
+    "level": "No"
   },
   {
     "img": "../../../assets/tech/mysql.png",
@@ -162,7 +162,7 @@
   {
     "img": "../../../assets/tech/mongodb.svg",
     "title": "MongoDB",
-    "level": "No"
+    "level": "si"
   },
   {
     "img": "../../../assets/tech/nodejs.png",
