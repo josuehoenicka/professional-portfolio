@@ -4,15 +4,14 @@
   "ocupation": "Developer & Polyglot",
   "github": "https://github.com/josuehoenicka",
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
-  "hackerrank": "https://www.hackerrank.com/josuehoenicka",
-  "leetcode": "https://leetcode.com/josuehoenicka/",
+  "blogsite": "https://bandicootfolio.web.app/",
   "experience": [{
-    "title": "Angular Front-End Developer",
+    "title": "Front-End Developer",
     "company": "Codebash",
     "description": "Junto con las tecnologías Angular, Flask y MongoDB trabajo con mi equipo en el desarrollo de una plataforma ecommerce. Construí la estructura del lado del cliente y realice una migración dentro del proyecto que consistió en migrar el proyecto de templates estáticos de HTML/CSS a Angular y la migración de hoja de estilos de CSS a SASS. Actualmente sigo trabajando en la parte del cliente"
   },
   {
-    "title": "Freelance Front-End Developer",
+    "title": "Freelance Web Developer",
     "company": "Hoenixer",
     "description": "Más de 2 años experiencia con las tecnologías HTML5, CSS, SASS, JavaScript y Git, un año de experiencia en TypeScript y Angular. He desarrollado proyectos personales, proyectos en conjunto y he realizado servicios de freelance para empresas, entidades y personas para impulsar su marca y/o emprendimiento"
   }
@@ -86,22 +85,12 @@
     "img": "../../../assets/lang/us.svg",
     "name": "English",
     "level": "ADVANCED"
-  },
-  {
-    "img": "../../../assets/lang/cn.svg",
-    "name": "Chinese",
-    "level": "BEGINNER"
   }
   ],
   "techs": [
   {
     "img": "../../../assets/tech/html.svg",
     "title": "HTML5",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/css.svg",
-    "title": "CSS3",
     "level": "Sí"
   },
   {
@@ -120,19 +109,14 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/python.png",
-    "title": "Python",
+    "img": "../../../assets/tech/git.png",
+    "title": "Git",
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/sass.png",
-    "title": "SASS",
+    "img": "../../../assets/tech/css.svg",
+    "title": "CSS3",
     "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/tailwind.svg",
-    "title": "TailwindCSS",
-    "level": "No"
   },
   {
     "img": "../../../assets/tech/reactjs.png",
@@ -150,19 +134,14 @@
     "level": "No"
   },
   {
-    "img": "../../../assets/tech/qwik.png",
-    "title": "Qwik",
-    "level": "No"
-  },
-  {
     "img": "../../../assets/tech/mysql.png",
     "title": "MySQL",
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/mongodb.svg",
-    "title": "MongoDB",
-    "level": "si"
+    "img": "../../../assets/tech/sass.png",
+    "title": "SASS",
+    "level": "Sí"
   },
   {
     "img": "../../../assets/tech/nodejs.png",
@@ -180,8 +159,8 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/flask.png",
-    "title": "Flask",
+    "img": "../../../assets/tech/mongodb.svg",
+    "title": "MongoDB",
     "level": "No"
   }
   ],

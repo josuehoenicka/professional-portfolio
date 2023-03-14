@@ -48,14 +48,14 @@
 }
 
 .social-title {
-  font-size: 3.5em;
+  font-size: 4em;
   padding-right: 0.5em;
 }
 
 // Mobile
 @media (min-width: 15em) and (max-width: 39.9em){
-  #hackerrank, #leetcode {
-    display: none;
+  #contact {
+    padding-left: 2em;
   }
   .social-title {
     display: none;

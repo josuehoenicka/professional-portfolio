@@ -16,14 +16,14 @@
 
 #tech-grid-container {
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   padding-top: 1em;
 }
 
 .tech-items {
-  width: 6em;
-  height: 6em;
-  margin: 1em 1em;
+  width: 7em;
+  height: 7em;
+  margin: 1em 1.5em;
   background-color: transparent;
 }
 
@@ -71,7 +71,7 @@
 
 .lvl-items {
   color: var(--white-off);
-  font-size: 3em;
+  font-size: 3.5em;
 }
 
 .lvl-items:hover {
@@ -80,8 +80,8 @@
 }
 
 .flag-items {
-  width: 5.5em;
-  padding: 1em 0;
+  width: 6.5em;
+  padding: 2em 0;
   cursor: pointer;
 }
 
@@ -140,7 +140,7 @@
     display: none;
   }
   .flag-items {
-    width: 5em;
-    margin: 0 0.25em;
+    width: 5.5em;
+    margin: 0 0.5em;
   }
 }
