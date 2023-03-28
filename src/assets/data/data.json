@@ -1,7 +1,7 @@
 {
   "photo": "../../../assets/personal/logo.jpg",
 	"nameUser": "Josue Hoenicka",
-  "ocupation": "Developer & Polyglot",
+  "ocupation": "Developer / Polyglot",
   "github": "https://github.com/josuehoenicka",
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
   "gmail": "https://mail.google.com/mail/?view=cm&fs=1&to=josuee.vzla%40gmail.com",
@@ -155,53 +155,32 @@
   ],
   "projects": [
     {
-      "title": "Codebash",
+      "title": "Thecodebash",
       "description": "Ecommerce Plataform",
-      "techs": "Angular + Flask + MongoDB",
-      "link_github": "/projects/working",
+      "techs": "Angular / Flask / MongoDB",
+      "link_github": "https://github.com/Thecodebash",
       "link_google": "/projects/working"
     },
     {
-      "title": "Springular",
-      "description": "Full Stack Portfolio",
-      "techs": "Angular + Spring Boot + MySQL",
-      "link_github": "https://github.com/josuehoenicka/springular",
-      "link_google": "https://springular.web.app"
+      "title": "Hackenicka",
+      "description": "Portfolio (General)",
+      "techs": "Angular",
+      "link_github": "https://github.com/josuehoenicka/hackenicka",
+      "link_google": "https://hackenicka.firebaseapp.com/home"
     },
     {
       "title": "Bandicootfolio",
-      "description": "Front End Portolio",
+      "description": "Portfolio (General)",
       "techs": "Angular",
       "link_github": "https://github.com/josuehoenicka/bandicootfolio",
       "link_google": "https://bandicootfolio.web.app"
     },
     {
-      "title": "Hoenixstore",
-      "description": "Ecommerce Plataform",
-      "techs": "Angular",
-      "link_github": "https://github.com/josuehoenicka/hoenixstore",
-      "link_google": "/projects/working"
-    },
-    {
-      "title": "Wanderlist",
-      "description": "Travel Application",
-      "techs": "Angular",
-      "link_github": "https://github.com/josuehoenicka/wanderlist",
-      "link_google": "/projects/working"
-    },
-    {
-      "title": "Rottwames",
-      "description": "Video Game Website",
-      "techs": "Angular + NodeJS + MongoDB",
-      "link_github": "https://github.com/josuehoenicka/rotwaiming",
-      "link_google": "/projects/working"
-    },
-    {
-      "title": "C.D.S",
-      "description": "Christian Landing Page",
-      "techs": "Bootstrap5 + JavaScript",
-      "link_github": "/projects/working",
-      "link_google": "/projects/private"
+      "title": "Make It Happen",
+      "description": "Christian Ministry Platform",
+      "techs": "Angular / Firebase / Hostinger",
+      "link_github": "https://github.com/josuehoenicka/dexcarriadosanonymous",
+      "link_google": "https://dexcarriadosanonymous.com"
     }
   ]
 }
