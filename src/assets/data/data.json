@@ -7,8 +7,13 @@
   "gmail": "https://mail.google.com/mail/?view=cm&fs=1&to=josuee.vzla%40gmail.com",
   "experience": [{
     "title": "Front-End Developer",
-    "company": "Codebash",
-    "description": "Junto con las tecnologías Angular, Flask, MongoDB y Firebase trabajo con mi equipo en el desarrollo de una plataforma ecommerce. Construí la estructura del lado del cliente y realice una migración dentro del proyecto que consistió en migrar el proyecto de templates estáticos de HTML/CSS a Angular y la migración de hoja de estilos de CSS a SASS. Actualmente sigo trabajando en la parte del cliente"
+    "company": "Thecodebash",
+    "description": "Junto con las tecnologías Angular, Flask, MongoDB y Firebase trabajo con mi equipo en el desarrollo de una plataforma e-commerce. Construí toda la estructura del lado del cliente, realice una migración dentro del proyecto que consistió en migrar un proyecto estático a un SPA con la integración de Angular y realicé una conexión a nuestra API creada con Flask. Actualmente con mi equipo estamos desarrollando la lógica de los templates y formando la comunidad futura de Thecodebash"
+  },
+  {
+    "title": "Front-End Developer",
+    "company": "Make It Happen Ministry",
+    "description": "Junto con las tecnologías Angular y Firebase derrollé una plataforma para un ministerio internacional cristiano. Dentro de la plataforma los usuarios podran recibir mensajes por medio del contacto que briden en el formulario, y también los usuarios podrán escuchar la radio en tiempo real de la emisora oficial del ministerio. Actualmente doy mantenimiento mensual/anual a la plataforma"
   },
   {
     "title": "Freelance Web Developer",
