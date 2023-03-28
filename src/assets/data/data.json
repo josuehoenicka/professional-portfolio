@@ -18,16 +18,16 @@
   ],
   "education": [
     {
-      "school": "Microverse",
-      "title": "Full Stack Web Development"
+      "school": "Universidad de Buenos Aires",
+      "title": "English for IT"
+    },
+    {
+      "school": "Platzi",
+      "title": "Front-End Development with Angular"
     },
     {
       "school": "Codo a Codo 4.0",
       "title": "Full Stack JavaScript Development"
-    },
-    {
-      "school": "Universidad de Buenos Aires",
-      "title": "English for IT"
     },
     {
       "school": "freeCodeCamp",
@@ -36,14 +36,6 @@
     {
       "school": "freeCodeCamp",
       "title": "Responsive Web Design"
-    },
-    {
-      "school": "Platzi",
-      "title": "Front End Web Development"
-    },
-    {
-      "school": "Universidad Tecnológica Nacional",
-      "title": "Introduction to JavaScript"
     },
     {
       "school": "Argentina Programa",
@@ -56,14 +48,6 @@
     {
       "school": "Universidad Nacional de Rosario",
       "title": "Computer Science"
-    },
-    {
-      "school": "Medeiros Tecnología LTDA",
-      "title": "Programming Logic"
-    },
-    {
-      "school": "Medeiros Tecnología LTDA",
-      "title": "Computing"
     },
     {
       "school": "EEMPI N°3060 San Jorge",
@@ -109,8 +93,18 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/ruby.png",
-    "title": "Ruby",
+    "img": "../../../assets/tech/python.png",
+    "title": "Python",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/bootstrap.png",
+    "title": "Bootstrap",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/sass.png",
+    "title": "Sass",
     "level": "Sí"
   },
   {
@@ -124,34 +118,9 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/rxjs.png",
-    "title": "RxJs",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/svelte.png",
-    "title": "Svelte",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/qwik.png",
-    "title": "Qwik",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/nodejs.png",
-    "title": "NodeJS",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/expressjs.png",
-    "title": "ExpressJS",
+    "img": "../../../assets/tech/flask.png",
+    "title": "Flask",
     "level": "Si"
-  },
-  {
-    "img": "../../../assets/tech/rails.png",
-    "title": "Ruby On Rails",
-    "level": "Sí"
   },
   {
     "img": "../../../assets/tech/mysql.png",
@@ -162,6 +131,21 @@
     "img": "../../../assets/tech/mongodb.svg",
     "title": "MongoDB",
     "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/nodejs.png",
+    "title": "NodeJS",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/rxjs.png",
+    "title": "RxJs",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/git.png",
+    "title": "Tensorflow",
+    "level": "Si"
   }
   ],
   "projects": [
