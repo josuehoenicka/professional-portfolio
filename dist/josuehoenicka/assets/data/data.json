@@ -1,38 +1,38 @@
 {
-  "photo": "../../../assets/personal/logo.jpg",
+  "photo": "../../../assets/personal/logo.png",
 	"nameUser": "Josue Hoenicka",
   "ocupation": "Developer / Polyglot",
   "github": "https://github.com/josuehoenicka",
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
   "gmail": "https://mail.google.com/mail/?view=cm&fs=1&to=josuee.vzla%40gmail.com",
   "experience": [{
-    "title": "Front-End Developer",
+    "title": "Angular Developer",
     "company": "Thecodebash",
     "description": "Junto con las tecnologías Angular, Flask, MongoDB y Firebase trabajo con mi equipo en el desarrollo de una plataforma e-commerce. Construí toda la estructura del lado del cliente, realice una migración dentro del proyecto que consistió en migrar un proyecto estático a un SPA con la integración de Angular y realicé una conexión a nuestra API creada con Flask. Actualmente con mi equipo estamos desarrollando la lógica de los templates y formando la comunidad futura de Thecodebash"
   },
   {
-    "title": "Front-End Developer",
-    "company": "Make It Happen Ministry",
-    "description": "Junto con las tecnologías Angular y Firebase derrollé una plataforma para un ministerio internacional cristiano. Dentro de la plataforma los usuarios podran recibir mensajes por medio del contacto que briden en el formulario, y también los usuarios podrán escuchar la radio en tiempo real de la emisora oficial del ministerio. Actualmente doy mantenimiento mensual/anual a la plataforma"
+    "title": "Angular Developer",
+    "company": "Make It Happen",
+    "description": "De forma freelance derrollé una plataforma SPA en español para un ministerio internacional cristiano en menos de 1 mes. Utilicé Angular para el desarrollo de la plataforma, Firebase para el hosting y Hostinger para el dominio personalizado para el ministerio. Creé un formulario para que los usuarios puedan enviar sus mensajes y que el ministerio reciba estos por vía email. También conecté la radio oficial del ministerio para que sus usuarios puedan escuchar en tiempo real"
   },
   {
-    "title": "Freelance Web Developer",
+    "title": "Web Developer",
     "company": "Hoenixer",
     "description": "Más de 2 años experiencia con las tecnologías HTML5, CSS, SASS, JavaScript y Git, un año de experiencia en TypeScript y Angular. He desarrollado proyectos personales, proyectos en conjunto y he realizado servicios de freelance para empresas, entidades y personas para impulsar su marca y/o emprendimiento"
   }
   ],
   "education": [
     {
+      "school": "Codo a Codo 4.0",
+      "title": "Full-Stack JavaScript Development"
+    },
+    {
       "school": "Universidad de Buenos Aires",
       "title": "English for IT"
     },
     {
       "school": "Platzi",
-      "title": "Front-End Development with Angular"
-    },
-    {
-      "school": "Codo a Codo 4.0",
-      "title": "Full Stack JavaScript Development"
+      "title": "Full-Stack JavaScript Development"
     },
     {
       "school": "freeCodeCamp",
@@ -113,8 +113,8 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/reactjs.png",
-    "title": "React",
+    "img": "../../../assets/tech/nodejs.png",
+    "title": "NodeJS",
     "level": "Sí"
   },
   {
@@ -123,9 +123,9 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/flask.png",
-    "title": "Flask",
-    "level": "Si"
+    "img": "../../../assets/tech/docker.png",
+    "title": "Docker",
+    "level": "Sí"
   },
   {
     "img": "../../../assets/tech/mysql.png",
@@ -138,22 +138,29 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/nodejs.png",
-    "title": "NodeJS",
+    "img": "../../../assets/tech/nestjs.png",
+    "title": "NestJS",
     "level": "Sí"
   },
   {
     "img": "../../../assets/tech/rxjs.png",
-    "title": "RxJs",
+    "title": "RxJS",
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/git.png",
-    "title": "Git",
-    "level": "Si"
+    "img": "../../../assets/tech/linux.png",
+    "title": "Linux",
+    "level": "Sí"
   }
   ],
   "projects": [
+    {
+      "title": "Hackenicka",
+      "description": "Portfolio",
+      "techs": "Angular",
+      "link_github": "https://github.com/josuehoenicka/hackenicka",
+      "link_google": "https://hackenicka.firebaseapp.com/home"
+    },
     {
       "title": "Thecodebash",
       "description": "Ecommerce Plataform",
@@ -162,23 +169,9 @@
       "link_google": "/projects/working"
     },
     {
-      "title": "Hackenicka",
-      "description": "Portfolio (General)",
-      "techs": "Angular",
-      "link_github": "https://github.com/josuehoenicka/hackenicka",
-      "link_google": "https://hackenicka.firebaseapp.com/home"
-    },
-    {
-      "title": "Bandicootfolio",
-      "description": "Portfolio (General)",
-      "techs": "Angular",
-      "link_github": "https://github.com/josuehoenicka/bandicootfolio",
-      "link_google": "https://bandicootfolio.web.app"
-    },
-    {
       "title": "Make It Happen",
-      "description": "Christian Ministry Platform",
-      "techs": "Angular / Firebase / Hostinger",
+      "description": "Christian Platform",
+      "techs": "Angular / Firebase",
       "link_github": "https://github.com/josuehoenicka/dexcarriadosanonymous",
       "link_google": "https://dexcarriadosanonymous.com"
     }
