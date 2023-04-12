@@ -1,14 +1,19 @@
 {
   "photo": "../../../assets/personal/logo.jpg",
 	"nameUser": "Josue Hoenicka",
-  "ocupation": "Developer & Polyglot",
+  "ocupation": "Developer / Polyglot",
   "github": "https://github.com/josuehoenicka",
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
-  "blogsite": "https://bandicootfolio.web.app/",
+  "gmail": "https://mail.google.com/mail/?view=cm&fs=1&to=josuee.vzla%40gmail.com",
   "experience": [{
     "title": "Front-End Developer",
-    "company": "Codebash",
-    "description": "Junto con las tecnologías Angular, Flask, MongoDB y Firebase trabajo con mi equipo en el desarrollo de una plataforma ecommerce. Construí la estructura del lado del cliente y realice una migración dentro del proyecto que consistió en migrar el proyecto de templates estáticos de HTML/CSS a Angular y la migración de hoja de estilos de CSS a SASS. Actualmente sigo trabajando en la parte del cliente"
+    "company": "Thecodebash",
+    "description": "Junto con las tecnologías Angular, Flask, MongoDB y Firebase trabajo con mi equipo en el desarrollo de una plataforma e-commerce. Construí toda la estructura del lado del cliente, realice una migración dentro del proyecto que consistió en migrar un proyecto estático a un SPA con la integración de Angular y realicé una conexión a nuestra API creada con Flask. Actualmente con mi equipo estamos desarrollando la lógica de los templates y formando la comunidad futura de Thecodebash"
+  },
+  {
+    "title": "Front-End Developer",
+    "company": "Make It Happen Ministry",
+    "description": "Junto con las tecnologías Angular y Firebase derrollé una plataforma para un ministerio internacional cristiano. Dentro de la plataforma los usuarios podran recibir mensajes por medio del contacto que briden en el formulario, y también los usuarios podrán escuchar la radio en tiempo real de la emisora oficial del ministerio. Actualmente doy mantenimiento mensual/anual a la plataforma"
   },
   {
     "title": "Freelance Web Developer",
@@ -18,16 +23,16 @@
   ],
   "education": [
     {
-      "school": "Microverse",
-      "title": "Full Stack Web Development"
+      "school": "Universidad de Buenos Aires",
+      "title": "English for IT"
+    },
+    {
+      "school": "Platzi",
+      "title": "Front-End Development with Angular"
     },
     {
       "school": "Codo a Codo 4.0",
       "title": "Full Stack JavaScript Development"
-    },
-    {
-      "school": "Universidad de Buenos Aires",
-      "title": "English for IT"
     },
     {
       "school": "freeCodeCamp",
@@ -36,14 +41,6 @@
     {
       "school": "freeCodeCamp",
       "title": "Responsive Web Design"
-    },
-    {
-      "school": "Platzi",
-      "title": "Front End Web Development"
-    },
-    {
-      "school": "Universidad Tecnológica Nacional",
-      "title": "Introduction to JavaScript"
     },
     {
       "school": "Argentina Programa",
@@ -56,14 +53,6 @@
     {
       "school": "Universidad Nacional de Rosario",
       "title": "Computer Science"
-    },
-    {
-      "school": "Medeiros Tecnología LTDA",
-      "title": "Programming Logic"
-    },
-    {
-      "school": "Medeiros Tecnología LTDA",
-      "title": "Computing"
     },
     {
       "school": "EEMPI N°3060 San Jorge",
@@ -109,8 +98,18 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/ruby.png",
-    "title": "Ruby",
+    "img": "../../../assets/tech/python.png",
+    "title": "Python",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/bootstrap.png",
+    "title": "Bootstrap",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/sass.png",
+    "title": "Sass",
     "level": "Sí"
   },
   {
@@ -124,34 +123,9 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/rxjs.png",
-    "title": "RxJs",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/svelte.png",
-    "title": "Svelte",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/qwik.png",
-    "title": "Qwik",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/nodejs.png",
-    "title": "NodeJS",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/expressjs.png",
-    "title": "ExpressJS",
+    "img": "../../../assets/tech/flask.png",
+    "title": "Flask",
     "level": "Si"
-  },
-  {
-    "img": "../../../assets/tech/rails.png",
-    "title": "Ruby On Rails",
-    "level": "Sí"
   },
   {
     "img": "../../../assets/tech/mysql.png",
@@ -162,57 +136,51 @@
     "img": "../../../assets/tech/mongodb.svg",
     "title": "MongoDB",
     "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/nodejs.png",
+    "title": "NodeJS",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/rxjs.png",
+    "title": "RxJs",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/git.png",
+    "title": "Git",
+    "level": "Si"
   }
   ],
   "projects": [
     {
-      "title": "Codebash",
+      "title": "Thecodebash",
       "description": "Ecommerce Plataform",
-      "techs": "Angular + Flask + MongoDB",
-      "link_github": "/projects/working",
+      "techs": "Angular / Flask / MongoDB",
+      "link_github": "https://github.com/Thecodebash",
       "link_google": "/projects/working"
     },
     {
-      "title": "Springular",
-      "description": "Full Stack Portfolio",
-      "techs": "Angular + Spring Boot + MySQL",
-      "link_github": "https://github.com/josuehoenicka/springular",
-      "link_google": "https://springular.web.app"
+      "title": "Hackenicka",
+      "description": "Portfolio (General)",
+      "techs": "Angular",
+      "link_github": "https://github.com/josuehoenicka/hackenicka",
+      "link_google": "https://hackenicka.firebaseapp.com/home"
     },
     {
       "title": "Bandicootfolio",
-      "description": "Front End Portolio",
+      "description": "Portfolio (General)",
       "techs": "Angular",
       "link_github": "https://github.com/josuehoenicka/bandicootfolio",
       "link_google": "https://bandicootfolio.web.app"
     },
     {
-      "title": "Hoenixstore",
-      "description": "Ecommerce Plataform",
-      "techs": "Angular",
-      "link_github": "https://github.com/josuehoenicka/hoenixstore",
-      "link_google": "/projects/working"
-    },
-    {
-      "title": "Wanderlist",
-      "description": "Travel Application",
-      "techs": "Angular",
-      "link_github": "https://github.com/josuehoenicka/wanderlist",
-      "link_google": "/projects/working"
-    },
-    {
-      "title": "Rottwames",
-      "description": "Video Game Website",
-      "techs": "Angular + NodeJS + MongoDB",
-      "link_github": "https://github.com/josuehoenicka/rotwaiming",
-      "link_google": "/projects/working"
-    },
-    {
-      "title": "C.D.S",
-      "description": "Christian Landing Page",
-      "techs": "Bootstrap5 + JavaScript",
-      "link_github": "/projects/working",
-      "link_google": "/projects/private"
+      "title": "Make It Happen",
+      "description": "Christian Ministry Platform",
+      "techs": "Angular / Firebase / Hostinger",
+      "link_github": "https://github.com/josuehoenicka/dexcarriadosanonymous",
+      "link_google": "https://dexcarriadosanonymous.com"
     }
   ]
 }
