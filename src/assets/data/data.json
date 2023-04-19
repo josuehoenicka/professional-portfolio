@@ -1,7 +1,7 @@
 {
-  "photo": "../../../assets/personal/logo.png",
+  "photo": "../../../assets/personal/logo.jpg",
 	"nameUser": "Josue Hoenicka",
-  "ocupation": "Developer / Polyglot",
+  "ocupation": ".JS / .TS / .PY",
   "github": "https://github.com/josuehoenicka",
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
   "gmail": "https://mail.google.com/mail/?view=cm&fs=1&to=josuee.vzla%40gmail.com",
@@ -13,12 +13,12 @@
   {
     "title": "Angular Developer",
     "company": "Make It Happen",
-    "description": "De forma freelance derrollé una plataforma SPA en español para un ministerio internacional cristiano en menos de 1 mes. Utilicé Angular para el desarrollo de la plataforma, Firebase para el hosting y Hostinger para el dominio personalizado para el ministerio. Creé un formulario para que los usuarios puedan enviar sus mensajes y que el ministerio reciba estos por vía email. También conecté la radio oficial del ministerio para que sus usuarios puedan escuchar en tiempo real"
+    "description": "Derrollé una plataforma SPA para un ministerio internacional cristiano. Utilicé Angular para el desarrollo de la plataforma, Firebase para el hosting y configuré el hosting con la plataforma Hostinger. Creé un formulario para que los usuarios puedan enviar sus mensajes anónimamente para contactar con consejeros profesionales, y conecté la radio oficial del ministerio para que sus usuarios puedan escuchar la transmisión en tiempo real"
   },
   {
     "title": "Web Developer",
     "company": "Hoenixer",
-    "description": "Más de 2 años experiencia con las tecnologías HTML5, CSS, SASS, JavaScript y Git, un año de experiencia en TypeScript y Angular. He desarrollado proyectos personales, proyectos en conjunto y he realizado servicios de freelance para empresas, entidades y personas para impulsar su marca y/o emprendimiento"
+    "description": "Más de 2 años experiencia en tecnologías para el desarollo web. He desarrollado proyectos personales, proyectos en conjunto y he realizado servicios de freelance para empresas, entidades y personas para impulsar su marca y/o emprendimiento"
   }
   ],
   "education": [
@@ -113,8 +113,8 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/nodejs.png",
-    "title": "NodeJS",
+    "img": "../../../assets/tech/rxjs.png",
+    "title": "RxJS",
     "level": "Sí"
   },
   {
@@ -138,18 +138,18 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/nestjs.png",
-    "title": "NestJS",
+    "img": "../../../assets/tech/nodejs.png",
+    "title": "NodeJS",
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/rxjs.png",
-    "title": "RxJS",
+    "img": "../../../assets/tech/firebase.png",
+    "title": "Firebase",
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/linux.png",
-    "title": "Linux",
+    "img": "../../../assets/tech/git.png",
+    "title": "Git",
     "level": "Sí"
   }
   ],
@@ -163,13 +163,13 @@
     },
     {
       "title": "Thecodebash",
-      "description": "Ecommerce Plataform",
+      "description": "Ecommerce Store",
       "techs": "Angular / Flask / MongoDB",
       "link_github": "https://github.com/Thecodebash",
       "link_google": "/projects/working"
     },
     {
-      "title": "Make It Happen",
+      "title": "Dexcarriados",
       "description": "Christian Platform",
       "techs": "Angular / Firebase",
       "link_github": "https://github.com/josuehoenicka/dexcarriadosanonymous",
