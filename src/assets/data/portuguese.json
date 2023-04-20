@@ -111,7 +111,12 @@
   {
     "img": "../../../assets/tech/python.png",
     "title": "Python",
-    "level": "Sí"
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/dart.svg",
+    "title": "Dart",
+    "level": "No"
   },
   {
     "img": "../../../assets/tech/firebase.png",
@@ -119,8 +124,8 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/docker.png",
-    "title": "Docker",
+    "img": "../../../assets/tech/sass.png",
+    "title": "Sass",
     "level": "Sí"
   },
   {
@@ -136,7 +141,12 @@
   {
     "img": "../../../assets/tech/tensorflow.png",
     "title": "Tensorflow",
-    "level": "Sí"
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/flutter.svg",
+    "title": "Flutter",
+    "level": "No"
   },
   {
     "img": "../../../assets/tech/mysql.png",
@@ -161,6 +171,11 @@
   {
     "img": "../../../assets/tech/git.png",
     "title": "Git",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/docker.png",
+    "title": "Docker",
     "level": "Sí"
   }
   ],
