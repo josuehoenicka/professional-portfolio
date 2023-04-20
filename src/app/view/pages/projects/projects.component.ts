@@ -8,15 +8,18 @@ import { PortfolioService } from 'src/app/services/portfolio.service';
 })
 
 export class ProjectsComponent {
-  // name:any;
-  // project:any;
-  // constructor(private check:PortfolioService) { }
 
-  // ngOnInit(): void {
-  //   this.check.test().subscribe(data => {
-  //     this.name=data;
-  //     this.project=data.projects;
-  //   });
-  // }
+  josuehoenicka: any;
+  project:any;
+
+  constructor(private portfolioService: PortfolioService) {}
+
+  ngOnInit(): void {
+    this.portfolioService.languageData.subscribe(data => {
+      this.josuehoenicka = data;
+
+      this.project=data.projects;
+    });
+  }
 
 }

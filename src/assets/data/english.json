@@ -1,14 +1,18 @@
 {
   "welcome": "Welcome to my portfolio",
+  "slidetext": "Click to slide",
   "navbar": [
-    {"link": "Home", "router": "home"},
     {"link": "About me", "router": "about"},
-    {"link": "Skills","router": "skills"},
+    {"link": "Skills", "router": "skills"},
     {"link": "Experience", "router": "projects"},
     {"link": "Contact", "router": "contact"}
   ],
-  "contract": "Contract me",
-  "photo": "../../../assets/personal/logo.jpg",
+  "about": {
+    "experience": "EXPERIENCE",
+    "education": "EDUCATION"
+  },
+  "contract": "Resume",
+  "photo": "../../../assets/personal/josuehoenicka.jpg",
 	"name": "Josue Hoenicka",
   "ocupation": "Developer / Polyglot",
   "github": "https://github.com/josuehoenicka",

@@ -1,16 +1,20 @@
 {
   "welcome": "Bienvenido a mi portafolio",
+  "slidetext": "Haz click para deslizar",
   "navbar": [
-    {"link": "Inicio", "router": "home"},
     {"link": "Sobre mí", "router": "about"},
     {"link": "Habilidades", "router": "skills"},
     {"link": "Experiencia", "router": "projects"},
-    {"link": "Contacto", "router": "contract"}
+    {"link": "Contacto", "router": "contact"}
   ],
-  "contract": "Contrátame",
-  "photo": "../../../assets/personal/logo.jpg",
+  "contract": "Curriculum",
+  "photo": "../../../assets/personal/josuehoenicka.jpg",
 	"name": "Josue Hoenicka",
-  "ocupation": "Programador",
+  "ocupation": "Programador / Poliglota",
+  "about": {
+    "experience": "EXPERIENCIA",
+    "education": "EDUCACIÓN"
+  },
   "github": "https://github.com/josuehoenicka",
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
   "gmail": "mailto:josuee.vzla@gmail.com",
@@ -21,68 +25,68 @@
   },
   {
     "title": "Angular Developer",
-    "company": "Make It Happen",
+    "company": "en Make It Happen",
     "description": "Derrollé una plataforma SPA para un ministerio internacional cristiano. Utilicé Angular para el desarrollo de la plataforma, Firebase para el hosting y configuré el hosting con la plataforma Hostinger. Creé un formulario para que los usuarios puedan enviar sus mensajes anónimamente para contactar con consejeros profesionales, y conecté la radio oficial del ministerio para que sus usuarios puedan escuchar la transmisión en tiempo real"
   },
   {
-    "title": "Web Developer",
-    "company": "Hoenixer",
+    "title": "Desarrollador Web",
+    "company": "Independiente",
     "description": "Más de 2 años experiencia en tecnologías para el desarollo web. He desarrollado proyectos personales, proyectos en conjunto y he realizado servicios de freelance para empresas, entidades y personas para impulsar su marca y/o emprendimiento"
   }
   ],
   "education": [
     {
-      "school": "Codo a Codo 4.0",
-      "title": "Full-Stack JavaScript Development"
+      "school": "Codo a Codo",
+      "title": "Desarrollo Full-Stack con JavaScript"
     },
     {
       "school": "Universidad de Buenos Aires",
-      "title": "English for IT"
+      "title": "Inglés para IT"
     },
     {
       "school": "Platzi",
-      "title": "Full-Stack JavaScript Development"
+      "title": "Desarrollo Full-Stack con JavaScript"
     },
     {
       "school": "freeCodeCamp",
-      "title": "JavaScript Algorithms & Data Structure"
+      "title": "Algoritmos con JavaScript y Estructura de Datos"
     },
     {
       "school": "freeCodeCamp",
-      "title": "Responsive Web Design"
+      "title": "Diseño Web Responsivo"
     },
     {
       "school": "Argentina Programa",
-      "title": "Full Stack Web Development"
+      "title": "Desarrollo Web Full-Stack"
     },
     {
       "school": "Argentina Programa",
-      "title": "Introduction to Programming"
+      "title": "Introducción a la Programación"
     },
     {
       "school": "Universidad Nacional de Rosario",
-      "title": "Computer Science"
+      "title": "Ciencias de la Computación"
     },
     {
       "school": "EEMPI N°3060 San Jorge",
-      "title": "High School"
+      "title": "Escuela Secundaria"
     }
   ],
   "languages": [
   {
     "img": "../../../assets/lang/es.svg",
     "name": "Spanish",
-    "level": "FLUENT"
+    "level": "FLUÍDO"
   },
   {
     "img": "../../../assets/lang/br.svg",
     "name": "Brazilian Portuguese",
-    "level": "FLUENT"
+    "level": "FLUÍDO"
   },
   {
     "img": "../../../assets/lang/us.svg",
     "name": "English",
-    "level": "ADVANCED"
+    "level": "AVANZADO"
   }
   ],
   "techs": [

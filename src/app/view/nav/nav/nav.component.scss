@@ -63,18 +63,10 @@ nav {
     color: var(--black-on);
     margin-right: 0.25em;
     transition: 0.5s;
-  }
-  .btn-navbar-active {
-    background-color: var(--green_off);
-    padding: 0.35em 1.4em;
-    transition: 0.5s;
+    cursor: pointer;
   }
   .btn-navbar:hover {
-    transition: 0.5s;
     background-color: var(--white-on);
-  }
-    .btn-navbar-active:hover {
-    background-color: var(--green_on);
   }
 }
 

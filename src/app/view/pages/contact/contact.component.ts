@@ -8,13 +8,14 @@ import { PortfolioService } from 'src/app/services/portfolio.service';
 })
 export class ContactComponent {
 
-  // name:any;
-  // constructor(private check:PortfolioService) { }
+  josuehoenicka: any;
 
-  // ngOnInit(): void {
-  //   this.check.test().subscribe(data => {
-  //     this.name=data;
-  //   });
-  // }
+  constructor(private portfolioService: PortfolioService) {}
+
+  ngOnInit(): void {
+    this.portfolioService.languageData.subscribe(data => {
+      this.josuehoenicka = data;
+    });
+  }
 
 }

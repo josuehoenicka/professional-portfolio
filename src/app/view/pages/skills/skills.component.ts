@@ -8,17 +8,19 @@ import { PortfolioService } from 'src/app/services/portfolio.service';
 })
 
 export class SkillsComponent {
-  // name:any;
-  // lang:any;
-  // tech:any;
-  // constructor(private check:PortfolioService) { }
 
-  // ngOnInit(): void {
-  //   this.check.test().subscribe(data => {
-  //     this.name=data;
-  //     this.lang=data.languages;
-  //     this.tech=data.techs;
-  //   });
-  // }
+  josuehoenicka: any;
+  lang:any;
+  tech:any;
+
+  constructor(private portfolioService: PortfolioService) {}
+
+  ngOnInit(): void {
+    this.portfolioService.languageData.subscribe(data => {
+      this.josuehoenicka = data;
+      this.lang= data.languages;
+      this.tech= data.techs;
+    });
+  }
 
 }

@@ -1,98 +1,90 @@
 {
   "welcome": "Bem-vindo ao meu portfólio",
+  "slidetext": "Clique para deslizar",
   "navbar": [
-    {"link": "Início",
-      "router": "home"
-    },
-    {"link": "Sobre mim",
-      "router": "about"
-    },
-    {"link": "Habilidades",
-      "router": "skills"
-    },
-    {"link": "Experiência",
-      "router": "projects"
-    },
-    {"link": "Contato",
-      "router": "contract"
-    }
+    {"link": "Sobre mim", "router": "about"},
+    {"link": "Habilidades", "router": "skills"},
+    {"link": "Experiência", "router": "projects"},
+    {"link": "Contato", "router": "contact"}
   ],
-  "contract": "Contrate-me",
-  "photo": "../../../assets/personal/logo.jpg",
+  "contract": "Currículo",
+  "photo": "../../../assets/personal/josuehoenicka.jpg",
 	"name": "Josue Hoenicka",
-  "ocupation": "Desenvolvedor",
+  "ocupation": "Desenvolvedor / Poliglota",
+  "about": {
+    "experience": "EXPERIÊNCIA",
+    "education": "EDUCAÇÃO"
+  },
   "github": "https://github.com/josuehoenicka",
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
   "gmail": "mailto:josuee.vzla@gmail.com",
   "experience": [{
-    "title": "Angular Developer",
+    "title": "Desenvolvedor Angular",
     "company": "Thecodebash",
-    "description": "Junto con las tecnologías Angular, Flask, MongoDB y Firebase trabajo con mi equipo en el desarrollo de una plataforma e-commerce. Construí toda la estructura del lado del cliente, realice una migración dentro del proyecto que consistió en migrar un proyecto estático a un SPA con la integración de Angular y realicé una conexión a nuestra API creada con Flask. Actualmente con mi equipo estamos desarrollando la lógica de los templates y formando la comunidad futura de Thecodebash"
-  },
-  {
-    "title": "Angular Developer",
+    "description": "Junto com as tecnologias Angular, Flask, MongoDB e Firebase, trabalho com minha equipe no desenvolvimento de uma plataforma e-commerce. Construí toda a estrutura do lado do cliente, realizei uma migração dentro do projeto que consistiu em migrar um projeto estático para um SPA com a integração do Angular e realizei uma conexão com a nossa API criada com Flask. Atualmente, com minha equipe, estamos desenvolvendo a lógica dos templates e formando a comunidade futura da Thecodebash."
+    },
+    {
+    "title": "Desenvolvedor Angular",
     "company": "Make It Happen",
-    "description": "Derrollé una plataforma SPA para un ministerio internacional cristiano. Utilicé Angular para el desarrollo de la plataforma, Firebase para el hosting y configuré el hosting con la plataforma Hostinger. Creé un formulario para que los usuarios puedan enviar sus mensajes anónimamente para contactar con consejeros profesionales, y conecté la radio oficial del ministerio para que sus usuarios puedan escuchar la transmisión en tiempo real"
-  },
-  {
-    "title": "Web Developer",
+    "description": "Desenvolvi uma plataforma SPA para um ministério internacional cristão. Utilizei o Angular para o desenvolvimento da plataforma, o Firebase para o hosting e configurei o hosting com a plataforma Hostinger. Criei um formulário para que os usuários possam enviar suas mensagens anonimamente para entrar em contato com conselheiros profissionais e conectei a rádio oficial do ministério para que seus usuários possam ouvir a transmissão em tempo real."
+    },
+    {
+    "title": "Desenvolvedor Web",
     "company": "Hoenixer",
-    "description": "Más de 2 años experiencia en tecnologías para el desarollo web. He desarrollado proyectos personales, proyectos en conjunto y he realizado servicios de freelance para empresas, entidades y personas para impulsar su marca y/o emprendimiento"
-  }
-  ],
+    "description": "Mais de 2 anos de experiência em tecnologias para o desenvolvimento web. Desenvolvi projetos pessoais, projetos em conjunto e prestei serviços de freelancer para empresas, entidades e pessoas para impulsionar suas marcas e/ou empreendimentos."
+    }],
   "education": [
     {
-      "school": "Codo a Codo 4.0",
-      "title": "Full-Stack JavaScript Development"
+    "school": "Codo a Codo",
+    "title": "Desenvolvimento Full-Stack com JavaScript"
     },
     {
-      "school": "Universidad de Buenos Aires",
-      "title": "English for IT"
+    "school": "Universidad de Buenos Aires",
+    "title": "Inglês para TI"
     },
     {
-      "school": "Platzi",
-      "title": "Full-Stack JavaScript Development"
+    "school": "Platzi",
+    "title": "Desenvolvimento Full-Stack com JavaScript"
     },
     {
-      "school": "freeCodeCamp",
-      "title": "JavaScript Algorithms & Data Structure"
+    "school": "freeCodeCamp",
+    "title": "Algoritmos com JavaScript e Estrutura de Dados"
     },
     {
-      "school": "freeCodeCamp",
-      "title": "Responsive Web Design"
+    "school": "freeCodeCamp",
+    "title": "Design Web Responsivo"
     },
     {
-      "school": "Argentina Programa",
-      "title": "Full Stack Web Development"
+    "school": "Argentina Programa",
+    "title": "Desenvolvimento Web Full-Stack"
     },
     {
-      "school": "Argentina Programa",
-      "title": "Introduction to Programming"
+    "school": "Argentina Programa",
+    "title": "Introdução à Programação"
     },
     {
-      "school": "Universidad Nacional de Rosario",
-      "title": "Computer Science"
+    "school": "Universidade Nacional de Rosario",
+    "title": "Ciência da Computação"
     },
     {
-      "school": "EEMPI N°3060 San Jorge",
-      "title": "High School"
-    }
-  ],
+    "school": "EEMPI N°3060 San Jorge",
+    "title": "Ensino Médio"
+  }],
   "languages": [
   {
     "img": "../../../assets/lang/es.svg",
-    "name": "Spanish",
-    "level": "FLUENT"
+    "name": "Espanhol",
+    "level": "FLUENTE"
   },
   {
     "img": "../../../assets/lang/br.svg",
-    "name": "Brazilian Portuguese",
-    "level": "FLUENT"
+    "name": "Português",
+    "level": "FLUENTE"
   },
   {
     "img": "../../../assets/lang/us.svg",
-    "name": "English",
-    "level": "ADVANCED"
+    "name": "Inglês",
+    "level": "AVANÇADO"
   }
   ],
   "techs": [

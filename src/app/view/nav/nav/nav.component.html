@@ -25,7 +25,7 @@
       </select>
       <div>
         <a *ngFor="let i of josuehoenicka.navbar" routerLink="/{{i.router}}" class="navbar-items">{{i.link}}</a>
-        <a routerLink="/contract" class="btn-navbar">{{josuehoenicka.contract}}</a>
+        <a (click)="downloadCV()" class="btn-navbar">{{josuehoenicka.contract}}</a>
       </div>
     </div>
 </nav>

@@ -28,4 +28,12 @@ export class NavComponent  {
     this.activeMenu = !this.activeMenu;
   }
 
+  downloadCV() {
+    const link = document.createElement('a');
+    link.setAttribute('target', '_blank');
+    link.setAttribute('href', '../../../assets/personal/josuehoenicka.jpg');
+    link.setAttribute('download', 'josuehoenicka.jpg');
+    link.click();
+  }
+
 }

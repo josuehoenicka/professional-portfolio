@@ -30,11 +30,11 @@ font-family: 'Amatic SC', cursive;
 
 .btn-start-img {
   width: 14.5em;
-  opacity: 0.3;
+  opacity: 0.5;
+  transition: .3s;
 }
 
 .btn-start-img:hover {
-  transition: 0.5s;
   opacity: 1;
 }
 
