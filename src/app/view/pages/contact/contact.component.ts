@@ -6,15 +6,15 @@ import { PortfolioService } from 'src/app/services/portfolio.service';
   templateUrl: './contact.component.html',
   styleUrls: ['./contact.component.scss']
 })
-export class ContactComponent implements OnInit {
+export class ContactComponent {
 
-  name:any;
-  constructor(private check:PortfolioService) { }
+  // name:any;
+  // constructor(private check:PortfolioService) { }
 
-  ngOnInit(): void {
-    this.check.test().subscribe(data => {
-      this.name=data;
-    });
-  }
+  // ngOnInit(): void {
+  //   this.check.test().subscribe(data => {
+  //     this.name=data;
+  //   });
+  // }
 
 }

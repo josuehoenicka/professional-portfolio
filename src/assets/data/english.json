@@ -1,29 +1,29 @@
 {
   "photo": "../../../assets/personal/logo.jpg",
 	"nameUser": "Josue Hoenicka",
-  "ocupation": ".JS / .TS / .PY",
-  "github": "https://github.com/josuehoenicka",
+  "ocupation": "Developer / Polyglot",
+  "github": "https://github.com/angular",
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
   "gmail": "mailto:josuee.vzla@gmail.com",
   "experience": [{
     "title": "Angular Developer",
-    "company": "Thecodebash",
-    "description": "Junto con las tecnologías Angular, Flask, MongoDB y Firebase trabajo con mi equipo en el desarrollo de una plataforma e-commerce. Construí toda la estructura del lado del cliente, realice una migración dentro del proyecto que consistió en migrar un proyecto estático a un SPA con la integración de Angular y realicé una conexión a nuestra API creada con Flask. Actualmente con mi equipo estamos desarrollando la lógica de los templates y formando la comunidad futura de Thecodebash"
+    "company": "at Thecodebash",
+    "description": "Together with the Angular, Flask, MongoDB, and Firebase technologies, I work with my team in the development of an e-commerce platform. I built the entire client-side structure, performed a migration within the project that consisted of migrating a static project to an SPA with the integration of Angular, and established a connection to our API created with Flask. Currently, with my team, we are developing the logic for the templates and building the future community of Thecodebash"
   },
   {
     "title": "Angular Developer",
-    "company": "Make It Happen",
-    "description": "Derrollé una plataforma SPA para un ministerio internacional cristiano. Utilicé Angular para el desarrollo de la plataforma, Firebase para el hosting y configuré el hosting con la plataforma Hostinger. Creé un formulario para que los usuarios puedan enviar sus mensajes anónimamente para contactar con consejeros profesionales, y conecté la radio oficial del ministerio para que sus usuarios puedan escuchar la transmisión en tiempo real"
+    "company": "at Make It Happen",
+    "description": "I developed a SPA platform for an international Christian ministry. I used Angular for the platform development, Firebase for hosting, and set up hosting with Hostinger. I created a form for users to anonymously send their messages to contact professional counselors, and connected the ministry's official radio so that users can listen to the live broadcast"
   },
   {
     "title": "Web Developer",
-    "company": "Hoenixer",
-    "description": "Más de 2 años experiencia en tecnologías para el desarollo web. He desarrollado proyectos personales, proyectos en conjunto y he realizado servicios de freelance para empresas, entidades y personas para impulsar su marca y/o emprendimiento"
+    "company": "as Freelance",
+    "description": "More than 2 years of experience in web development technologies. I have developed personal projects, collaborated on team projects, and provided freelance services for companies, organizations, and individuals to boost their brand and/or entrepreneurship"
   }
   ],
   "education": [
     {
-      "school": "Codo a Codo 4.0",
+      "school": "Codo a Codo",
       "title": "Full-Stack JavaScript Development"
     },
     {

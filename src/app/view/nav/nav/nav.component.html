@@ -18,10 +18,10 @@
       </div>
     </div>
     <div class="navbar-container">
-      <select name="" id="">
-        <option value="en"><img src="../../../../assets/lang/us.svg" alt="">ENG</option>
-        <option value="es"><img src="" alt="">ESP</option>
-        <option value="pt"><img src="" alt="">POR</option>
+      <select name="" id="" (change)="onChangeLanguage($event)">
+        <option value="spanish">SPANISH</option>
+        <option value="english">ENGLISH</option>
+        <option value="portuguese">PORTUGUESE</option>
       </select>
       <div>
         <a routerLink="/home" class="navbar-items">Home</a>

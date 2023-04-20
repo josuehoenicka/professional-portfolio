@@ -6,18 +6,20 @@ import { PortfolioService } from 'src/app/services/portfolio.service';
   templateUrl: './about.component.html',
   styleUrls: ['./about.component.scss']
 })
-
 export class AboutComponent implements OnInit {
-  name:any;
-  experience:any;
-  certification:any;
-  constructor(private check:PortfolioService) { }
+
+  name: any;
+  experience: any;
+  certification: any;
+
+  constructor(private portfolioService: PortfolioService) {}
 
   ngOnInit(): void {
-    this.check.test().subscribe(data => {
-      this.name=data;
-      this.experience=data.experience;
-      this.certification=data.education;
+    this.portfolioService.languageData.subscribe(data => {
+      this.name = data;
+      this.experience = data.experience;
+      this.certification = data.education;
     });
   }
+
 }

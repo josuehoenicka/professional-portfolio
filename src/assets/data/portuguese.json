@@ -1,0 +1,179 @@
+{
+  "photo": "../../../assets/personal/logo.jpg",
+	"nameUser": "Josue Hoenicka",
+  "ocupation": "Desenvolvedor",
+  "github": "https://github.com/angular",
+  "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
+  "gmail": "mailto:josuee.vzla@gmail.com",
+  "experience": [{
+    "title": "Angular Developer",
+    "company": "Thecodebash",
+    "description": "Junto con las tecnologías Angular, Flask, MongoDB y Firebase trabajo con mi equipo en el desarrollo de una plataforma e-commerce. Construí toda la estructura del lado del cliente, realice una migración dentro del proyecto que consistió en migrar un proyecto estático a un SPA con la integración de Angular y realicé una conexión a nuestra API creada con Flask. Actualmente con mi equipo estamos desarrollando la lógica de los templates y formando la comunidad futura de Thecodebash"
+  },
+  {
+    "title": "Angular Developer",
+    "company": "Make It Happen",
+    "description": "Derrollé una plataforma SPA para un ministerio internacional cristiano. Utilicé Angular para el desarrollo de la plataforma, Firebase para el hosting y configuré el hosting con la plataforma Hostinger. Creé un formulario para que los usuarios puedan enviar sus mensajes anónimamente para contactar con consejeros profesionales, y conecté la radio oficial del ministerio para que sus usuarios puedan escuchar la transmisión en tiempo real"
+  },
+  {
+    "title": "Web Developer",
+    "company": "Hoenixer",
+    "description": "Más de 2 años experiencia en tecnologías para el desarollo web. He desarrollado proyectos personales, proyectos en conjunto y he realizado servicios de freelance para empresas, entidades y personas para impulsar su marca y/o emprendimiento"
+  }
+  ],
+  "education": [
+    {
+      "school": "Codo a Codo 4.0",
+      "title": "Full-Stack JavaScript Development"
+    },
+    {
+      "school": "Universidad de Buenos Aires",
+      "title": "English for IT"
+    },
+    {
+      "school": "Platzi",
+      "title": "Full-Stack JavaScript Development"
+    },
+    {
+      "school": "freeCodeCamp",
+      "title": "JavaScript Algorithms & Data Structure"
+    },
+    {
+      "school": "freeCodeCamp",
+      "title": "Responsive Web Design"
+    },
+    {
+      "school": "Argentina Programa",
+      "title": "Full Stack Web Development"
+    },
+    {
+      "school": "Argentina Programa",
+      "title": "Introduction to Programming"
+    },
+    {
+      "school": "Universidad Nacional de Rosario",
+      "title": "Computer Science"
+    },
+    {
+      "school": "EEMPI N°3060 San Jorge",
+      "title": "High School"
+    }
+  ],
+  "languages": [
+  {
+    "img": "../../../assets/lang/es.svg",
+    "name": "Spanish",
+    "level": "FLUENT"
+  },
+  {
+    "img": "../../../assets/lang/br.svg",
+    "name": "Brazilian Portuguese",
+    "level": "FLUENT"
+  },
+  {
+    "img": "../../../assets/lang/us.svg",
+    "name": "English",
+    "level": "ADVANCED"
+  }
+  ],
+  "techs": [
+  {
+    "img": "../../../assets/tech/html.svg",
+    "title": "HTML5",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/css.svg",
+    "title": "CSS3",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/javascript.png",
+    "title": "JavaScript",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/typescript.png",
+    "title": "TypeScript",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/python.png",
+    "title": "Python",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/bootstrap.png",
+    "title": "Bootstrap",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/sass.png",
+    "title": "Sass",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/rxjs.png",
+    "title": "RxJS",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/angular.svg",
+    "title": "Angular",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/docker.png",
+    "title": "Docker",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/mysql.png",
+    "title": "MySQL",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/mongodb.svg",
+    "title": "MongoDB",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/nodejs.png",
+    "title": "NodeJS",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/firebase.png",
+    "title": "Firebase",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/git.png",
+    "title": "Git",
+    "level": "Sí"
+  }
+  ],
+  "projects": [
+    {
+      "title": "Hackenicka",
+      "description": "Portfolio",
+      "techs": "Angular",
+      "link_github": "https://github.com/josuehoenicka/hackenicka",
+      "link_google": "https://hackenicka.firebaseapp.com/home"
+    },
+    {
+      "title": "Thecodebash",
+      "description": "Ecommerce Store",
+      "techs": "Angular / Flask / MongoDB",
+      "link_github": "https://github.com/Thecodebash",
+      "link_google": "/projects/working"
+    },
+    {
+      "title": "Dexcarriados",
+      "description": "Christian Platform",
+      "techs": "Angular / Firebase",
+      "link_github": "https://github.com/josuehoenicka/dexcarriadosanonymous",
+      "link_google": "https://dexcarriadosanonymous.com"
+    }
+  ]
+}
