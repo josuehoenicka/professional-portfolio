@@ -1,8 +1,17 @@
 {
+  "welcome": "Welcome to my portfolio",
+  "navbar": [
+    {"link": "Home", "router": "home"},
+    {"link": "About me", "router": "about"},
+    {"link": "Skills","router": "skills"},
+    {"link": "Experience", "router": "projects"},
+    {"link": "Contact", "router": "contact"}
+  ],
+  "contract": "Contract me",
   "photo": "../../../assets/personal/logo.jpg",
-	"nameUser": "Josue Hoenicka",
+	"name": "Josue Hoenicka",
   "ocupation": "Developer / Polyglot",
-  "github": "https://github.com/angular",
+  "github": "https://github.com/josuehoenicka",
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
   "gmail": "mailto:josuee.vzla@gmail.com",
   "experience": [{

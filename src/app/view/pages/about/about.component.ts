@@ -8,7 +8,7 @@ import { PortfolioService } from 'src/app/services/portfolio.service';
 })
 export class AboutComponent implements OnInit {
 
-  name: any;
+  josuehoenicka: any;
   experience: any;
   certification: any;
 
@@ -16,7 +16,7 @@ export class AboutComponent implements OnInit {
 
   ngOnInit(): void {
     this.portfolioService.languageData.subscribe(data => {
-      this.name = data;
+      this.josuehoenicka = data;
       this.experience = data.experience;
       this.certification = data.education;
     });

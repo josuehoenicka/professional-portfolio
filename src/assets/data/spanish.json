@@ -1,6 +1,15 @@
 {
+  "welcome": "Bienvenido a mi portafolio",
+  "navbar": [
+    {"link": "Inicio", "router": "home"},
+    {"link": "Sobre mí", "router": "about"},
+    {"link": "Habilidades", "router": "skills"},
+    {"link": "Experiencia", "router": "projects"},
+    {"link": "Contacto", "router": "contract"}
+  ],
+  "contract": "Contrátame",
   "photo": "../../../assets/personal/logo.jpg",
-	"nameUser": "Josue Hoenicka",
+	"name": "Josue Hoenicka",
   "ocupation": "Programador",
   "github": "https://github.com/josuehoenicka",
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",

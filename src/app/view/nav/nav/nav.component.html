@@ -19,17 +19,13 @@
     </div>
     <div class="navbar-container">
       <select name="" id="" (change)="onChangeLanguage($event)">
-        <option value="spanish">SPANISH</option>
         <option value="english">ENGLISH</option>
+        <option value="spanish">SPANISH</option>
         <option value="portuguese">PORTUGUESE</option>
       </select>
       <div>
-        <a routerLink="/home" class="navbar-items">Home</a>
-        <a routerLink="/about" class="navbar-items">About me</a>
-        <a routerLink="/skills" class="navbar-items">Skills</a>
-        <a routerLink="/projects" class="navbar-items">Experience</a>
-        <a routerLink="/contact" class="navbar-items">Contact</a>
-        <a routerLink="/register" class="btn-navbar">Contract me</a>
+        <a *ngFor="let i of josuehoenicka.navbar" routerLink="/{{i.router}}" class="navbar-items">{{i.link}}</a>
+        <a routerLink="/contract" class="btn-navbar">{{josuehoenicka.contract}}</a>
       </div>
     </div>
 </nav>

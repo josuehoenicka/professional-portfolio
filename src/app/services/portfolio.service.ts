@@ -7,7 +7,7 @@ import { BehaviorSubject, Observable } from 'rxjs';
 })
 export class PortfolioService {
 
-  private defaultUrl = './assets/data/spanish.json';
+  private defaultUrl = './assets/data/english.json';
   languageData = new BehaviorSubject<any>({});
 
   constructor(private http: HttpClient) {

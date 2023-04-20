@@ -8,9 +8,16 @@ import { PortfolioService } from 'src/app/services/portfolio.service';
 })
 export class NavComponent  {
 
+  josuehoenicka: any;
   activeMenu = false;
 
   constructor(private portfolioService: PortfolioService) {}
+
+  ngOnInit(): void {
+    this.portfolioService.languageData.subscribe(data => {
+      this.josuehoenicka = data;
+    });
+  }
 
   onChangeLanguage(event: any) {
     const language = event.target.value;

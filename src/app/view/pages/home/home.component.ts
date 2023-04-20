@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { PortfolioService } from 'src/app/services/portfolio.service';
 
 @Component({
   selector: 'app-home',
@@ -7,9 +8,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HomeComponent implements OnInit {
 
-  constructor() { }
+  josuehoenicka: any;
+
+  constructor(private portfolioService: PortfolioService) {}
 
   ngOnInit(): void {
+    this.portfolioService.languageData.subscribe(data => {
+      this.josuehoenicka = data;
+    });
   }
 
 }
