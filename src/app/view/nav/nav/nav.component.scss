@@ -21,9 +21,10 @@ nav {
   align-items: center;
   justify-content: space-between;
   select {
+    text-align: justify;
     color: var(--white-off);
-    font-size: 2.5em;
-    margin-left: 0.5em;
+    font-size: 2.25em;
+    margin-left: .5em;
     padding: 0.2em 1.25em;
     font-weight: bold;
     transition: 0.5s;
@@ -31,10 +32,6 @@ nav {
     border-radius: 2em;
     -webkit-appearance: none;
     -moz-appearance: none;
-    appearance: none;
-    padding-right: 20px;
-    background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"><path d="M22.5 10L15 17.5 7.5 10"/></svg>') no-repeat right center; /* This sets a custom background image for the dropdown indicator */
-    background-size: 20px;
   }
   select::-ms-expand {
     display: none;

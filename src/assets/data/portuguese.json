@@ -19,18 +19,18 @@
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
   "gmail": "mailto:josuee.vzla@gmail.com",
   "experience": [{
-    "title": "Desenvolvedor Angular",
-    "company": "Thecodebash",
+    "title": "Angular Developer",
+    "company": "no Thecodebash",
     "description": "Junto com as tecnologias Angular, Flask, MongoDB e Firebase, trabalho com minha equipe no desenvolvimento de uma plataforma e-commerce. Construí toda a estrutura do lado do cliente, realizei uma migração dentro do projeto que consistiu em migrar um projeto estático para um SPA com a integração do Angular e realizei uma conexão com a nossa API criada com Flask. Atualmente, com minha equipe, estamos desenvolvendo a lógica dos templates e formando a comunidade futura da Thecodebash."
     },
     {
-    "title": "Desenvolvedor Angular",
-    "company": "Make It Happen",
+    "title": "Angular Developer",
+    "company": "no Make It Happen",
     "description": "Desenvolvi uma plataforma SPA para um ministério internacional cristão. Utilizei o Angular para o desenvolvimento da plataforma, o Firebase para o hosting e configurei o hosting com a plataforma Hostinger. Criei um formulário para que os usuários possam enviar suas mensagens anonimamente para entrar em contato com conselheiros profissionais e conectei a rádio oficial do ministério para que seus usuários possam ouvir a transmissão em tempo real."
     },
     {
     "title": "Desenvolvedor Web",
-    "company": "Hoenixer",
+    "company": "Independente",
     "description": "Mais de 2 anos de experiência em tecnologias para o desenvolvimento web. Desenvolvi projetos pessoais, projetos em conjunto e prestei serviços de freelancer para empresas, entidades e pessoas para impulsionar suas marcas e/ou empreendimentos."
     }],
   "education": [
