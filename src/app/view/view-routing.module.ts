@@ -1,10 +1,7 @@
-import { UserModule } from './../user/user.module';
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
-import { LoginComponent } from './auth/login/login.component';
-import { RegisterComponent } from './auth/register/register.component';
-
+import { RegisterComponent } from './pages/register/register.component';
 import { AboutComponent } from './pages/about/about.component';
 import { ArgprogComponent } from './pages/argprog/argprog.component';
 import { ContactComponent } from './pages/contact/contact.component';
@@ -44,21 +41,13 @@ const routes: Routes = [
     component: ContactComponent
   },
   {
-    path: 'login',
-    component: LoginComponent
-  },
-  {
     path: 'register',
     component: RegisterComponent
-  },
-  {
-    path: 'user',
-    loadComponent: () => import('../user/user.module').then(m => m.UserModule)
   }
 ];
 
 @NgModule({
-  imports: [RouterModule.forChild(routes), UserModule],
+  imports: [RouterModule.forChild(routes)],
   exports: [RouterModule]
 })
 export class ViewRoutingModule { }
