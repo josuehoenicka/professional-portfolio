@@ -109,18 +109,18 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/python.png",
-    "title": "Python",
-    "level": "No"
-  },
-  {
     "img": "../../../assets/tech/dart.svg",
     "title": "Dart",
     "level": "No"
   },
   {
-    "img": "../../../assets/tech/firebase.png",
-    "title": "Firebase",
+    "img": "../../../assets/tech/python.png",
+    "title": "Python",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/bootstrap.png",
+    "title": "Bootstrap",
     "level": "Sí"
   },
   {
@@ -139,14 +139,14 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/tensorflow.png",
-    "title": "Tensorflow",
-    "level": "No"
-  },
-  {
     "img": "../../../assets/tech/flutter.svg",
     "title": "Flutter",
     "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/firebase.png",
+    "title": "Firebase",
+    "level": "Sí"
   },
   {
     "img": "../../../assets/tech/mysql.png",
@@ -159,6 +159,11 @@
     "level": "Sí"
   },
   {
+    "img": "../../../assets/tech/docker.png",
+    "title": "Docker",
+    "level": "No"
+  },
+  {
     "img": "../../../assets/tech/nodejs.png",
     "title": "NodeJS",
     "level": "Sí"
@@ -169,14 +174,9 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/git.png",
-    "title": "Git",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/docker.png",
-    "title": "Docker",
-    "level": "Sí"
+    "img": "../../../assets/tech/tensorflow.png",
+    "title": "Tensorflow",
+    "level": "No"
   }
   ],
   "projects": [

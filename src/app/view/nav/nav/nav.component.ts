@@ -31,8 +31,8 @@ export class NavComponent  {
   downloadCV() {
     const link = document.createElement('a');
     link.setAttribute('target', '_blank');
-    link.setAttribute('href', '../../../assets/personal/josuehoenicka.jpg');
-    link.setAttribute('download', 'josuehoenicka.jpg');
+    link.setAttribute('href', '../../../assets/personal/resume.pdf');
+    link.setAttribute('download', 'resume.pdf');
     link.click();
   }
 
