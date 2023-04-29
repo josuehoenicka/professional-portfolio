@@ -1,4 +1,7 @@
 {
+  "config" : {
+    "lang": "SPANISH"
+  },
   "welcome": "Bienvenido a mi portafolio",
   "slidetext": "Haz click para deslizar",
   "navbar": [
@@ -146,9 +149,9 @@
     "level": "No"
   },
   {
-    "img": "../../../assets/tech/firebase.png",
-    "title": "Firebase",
-    "level": "Sí"
+    "img": "../../../assets/tech/tensorflow.png",
+    "title": "Tensorflow",
+    "level": "No"
   },
   {
     "img": "../../../assets/tech/mysql.png",
@@ -161,9 +164,9 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/docker.png",
-    "title": "Docker",
-    "level": "No"
+    "img": "../../../assets/tech/firebase.png",
+    "title": "Firebase",
+    "level": "Sí"
   },
   {
     "img": "../../../assets/tech/nodejs.png",
@@ -173,11 +176,11 @@
   {
     "img": "../../../assets/tech/expressjs.png",
     "title": "ExpressJS",
-    "level": "Sí"
+    "level": "No"
   },
   {
-    "img": "../../../assets/tech/tensorflow.png",
-    "title": "Tensorflow",
+    "img": "../../../assets/tech/docker.png",
+    "title": "Docker",
     "level": "No"
   }
   ],

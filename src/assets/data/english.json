@@ -1,4 +1,7 @@
 {
+  "config" : {
+    "lang": "ENGLISH"
+  },
   "welcome": "Welcome to my portfolio",
   "slidetext": "Click to slide",
   "navbar": [

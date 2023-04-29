@@ -21,11 +21,11 @@ nav {
   align-items: center;
   justify-content: space-between;
   select {
-    text-align: justify;
+    text-align:center;
     color: var(--white-off);
-    font-size: 2.25em;
+    font-size: 2.5em;
     margin-left: .5em;
-    padding: 0.2em 1.25em;
+    padding: 0 .5em;
     font-weight: bold;
     transition: 0.5s;
     cursor: pointer;
@@ -39,6 +39,10 @@ nav {
   select:focus {
     outline: none;
     box-shadow: none;
+  }
+  option[disabled] {
+    color: #000000;
+    background-color: #808080 !important;
   }
   .navbar-title:hover {
     color: var(--white-on);
@@ -138,6 +142,35 @@ nav {
     font-family: 'Amatic SC', cursive;
     font-size: 3.2em;
     color: var(--white-on);
+  }
+  select {
+    text-align:center;
+    color: var(--white-off);
+    font-size: 2.5em;
+    margin-left: .5em;
+    padding: 0 .5em;
+    font-weight: bold;
+    transition: 0.5s;
+    cursor: pointer;
+    border-radius: 2em;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+  }
+  select::-ms-expand {
+    display: none;
+  }
+  select:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  option {
+    text-align: center;
+    padding: 0 0;
+    font-size: .6em;
+  }
+  option[disabled] {
+    color: #000000;
+    background-color: #808080 !important;
   }
 }
 

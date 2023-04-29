@@ -4,7 +4,12 @@
         <button (click)="toggleMenu()" [class.active]="activeMenu">
           <img src="../../../../assets/items/nav.svg" alt="menu">
         </button>
-        <p class="nav-name" routerLink="/home">Josue Hoenicka</p>
+        <select name="" id="" (change)="onChangeLanguage($event)">
+          <option disabled selected class="option-first">{{josuehoenicka.config.lang}}</option>
+          <option value="english">ENGLISH</option>
+          <option value="spanish">SPANISH</option>
+          <option value="portuguese">PORTUGUESE</option>
+        </select>
       </div>
       <div class="side-menu" [class.active]="activeMenu">
         <button (click)="toggleMenu()">X</button>
@@ -19,7 +24,7 @@
     </div>
     <div class="navbar-container">
       <select name="" id="" (change)="onChangeLanguage($event)">
-        <option disabled selected class="option-first">CHANGE LANGUAGE</option>
+        <option disabled selected class="option-first">{{josuehoenicka.config.lang}}</option>
         <option value="english">ENGLISH</option>
         <option value="spanish">SPANISH</option>
         <option value="portuguese">PORTUGUESE</option>

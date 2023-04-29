@@ -1,4 +1,7 @@
 {
+  "config" : {
+    "lang": "PORTUGUESE"
+  },
   "welcome": "Bem-vindo ao meu portfólio",
   "slidetext": "Clique para deslizar",
   "navbar": [
