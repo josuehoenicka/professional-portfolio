@@ -2,6 +2,12 @@
   "config" : {
     "lang": "PORTUGUESE"
   },
+  "navmobile": {
+    "about": "Sobre mim",
+    "skills": "Habilidades",
+    "contact": "Contato",
+    "resume": "Currículo"
+  },
   "welcome": "Bem-vindo ao meu portfólio",
   "slidetext": "Clique para deslizar",
   "navbar": [
@@ -11,7 +17,7 @@
     {"link": "Contato", "router": "contact"}
   ],
   "contract": "Currículo",
-  "photo": "../../../assets/personal/josuehoenicka.jpg",
+  "photo": "../../../assets/personal/josuehoenicka.jpeg",
 	"name": "Josue Hoenicka",
   "ocupation": "Desenvolvedor / Poliglota",
   "about": {
@@ -21,20 +27,26 @@
   "github": "https://github.com/josuehoenicka",
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
   "gmail": "mailto:josuee.vzla@gmail.com",
-  "experience": [{
+  "experience": [
+    {
     "title": "Angular Developer",
     "company": "no Thecodebash",
-    "description": "Junto com as tecnologias Angular, Flask, MongoDB e Firebase, trabalho com minha equipe no desenvolvimento de uma plataforma e-commerce. Construí toda a estrutura do lado do cliente, realizei uma migração dentro do projeto que consistiu em migrar um projeto estático para um SPA com a integração do Angular e realizei uma conexão com a nossa API criada com Flask. Atualmente, com minha equipe, estamos desenvolvendo a lógica dos templates e formando a comunidade futura da Thecodebash."
+    "description": "Junto com minha equipe, trabalho em uma plataforma de e-commerce utilizando as tecnologias Angular, Flask e MongoDB. Desenvolvi o design e a estrutura do lado do cliente, realizei uma migração dentro do projeto que consistiu em migrar um projeto estático HTML/CSS/JavaScript para Angular/SCSS, e também fiz requisições HTTP e autenticação em Angular para a nossa API criada em Flask. Atualmente, continuo trabalhando com minha equipe para implementar melhorias antes do nosso primeiro lançamento"
     },
     {
     "title": "Angular Developer",
     "company": "no Make It Happen",
-    "description": "Desenvolvi uma plataforma SPA para um ministério internacional cristão. Utilizei o Angular para o desenvolvimento da plataforma, o Firebase para o hosting e configurei o hosting com a plataforma Hostinger. Criei um formulário para que os usuários possam enviar suas mensagens anonimamente para entrar em contato com conselheiros profissionais e conectei a rádio oficial do ministério para que seus usuários possam ouvir a transmissão em tempo real."
+    "description": "Desenvolvi uma aplicação de página única (SPA) para um ministério cristão internacional. Utilizei Angular para o desenvolvimento da plataforma e configurei o hospedagem no Firebase com a plataforma Hostinger. Criei um formulário para que os usuários possam enviar mensagens anonimamente para entrar em contato com conselheiros profissionais, e conectei o rádio oficial do ministério para que os usuários possam ouvir a transmissão em tempo real"
+    },
+    {
+      "title": "Desenvolvedor Angular",
+      "company": "na L.E.R",
+      "description": "Desenvolvi um aplicativo utilizando HTML, CSS e JavaScript para a equipe de Appointment Setters em uma startup colombiana chamada La Estamos Rompiendo (L.E.R). Este aplicativo foi projetado para fornecer aos funcionários uma maneira simples e eficiente de gerenciar e acompanhar diversos dados importantes em seu trabalho diário. Os funcionários podem inserir e acompanhar informações cruciais como follow-ups, novos chats inbound, novos chats outbound, chamadas propostas, novas reservas, show ups e vendas efetivas. A plataforma inclui uma função que permite que eles baixem os dados no formato TXT para uso posterior em seu Customer Relationship Management (CRM). O aplicativo foi uma solução personalizada que melhorou a eficiência e a precisão no acompanhamento dos principais dados para a equipe de appointment setters."
     },
     {
     "title": "Desenvolvedor Web",
     "company": "Independente",
-    "description": "Mais de 2 anos de experiência em tecnologias para o desenvolvimento web. Desenvolvi projetos pessoais, projetos em conjunto e prestei serviços de freelancer para empresas, entidades e pessoas para impulsionar suas marcas e/ou empreendimentos."
+    "description": "Mais de 2 anos de experiência em tecnologias para desenvolvimento web. Desenvolvi projetos pessoais, projetos em parceria e forneci serviços freelance para empresas, entidades e pessoas para impulsionar suas marcas e/ou empreendimentos"
     }],
   "education": [
     {
@@ -91,96 +103,96 @@
   }
   ],
   "techs": [
-  {
-    "img": "../../../assets/tech/html.svg",
-    "title": "HTML5",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/css.svg",
-    "title": "CSS3",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/javascript.png",
-    "title": "JavaScript",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/typescript.png",
-    "title": "TypeScript",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/dart.svg",
-    "title": "Dart",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/python.png",
-    "title": "Python",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/bootstrap.png",
-    "title": "Bootstrap",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/sass.png",
-    "title": "Sass",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/rxjs.png",
-    "title": "RxJS",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/angular.svg",
-    "title": "Angular",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/flutter.svg",
-    "title": "Flutter",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/firebase.png",
-    "title": "Firebase",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/mysql.png",
-    "title": "MySQL",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/mongodb.svg",
-    "title": "MongoDB",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/docker.png",
-    "title": "Docker",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/nodejs.png",
-    "title": "NodeJS",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/expressjs.png",
-    "title": "ExpressJS",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/tensorflow.png",
-    "title": "Tensorflow",
-    "level": "No"
-  }
+    {
+      "img": "../../../assets/tech/html.svg",
+      "title": "HTML5",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/css.svg",
+      "title": "CSS3",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/javascript.png",
+      "title": "JavaScript",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/typescript.png",
+      "title": "TypeScript",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/dart.svg",
+      "title": "Dart",
+      "level": "No"
+    },
+    {
+      "img": "../../../assets/tech/python.png",
+      "title": "Python",
+      "level": "No"
+    },
+    {
+      "img": "../../../assets/tech/bootstrap.png",
+      "title": "Bootstrap",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/sass.png",
+      "title": "Sass",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/rxjs.png",
+      "title": "RxJS",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/angular.svg",
+      "title": "Angular",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/flutter.svg",
+      "title": "Flutter",
+      "level": "No"
+    },
+    {
+      "img": "../../../assets/tech/tensorflow.png",
+      "title": "Tensorflow",
+      "level": "No"
+    },
+    {
+      "img": "../../../assets/tech/mysql.png",
+      "title": "MySQL",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/mongodb.svg",
+      "title": "MongoDB",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/firebase.png",
+      "title": "Firebase",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/nodejs.png",
+      "title": "NodeJS",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/expressjs.png",
+      "title": "ExpressJS",
+      "level": "No"
+    },
+    {
+      "img": "../../../assets/tech/docker.png",
+      "title": "Docker",
+      "level": "No"
+    }
   ],
   "projects": [
     {

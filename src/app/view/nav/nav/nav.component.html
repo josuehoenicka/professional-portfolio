@@ -14,11 +14,10 @@
       <div class="side-menu" [class.active]="activeMenu">
         <button (click)="toggleMenu()">X</button>
         <ul>
-          <li><a routerLink="/about">About me</a></li>
-          <li><a routerLink="/skills">Skills</a></li>
-          <li><a routerLink="/projects">Experience</a></li>
-          <li><a routerLink="/contact">Contact</a></li>
-          <li><a href="../../../../assets/personal/cv.pdf">CV</a></li>
+          <li><a routerLink="/about">{{josuehoenicka.navmobile.about}}</a></li>
+          <li><a routerLink="/skills">{{josuehoenicka.navmobile.skills}}</a></li>
+          <li><a routerLink="/contact">{{josuehoenicka.navmobile.contact}}</a></li>
+          <li><a href="../../../../assets/personal/resume.pdf">{{josuehoenicka.navmobile.resume}}</a></li>
         </ul>
       </div>
     </div>

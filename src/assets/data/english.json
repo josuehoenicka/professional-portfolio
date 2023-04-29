@@ -2,6 +2,12 @@
   "config" : {
     "lang": "ENGLISH"
   },
+  "navmobile": {
+    "about": "About me",
+    "skills": "Skills",
+    "contact": "Contact",
+    "resume": "Resume"
+  },
   "welcome": "Welcome to my portfolio",
   "slidetext": "Click to slide",
   "navbar": [
@@ -15,26 +21,32 @@
     "education": "EDUCATION"
   },
   "contract": "Resume",
-  "photo": "../../../assets/personal/josuehoenicka.jpg",
+  "photo": "../../../assets/personal/josuehoenicka.jpeg",
 	"name": "Josue Hoenicka",
   "ocupation": "Developer / Polyglot",
   "github": "https://github.com/josuehoenicka",
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
   "gmail": "mailto:josuee.vzla@gmail.com",
-  "experience": [{
+  "experience": [
+    {
     "title": "Angular Developer",
     "company": "at Thecodebash",
-    "description": "Together with the Angular, Flask, MongoDB, and Firebase technologies, I work with my team in the development of an e-commerce platform. I built the entire client-side structure, performed a migration within the project that consisted of migrating a static project to an SPA with the integration of Angular, and established a connection to our API created with Flask. Currently, with my team, we are developing the logic for the templates and building the future community of Thecodebash"
+    "description": "Alongside my team, I work on an e-commerce platform using Angular, Flask, and MongoDB technologies. I developed the client-side design and structure, performed a migration within the project, which involved transitioning a static HTML/CSS/JavaScript project to Angular/SCSS. I also made HTTP requests and implemented authentication in Angular for our Flask-created API. Currently, I continue to work with my team to implement improvements before our first launch"
   },
   {
     "title": "Angular Developer",
     "company": "at Make It Happen",
-    "description": "I developed a SPA platform for an international Christian ministry. I used Angular for the platform development, Firebase for hosting, and set up hosting with Hostinger. I created a form for users to anonymously send their messages to contact professional counselors, and connected the ministry's official radio so that users can listen to the live broadcast"
+    "description": "I developed a Single Page Application (SPA) for an international Christian ministry. I used Angular for the platform's development and set up hosting on Firebase with Hostinger platform. I created a form that allows users to anonymously submit messages to contact professional counselors, and I connected the ministry's official radio for users to listen to real-time broadcasts"
   },
   {
-    "title": "Web Developer",
-    "company": "as Freelance",
-    "description": "More than 2 years of experience in web development technologies. I have developed personal projects, collaborated on team projects, and provided freelance services for companies, organizations, and individuals to boost their brand and/or entrepreneurship"
+    "title": "Angular Developer",
+    "company": "at L.E.R",
+    "description": "I developed an application using HTML, CSS, and JavaScript for the Appointment Setters team at a Colombian startup called La Estamos Rompiendo (L.E.R). This application was designed to provide employees with a simple and efficient way to manage and track various important data in their daily work. Employees can enter and track crucial information such as follow-ups, new inbound chats, new outbound chats, proposed calls, new bookings, show-ups, and effective sales. The platform includes a feature that allows them to download the data in TXT format for later use in their Customer Relationship Management (CRM). The application was a customized solution that improved efficiency and accuracy in tracking key data for the appointment setters team."
+  },
+  {
+    "title": "Freelance",
+    "company": "Web Developer",
+    "description": "Over 2 years of experience in web development technologies. I have worked on personal projects, collaborated on joint projects, and provided freelance services to companies, organizations, and individuals to boost their brand and/or entrepreneurship"
   }
   ],
   "education": [
@@ -93,96 +105,96 @@
   }
   ],
   "techs": [
-  {
-    "img": "../../../assets/tech/html.svg",
-    "title": "HTML5",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/css.svg",
-    "title": "CSS3",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/javascript.png",
-    "title": "JavaScript",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/typescript.png",
-    "title": "TypeScript",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/dart.svg",
-    "title": "Dart",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/python.png",
-    "title": "Python",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/bootstrap.png",
-    "title": "Bootstrap",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/sass.png",
-    "title": "Sass",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/rxjs.png",
-    "title": "RxJS",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/angular.svg",
-    "title": "Angular",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/flutter.svg",
-    "title": "Flutter",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/firebase.png",
-    "title": "Firebase",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/mysql.png",
-    "title": "MySQL",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/mongodb.svg",
-    "title": "MongoDB",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/docker.png",
-    "title": "Docker",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/nodejs.png",
-    "title": "NodeJS",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/expressjs.png",
-    "title": "ExpressJS",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/tensorflow.png",
-    "title": "Tensorflow",
-    "level": "No"
-  }
+    {
+      "img": "../../../assets/tech/html.svg",
+      "title": "HTML5",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/css.svg",
+      "title": "CSS3",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/javascript.png",
+      "title": "JavaScript",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/typescript.png",
+      "title": "TypeScript",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/dart.svg",
+      "title": "Dart",
+      "level": "No"
+    },
+    {
+      "img": "../../../assets/tech/python.png",
+      "title": "Python",
+      "level": "No"
+    },
+    {
+      "img": "../../../assets/tech/bootstrap.png",
+      "title": "Bootstrap",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/sass.png",
+      "title": "Sass",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/rxjs.png",
+      "title": "RxJS",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/angular.svg",
+      "title": "Angular",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/flutter.svg",
+      "title": "Flutter",
+      "level": "No"
+    },
+    {
+      "img": "../../../assets/tech/tensorflow.png",
+      "title": "Tensorflow",
+      "level": "No"
+    },
+    {
+      "img": "../../../assets/tech/mysql.png",
+      "title": "MySQL",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/mongodb.svg",
+      "title": "MongoDB",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/firebase.png",
+      "title": "Firebase",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/nodejs.png",
+      "title": "NodeJS",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/expressjs.png",
+      "title": "ExpressJS",
+      "level": "No"
+    },
+    {
+      "img": "../../../assets/tech/docker.png",
+      "title": "Docker",
+      "level": "No"
+    }
   ],
   "projects": [
     {

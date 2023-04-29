@@ -2,6 +2,12 @@
   "config" : {
     "lang": "SPANISH"
   },
+  "navmobile": {
+    "about": "Sobre mí",
+    "skills": "Habilidades",
+    "contact": "Contacto",
+    "resume": "Curriculum"
+  },
   "welcome": "Bienvenido a mi portafolio",
   "slidetext": "Haz click para deslizar",
   "navbar": [
@@ -11,7 +17,7 @@
     {"link": "Contacto", "router": "contact"}
   ],
   "contract": "Curriculum",
-  "photo": "../../../assets/personal/josuehoenicka.jpg",
+  "photo": "../../../assets/personal/josuehoenicka.jpeg",
 	"name": "Josue Hoenicka",
   "ocupation": "Programador / Poliglota",
   "about": {
@@ -24,12 +30,17 @@
   "experience": [{
     "title": "Angular Developer",
     "company": "en Thecodebash",
-    "description": "Junto con las tecnologías Angular, Flask, MongoDB y Firebase trabajo con mi equipo en el desarrollo de una plataforma e-commerce. Construí toda la estructura del lado del cliente, realice una migración dentro del proyecto que consistió en migrar un proyecto estático a un SPA con la integración de Angular y realicé una conexión a nuestra API creada con Flask. Actualmente con mi equipo estamos desarrollando la lógica de los templates y formando la comunidad futura de Thecodebash"
+    "description": "Junto con mi equipo trabajo en una plataforma e-commerce con las tecnologías Angular, Flask y MongoDB. Desarrollé el diseño y estructura del lado del cliente, realicé una migración dentro del proyecto que consistió en migrar un proyecto estático HTML/CSS/JavaScript para Angular/SCSS, y también realicé peticiones http y auth en Angular a nuestra API creada en Flask. Actualmente sigo trabajando con mi equipo para implementar mejoras antes de nuestro primer lanzamiento"
   },
   {
     "title": "Angular Developer",
     "company": "en Make It Happen",
-    "description": "Derrollé una plataforma SPA para un ministerio internacional cristiano. Utilicé Angular para el desarrollo de la plataforma, Firebase para el hosting y configuré el hosting con la plataforma Hostinger. Creé un formulario para que los usuarios puedan enviar sus mensajes anónimamente para contactar con consejeros profesionales, y conecté la radio oficial del ministerio para que sus usuarios puedan escuchar la transmisión en tiempo real"
+    "description": "Derrollé una plataforma SPA para un ministerio internacional cristiano. Utilicé Angular para el desarrollo de la plataforma y configuré el hosting de Firebase con la plataforma Hostinger. Creé un formulario para que los usuarios puedan enviar sus mensajes anónimamente para contactar con consejeros profesionales, y conecté la radio oficial del ministerio para que sus usuarios puedan escuchar la transmisión en tiempo real"
+  },
+  {
+    "title": "Angular Developer",
+    "company": "en L.E.R",
+    "description": "Desarrollé una aplicación utilizando HTML, CSS y JavaScript para el equipo de Appointment Setters en una startup colombiana llamada La Estamos Rompiendo (L.E.R). Esta aplicación fue diseñada para proporcionar a los empleados una forma sencilla y eficiente de administrar y dar seguimiento a diversos datos importantes en su trabajo diario. Los empleados podrán ingresar y rastrear información crucial (follow-ups, nuevos chats inbound, nuevos chats outbund, calls proposed, new bookings, show ups y sales efective). La plataforma incluyé la función que les permite descargar los datos en formato TXT para su posterior uso en su Customer Relationship Management (CRM). La aplicación fue una solución personalizada que mejoró la eficiencia y la precisión en el seguimiento de los datos clave para el equipo de appointment setters"
   },
   {
     "title": "Desarrollador Web",
