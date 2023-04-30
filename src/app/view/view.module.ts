@@ -10,7 +10,6 @@ import { ContactComponent } from './pages/contact/contact.component';
 import { NavComponent } from './nav/nav/nav.component';
 import { RegisterComponent } from './pages/register/register.component';
 import { FormsModule } from '@angular/forms';
-import { NotfoundComponent } from './pages/notfound/notfound.component';
 
 
 @NgModule({
@@ -21,8 +20,7 @@ import { NotfoundComponent } from './pages/notfound/notfound.component';
     ProjectsComponent,
     ContactComponent,
     NavComponent,
-    RegisterComponent,
-    NotfoundComponent
+    RegisterComponent
   ],
   imports: [
     CommonModule,

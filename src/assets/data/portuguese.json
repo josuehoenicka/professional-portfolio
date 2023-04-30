@@ -1,6 +1,6 @@
 {
   "config" : {
-    "lang": "PORTUGUESE"
+    "lang": "Mudar língua"
   },
   "navmobile": {
     "about": "Sobre mim",
@@ -39,7 +39,7 @@
     "description": "Desenvolvi uma aplicação de página única (SPA) para um ministério cristão internacional. Utilizei Angular para o desenvolvimento da plataforma e configurei o hospedagem no Firebase com a plataforma Hostinger. Criei um formulário para que os usuários possam enviar mensagens anonimamente para entrar em contato com conselheiros profissionais, e conectei o rádio oficial do ministério para que os usuários possam ouvir a transmissão em tempo real"
     },
     {
-      "title": "Desenvolvedor Angular",
+      "title": "Desenvolvedor Web",
       "company": "na L.E.R",
       "description": "Desenvolvi um aplicativo utilizando HTML, CSS e JavaScript para a equipe de Appointment Setters em uma startup colombiana chamada La Estamos Rompiendo (L.E.R). Este aplicativo foi projetado para fornecer aos funcionários uma maneira simples e eficiente de gerenciar e acompanhar diversos dados importantes em seu trabalho diário. Os funcionários podem inserir e acompanhar informações cruciais como follow-ups, novos chats inbound, novos chats outbound, chamadas propostas, novas reservas, show ups e vendas efetivas. A plataforma inclui uma função que permite que eles baixem os dados no formato TXT para uso posterior em seu Customer Relationship Management (CRM). O aplicativo foi uma solução personalizada que melhorou a eficiência e a precisão no acompanhamento dos principais dados para a equipe de appointment setters."
     },
@@ -196,22 +196,22 @@
   ],
   "projects": [
     {
-      "title": "Hackenicka",
-      "description": "Portfolio",
+      "title": "L.E.R",
+      "description": "Appointment Setter App",
       "techs": "Angular",
-      "link_github": "https://github.com/josuehoenicka/hackenicka",
-      "link_google": "https://hackenicka.firebaseapp.com/home"
+      "link_github": "https://github.com/josuehoenicka/laestamosrompiendo",
+      "link_google": "https://josuehoenicka.github.io/laestamosrompiendo"
     },
     {
       "title": "Thecodebash",
-      "description": "Ecommerce Store",
+      "description": "Ecommerce Plataform",
       "techs": "Angular / Flask / MongoDB",
       "link_github": "https://github.com/Thecodebash",
-      "link_google": "/projects/working"
+      "link_google": "https://thecodebash.web.app"
     },
     {
       "title": "Dexcarriados",
-      "description": "Christian Platform",
+      "description": "Christian Website",
       "techs": "Angular / Firebase",
       "link_github": "https://github.com/josuehoenicka/dexcarriadosanonymous",
       "link_google": "https://dexcarriadosanonymous.com"

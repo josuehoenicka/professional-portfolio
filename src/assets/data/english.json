@@ -1,6 +1,6 @@
 {
   "config" : {
-    "lang": "ENGLISH"
+    "lang": "Change language"
   },
   "navmobile": {
     "about": "About me",
@@ -39,7 +39,7 @@
     "description": "I developed a Single Page Application (SPA) for an international Christian ministry. I used Angular for the platform's development and set up hosting on Firebase with Hostinger platform. I created a form that allows users to anonymously submit messages to contact professional counselors, and I connected the ministry's official radio for users to listen to real-time broadcasts"
   },
   {
-    "title": "Angular Developer",
+    "title": "Web Developer",
     "company": "at L.E.R",
     "description": "I developed an application using HTML, CSS, and JavaScript for the Appointment Setters team at a Colombian startup called La Estamos Rompiendo (L.E.R). This application was designed to provide employees with a simple and efficient way to manage and track various important data in their daily work. Employees can enter and track crucial information such as follow-ups, new inbound chats, new outbound chats, proposed calls, new bookings, show-ups, and effective sales. The platform includes a feature that allows them to download the data in TXT format for later use in their Customer Relationship Management (CRM). The application was a customized solution that improved efficiency and accuracy in tracking key data for the appointment setters team."
   },
@@ -198,22 +198,22 @@
   ],
   "projects": [
     {
-      "title": "Hackenicka",
-      "description": "Portfolio",
+      "title": "L.E.R",
+      "description": "Appointment Setter App",
       "techs": "Angular",
-      "link_github": "https://github.com/josuehoenicka/hackenicka",
-      "link_google": "https://hackenicka.firebaseapp.com/home"
+      "link_github": "https://github.com/josuehoenicka/laestamosrompiendo",
+      "link_google": "https://josuehoenicka.github.io/laestamosrompiendo"
     },
     {
       "title": "Thecodebash",
-      "description": "Ecommerce Store",
+      "description": "Ecommerce Plataform",
       "techs": "Angular / Flask / MongoDB",
       "link_github": "https://github.com/Thecodebash",
-      "link_google": "/projects/working"
+      "link_google": "https://thecodebash.web.app"
     },
     {
       "title": "Dexcarriados",
-      "description": "Christian Platform",
+      "description": "Christian Website",
       "techs": "Angular / Firebase",
       "link_github": "https://github.com/josuehoenicka/dexcarriadosanonymous",
       "link_google": "https://dexcarriadosanonymous.com"
