@@ -21,7 +21,7 @@
     "education": "EDUCATION"
   },
   "contract": "Resume",
-  "photo": "../../../assets/personal/josuehoenicka.jpeg",
+  "photo": "../../../assets/personal/josuehoenicka.png",
 	"name": "Josue Hoenicka",
   "ocupation": "Developer / Polyglot",
   "github": "https://github.com/josuehoenicka",
@@ -141,13 +141,13 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/sass.png",
-      "title": "Sass",
-      "level": "Sí"
+      "img": "../../../assets/tech/tailwind.png",
+      "title": "Tailwind",
+      "level": "No"
     },
     {
-      "img": "../../../assets/tech/rxjs.png",
-      "title": "RxJS",
+      "img": "../../../assets/tech/sass.png",
+      "title": "Sass",
       "level": "Sí"
     },
     {
@@ -161,14 +161,19 @@
       "level": "No"
     },
     {
-      "img": "../../../assets/tech/tensorflow.png",
-      "title": "Tensorflow",
-      "level": "No"
+      "img": "../../../assets/tech/nodejs.png",
+      "title": "NodeJS",
+      "level": "Sí"
     },
     {
       "img": "../../../assets/tech/mysql.png",
       "title": "MySQL",
       "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/postgresql.png",
+      "title": "PostgreSQL",
+      "level": "No"
     },
     {
       "img": "../../../assets/tech/mongodb.svg",
@@ -181,19 +186,14 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/nodejs.png",
-      "title": "NodeJS",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/expressjs.png",
-      "title": "ExpressJS",
-      "level": "No"
-    },
-    {
       "img": "../../../assets/tech/docker.png",
       "title": "Docker",
       "level": "No"
+    },
+    {
+      "img": "../../../assets/tech/git.png",
+      "title": "Git",
+      "level": "Sí"
     }
   ],
   "projects": [
