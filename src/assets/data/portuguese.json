@@ -111,7 +111,7 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/dart.png",
+      "img": "../../../assets/tech/dart.svg",
       "title": "Dart",
       "level": "No"
     },
@@ -126,7 +126,7 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/flutter.png",
+      "img": "../../../assets/tech/flutter.svg",
       "title": "Flutter",
       "level": "No"
     },
