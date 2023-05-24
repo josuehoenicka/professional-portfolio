@@ -1,6 +1,6 @@
 {
   "config" : {
-    "lang": "Mudar língua"
+    "lang": "PORTUGUESE"
   },
   "navmobile": {
     "about": "Sobre mim",
@@ -87,32 +87,19 @@
   }],
   "languages": [
   {
-    "img": "../../../assets/lang/es.svg",
-    "name": "Espanhol",
-    "level": "FLUENTE"
-  },
-  {
     "img": "../../../assets/lang/br.svg",
-    "name": "Português",
-    "level": "FLUENTE"
+    "name": "PORTUGUÊS"
   },
   {
     "img": "../../../assets/lang/us.svg",
-    "name": "Inglês",
-    "level": "AVANÇADO"
+    "name": "INGLÊS"
+  },
+  {
+    "img": "../../../assets/lang/es.svg",
+    "name": "ESPANHOL"
   }
   ],
   "techs": [
-    {
-      "img": "../../../assets/tech/html.svg",
-      "title": "HTML5",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/css.svg",
-      "title": "CSS3",
-      "level": "Sí"
-    },
     {
       "img": "../../../assets/tech/javascript.png",
       "title": "JavaScript",
@@ -124,38 +111,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/dart.svg",
+      "img": "../../../assets/tech/dart.png",
       "title": "Dart",
-      "level": "No"
-    },
-    {
-      "img": "../../../assets/tech/python.png",
-      "title": "Python",
-      "level": "No"
-    },
-    {
-      "img": "../../../assets/tech/bootstrap.png",
-      "title": "Bootstrap",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/tailwind.png",
-      "title": "Tailwind",
-      "level": "No"
-    },
-    {
-      "img": "../../../assets/tech/sass.png",
-      "title": "Sass",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/angular.svg",
-      "title": "Angular",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/flutter.svg",
-      "title": "Flutter",
       "level": "No"
     },
     {
@@ -164,13 +121,13 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/mysql.png",
-      "title": "MySQL",
+      "img": "../../../assets/tech/angular.svg",
+      "title": "Angular",
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/postgresql.png",
-      "title": "PostgreSQL",
+      "img": "../../../assets/tech/flutter.png",
+      "title": "Flutter",
       "level": "No"
     },
     {
@@ -179,19 +136,14 @@
       "level": "Sí"
     },
     {
+      "img": "../../../assets/tech/mysql.png",
+      "title": "MySQL",
+      "level": "Sí"
+    },
+    {
       "img": "../../../assets/tech/firebase.png",
       "title": "Firebase",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/docker.png",
-      "title": "Docker",
       "level": "No"
-    },
-    {
-      "img": "../../../assets/tech/git.png",
-      "title": "Git",
-      "level": "Sí"
     }
   ],
   "projects": [
