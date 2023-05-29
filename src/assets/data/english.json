@@ -29,38 +29,32 @@
   "gmail": "mailto:josuee.vzla@gmail.com",
   "experience": [
     {
-    "title": "Angular Developer",
-    "company": "at Thecodebash",
-    "description": "Alongside my team, I work on an e-commerce platform using Angular, Flask, and MongoDB technologies. I developed the client-side design and structure, performed a migration within the project, which involved transitioning a static HTML/CSS/JavaScript project to Angular/SCSS. I also made HTTP requests and implemented authentication in Angular for our Flask-created API. Currently, I continue to work with my team to implement improvements before our first launch"
-  },
-  {
-    "title": "Angular Developer",
-    "company": "at Make It Happen",
-    "description": "I developed a Single Page Application (SPA) for an international Christian ministry. I used Angular for the platform's development and set up hosting on Firebase with Hostinger platform. I created a form that allows users to anonymously submit messages to contact professional counselors, and I connected the ministry's official radio for users to listen to real-time broadcasts"
-  },
-  {
-    "title": "Web Developer",
-    "company": "at L.E.R",
-    "description": "I developed an application using HTML, CSS, and JavaScript for the Appointment Setters team at a Colombian startup called La Estamos Rompiendo (L.E.R). This application was designed to provide employees with a simple and efficient way to manage and track various important data in their daily work. Employees can enter and track crucial information such as follow-ups, new inbound chats, new outbound chats, proposed calls, new bookings, show-ups, and effective sales. The platform includes a feature that allows them to download the data in TXT format for later use in their Customer Relationship Management (CRM). The application was a customized solution that improved efficiency and accuracy in tracking key data for the appointment setters team."
-  },
-  {
-    "title": "Freelance",
-    "company": "Web Developer",
-    "description": "Over 2 years of experience in web development technologies. I have worked on personal projects, collaborated on joint projects, and provided freelance services to companies, organizations, and individuals to boost their brand and/or entrepreneurship"
-  }
+      "title": "Freelance",
+      "company": "Web Developer",
+      "description": "Over 3 years of experience in web development technologies. I have worked on personal projects, collaborated on joint projects, and provided freelance services to companies, organizations, and individuals to boost their brand and/or entrepreneurship"
+    },
+    {
+      "title": "Front-End Engineer",
+      "company": "at Thecodebash",
+      "description": "Alongside my team, I work on an e-commerce platform using Angular, Flask, and MongoDB technologies. I developed the client-side design and structure, performed a migration within the project, which involved transitioning a static HTML/CSS/JavaScript project to Angular/SCSS. I also made HTTP requests and implemented authentication in Angular for our Flask-created API. Currently, I continue to work with my team to implement improvements before our first launch"
+    }
   ],
   "education": [
-    {
-      "school": "Codo a Codo",
-      "title": "Full-Stack JavaScript Development"
-    },
     {
       "school": "Universidad de Buenos Aires",
       "title": "English for IT"
     },
     {
-      "school": "Platzi",
+      "school": "Codo a Codo 4.0",
       "title": "Full-Stack JavaScript Development"
+    },
+    {
+      "school": "Argentina Programa 4.0",
+      "title": "Introduction to Programming"
+    },
+    {
+      "school": "Platzi",
+      "title": "Basic Programming"
     },
     {
       "school": "freeCodeCamp",
@@ -71,16 +65,12 @@
       "title": "Responsive Web Design"
     },
     {
-      "school": "Argentina Programa",
-      "title": "Full Stack Web Development"
+      "school": "LinkedIn Learning",
+      "title": "Angular Basics"
     },
     {
-      "school": "Argentina Programa",
-      "title": "Introduction to Programming"
-    },
-    {
-      "school": "Universidad Nacional de Rosario",
-      "title": "Computer Science"
+      "school": "LinkedIn Learning",
+      "title": "Web Development Basics"
     },
     {
       "school": "EEMPI N°3060 San Jorge",
@@ -113,8 +103,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/dart.svg",
-      "title": "Dart",
+      "img": "../../../assets/tech/python.png",
+      "title": "Python",
       "level": "No"
     },
     {
@@ -128,8 +118,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/flutter.svg",
-      "title": "Flutter",
+      "img": "../../../assets/tech/docker.png",
+      "title": "Docker",
       "level": "No"
     },
     {
@@ -143,9 +133,9 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/firebase.png",
-      "title": "Firebase",
-      "level": "No"
+      "img": "../../../assets/tech/git.png",
+      "title": "Git",
+      "level": "Sí"
     }
   ],
   "projects": [

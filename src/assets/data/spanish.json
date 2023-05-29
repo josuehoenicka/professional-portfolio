@@ -27,39 +27,35 @@
   "github": "https://github.com/josuehoenicka",
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
   "gmail": "mailto:josuee.vzla@gmail.com",
-  "experience": [{
-    "title": "Angular Developer",
-    "company": "en Thecodebash",
-    "description": "Junto con mi equipo trabajo en una plataforma e-commerce con las tecnologías Angular, Flask y MongoDB. Desarrollé el diseño y estructura del lado del cliente, realicé una migración dentro del proyecto que consistió en migrar un proyecto estático HTML/CSS/JavaScript para Angular/SCSS, y también realicé peticiones http y auth en Angular a nuestra API creada en Flask. Actualmente sigo trabajando con mi equipo para implementar mejoras antes de nuestro primer lanzamiento"
-  },
-  {
-    "title": "Angular Developer",
-    "company": "en Make It Happen",
-    "description": "Derrollé una plataforma SPA para un ministerio internacional cristiano. Utilicé Angular para el desarrollo de la plataforma y configuré el hosting de Firebase con la plataforma Hostinger. Creé un formulario para que los usuarios puedan enviar sus mensajes anónimamente para contactar con consejeros profesionales, y conecté la radio oficial del ministerio para que sus usuarios puedan escuchar la transmisión en tiempo real"
-  },
-  {
-    "title": "Desarrollador Web",
-    "company": "en L.E.R",
-    "description": "Desarrollé una aplicación utilizando HTML, CSS y JavaScript para el equipo de Appointment Setters en una startup colombiana llamada La Estamos Rompiendo (L.E.R). Esta aplicación fue diseñada para proporcionar a los empleados una forma sencilla y eficiente de administrar y dar seguimiento a diversos datos importantes en su trabajo diario. Los empleados podrán ingresar y rastrear información crucial (follow-ups, nuevos chats inbound, nuevos chats outbund, calls proposed, new bookings, show ups y sales efective). La plataforma incluyé la función que les permite descargar los datos en formato TXT para su posterior uso en su Customer Relationship Management (CRM). La aplicación fue una solución personalizada que mejoró la eficiencia y la precisión en el seguimiento de los datos clave para el equipo de appointment setters"
-  },
-  {
-    "title": "Desarrollador Web",
-    "company": "Independiente",
-    "description": "Más de 2 años experiencia en tecnologías para el desarollo web. He desarrollado proyectos personales, proyectos en conjunto y he realizado servicios de freelance para empresas, entidades y personas para impulsar su marca y/o emprendimiento"
-  }
+  "experience": [
+
+    {
+      "title": "Desarrollador Web",
+      "company": "Independiente",
+      "description": "Más de 3 años experiencia en tecnologías para el desarollo web. He desarrollado proyectos personales, proyectos en conjunto y he realizado servicios de freelance para empresas, entidades y personas para impulsar su marca y/o emprendimiento"
+    },
+    {
+      "title": "Ingeniero Front-End",
+      "company": "en Thecodebash",
+      "description": "Junto con mi equipo trabajo en una plataforma e-commerce con las tecnologías Angular, Flask y MongoDB. Desarrollé el diseño y estructura del lado del cliente, realicé una migración dentro del proyecto que consistió en migrar un proyecto estático HTML/CSS/JavaScript para Angular/SCSS, y también realicé peticiones http y auth en Angular a nuestra API creada en Flask. Actualmente sigo trabajando con mi equipo para implementar mejoras antes de nuestro primer lanzamiento"
+    }
   ],
   "education": [
-    {
-      "school": "Codo a Codo",
-      "title": "Desarrollo Full-Stack con JavaScript"
-    },
     {
       "school": "Universidad de Buenos Aires",
       "title": "Inglés para IT"
     },
     {
-      "school": "Platzi",
+      "school": "Codo a Codo 4.0",
       "title": "Desarrollo Full-Stack con JavaScript"
+    },
+    {
+      "school": "Argentina Programa 4.0",
+      "title": "Introducción a la Programación"
+    },
+    {
+      "school": "Platzi",
+      "title": "Programación Básica"
     },
     {
       "school": "freeCodeCamp",
@@ -70,16 +66,12 @@
       "title": "Diseño Web Responsivo"
     },
     {
-      "school": "Argentina Programa",
-      "title": "Desarrollo Web Full-Stack"
+      "school": "LinkedIn Learning",
+      "title": "Angular Básico"
     },
     {
-      "school": "Argentina Programa",
-      "title": "Introducción a la Programación"
-    },
-    {
-      "school": "Universidad Nacional de Rosario",
-      "title": "Ciencias de la Computación"
+      "school": "LinkedIn Learning",
+      "title": "Desarrollo Web Básico"
     },
     {
       "school": "EEMPI N°3060 San Jorge",
@@ -112,8 +104,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/dart.svg",
-      "title": "Dart",
+      "img": "../../../assets/tech/python.png",
+      "title": "Python",
       "level": "No"
     },
     {
@@ -127,8 +119,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/flutter.svg",
-      "title": "Flutter",
+      "img": "../../../assets/tech/docker.png",
+      "title": "Docker",
       "level": "No"
     },
     {
@@ -142,9 +134,9 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/firebase.png",
-      "title": "Firebase",
-      "level": "No"
+      "img": "../../../assets/tech/git.png",
+      "title": "Git",
+      "level": "Sí"
     }
   ],
   "projects": [
