@@ -93,23 +93,18 @@
   ],
   "techs": [
     {
-      "img": "../../../assets/tech/javascript.png",
-      "title": "JavaScript",
-      "level": "Sí"
-    },
-    {
       "img": "../../../assets/tech/typescript.png",
       "title": "TypeScript",
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/python.png",
-      "title": "Python",
-      "level": "No"
+      "img": "../../../assets/tech/javascript.png",
+      "title": "JavaScript",
+      "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/nodejs.png",
-      "title": "NodeJS",
+      "img": "../../../assets/tech/firebase.png",
+      "title": "Firebase",
       "level": "Sí"
     },
     {
@@ -118,23 +113,28 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/docker.png",
-      "title": "Docker",
-      "level": "No"
-    },
-    {
-      "img": "../../../assets/tech/mongodb.svg",
-      "title": "MongoDB",
+      "img": "../../../assets/tech/nodejs.png",
+      "title": "NodeJS",
       "level": "Sí"
     },
     {
       "img": "../../../assets/tech/mysql.png",
-      "title": "MySQL",
+      "title": "MongoDB",
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/git.png",
-      "title": "Git",
+      "img": "../../../assets/tech/nestjs.png",
+      "title": "NestJS",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/expressjs.png",
+      "title": "ExpressJS",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/mongodb.svg",
+      "title": "MongoDB",
       "level": "Sí"
     }
   ],
