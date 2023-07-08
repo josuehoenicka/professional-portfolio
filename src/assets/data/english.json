@@ -22,8 +22,10 @@
   },
   "contract": "Resume",
   "photo": "../../../assets/personal/josuehoenicka.png",
-	"name": "Josue Hoenicka",
-  "ocupation": "Developer / Polyglot",
+  "im": "I'm a ",
+  "occupation1": "Angular Developer",
+  "occupation2": "Node.js Developer",
+  "occupation3": "Python Developer",
   "github": "https://github.com/josuehoenicka",
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
   "gmail": "mailto:josuee.vzla@gmail.com",
@@ -103,8 +105,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/firebase.png",
-      "title": "Firebase",
+      "img": "../../../assets/tech/python.png",
+      "title": "Python",
       "level": "Sí"
     },
     {
@@ -118,18 +120,19 @@
       "level": "Sí"
     },
     {
+      "img": "../../../assets/tech/django.svg",
+      "title": "PostgreSQL",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/firebase.png",
+      "title": "Firebase",
+      "level": "Sí"
+    },
+
+    {
       "img": "../../../assets/tech/mysql.png",
-      "title": "MongoDB",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/nestjs.png",
-      "title": "NestJS",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/expressjs.png",
-      "title": "ExpressJS",
+      "title": "PostgreSQL",
       "level": "Sí"
     },
     {
@@ -140,25 +143,31 @@
   ],
   "projects": [
     {
-      "title": "L.E.R",
+      "title": "LER",
       "description": "Appointment Setter App",
       "techs": "Angular",
       "link_github": "https://github.com/josuehoenicka/laestamosrompiendo",
-      "link_google": "https://josuehoenicka.github.io/laestamosrompiendo"
+      "link_google": "https://josuehoenicka.github.io/laestamosrompiendo",
+      "disabled_github": true,
+      "disabled_google": true
     },
     {
       "title": "Thecodebash",
       "description": "Ecommerce Plataform",
       "techs": "Angular / Flask / MongoDB",
       "link_github": "https://github.com/Thecodebash",
-      "link_google": "https://thecodebash.web.app"
+      "link_google": "https://thecodebash.web.app",
+      "disabled_github": true,
+      "disabled_google": false
     },
     {
       "title": "Dexcarriados",
       "description": "Christian Website",
       "techs": "Angular / Firebase",
       "link_github": "https://github.com/josuehoenicka/dexcarriadosanonymous",
-      "link_google": "https://dexcarriadosanonymous.com"
+      "link_google": "https://dexcarriadosanonymous.com",
+      "disabled_github": false,
+      "disabled_google": true
     }
   ]
 }

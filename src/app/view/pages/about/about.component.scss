@@ -57,7 +57,7 @@ figcaption {
     background-color: transparent;
 }
 
-.fig-name, .fig-title {
+.fig-name, .fig-title, .fig-ocupation {
   background-color: transparent;
   text-align: center;
   font-family: 'Amatic SC', cursive;
@@ -73,7 +73,14 @@ figcaption {
 .fig-title {
   font-size: 2em;
   color: var(--white-on);
+}
+
+.fig-ocupation {
+  padding-left: .05em;
+  font-size: 1em;
+  color: var(--white_off);
   letter-spacing: 0.02em;
+  border-bottom: 1px var(--white_off) solid;
 }
 
 .photo-item {
@@ -159,6 +166,9 @@ figcaption {
     padding-top: 1em;
     .fig-title {
       font-size: 2em;
+    }
+    .fig-ocupation {
+      font-size: 1em;
     }
   }
   .scroll-container {

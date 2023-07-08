@@ -68,11 +68,7 @@ body::-webkit-scrollbar {
   transition: 0.5s;
 }
 
-.fa-chrome {
-    font-size: 2.6em !important; /* The important is because the 'fa' of google is bigger than the others by default */
-}
-
-.fa-chrome:hover, .fa-github:hover {
+.fa-google:hover, .fa-github:hover {
     color: var(--white-on);
     cursor: pointer;
     transition: 0.5s;
