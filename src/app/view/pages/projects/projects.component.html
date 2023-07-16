@@ -6,10 +6,10 @@
           <div class="mySlides2" *ngFor="let proj of project">
             <h4 class="slider-title">{{proj.title}}</h4>
             <p class="slider-description">{{proj.description}}</p>
-            <button *ngIf="proj.disabled_github" >
+            <button *ngIf="proj.available_github" >
               <a href="{{proj.link_github}}" target="_blank" class="fa fa-github fa-on-projects"></a>
             </button>
-            <button *ngIf="proj.disabled_google" >
+            <button *ngIf="proj.available_google" >
               <a href="{{proj.link_google}}" target="_blank" class="fa fa-google fa-on-projects"></a>
             </button>
           </div>
@@ -24,10 +24,10 @@
 
         <div class="projects-mobile">
           <h4 class="slider-title">{{proj.title}}</h4>
-          <button *ngIf="!proj.disabledk_github" >
+          <button *ngIf="!proj.available_github" >
             <a href="{{proj.link_github}}" target="_blank" class="fa fa-github fa-on-projects"></a>
           </button>
-          <button *ngIf="!proj.disabled_google" >
+          <button *ngIf="!proj.available_google" >
             <a href="{{proj.link_google}}" target="_blank" class="fa fa-google fa-on-projects"></a>
           </button>
         </div>

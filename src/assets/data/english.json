@@ -31,14 +31,24 @@
   "gmail": "mailto:josuee.vzla@gmail.com",
   "experience": [
     {
-      "title": "Freelance",
-      "company": "Web Developer",
-      "description": "Over 3 years of experience in web development technologies. I have worked on personal projects, collaborated on joint projects, and provided freelance services to companies, organizations, and individuals to boost their brand and/or entrepreneurship"
+      "title": "Front-End Developer",
+      "company": "at Liberasoft",
+      "description": "(Current job)"
     },
     {
       "title": "Front-End Engineer",
       "company": "at Thecodebash",
-      "description": "Alongside my team, I work on an e-commerce platform using Angular, Flask, and MongoDB technologies. I developed the client-side design and structure, performed a migration within the project, which involved transitioning a static HTML/CSS/JavaScript project to Angular/SCSS. I also made HTTP requests and implemented authentication in Angular for our Flask-created API. Currently, I continue to work with my team to implement improvements before our first launch"
+      "description": "Together with my team, I work on an e-commerce platform using Angular, Flask, and MongoDB technologies. I developed the client-side structure and implemented routing module and lazy loading in the application. I also created the login, register, validate systems, and established the connection to user data and product records in the database. Currently, I am incorporating logic into each module and working with my team on a weekly basis"
+    },
+    {
+      "title": "Freelance Web Developer",
+      "company": "at L.E.R",
+      "description": "I developed an application using HTML, CSS, and JavaScript for the Appointment Setters team at La Estamos Rompiendo. I provided employees with a simple and efficient way to manage the tracking of various important data in their daily work. Employees will be able to input and track crucial information (Follow-ups, inbound leads, outbound leads, calls proposed, new bookings, etc.). The platform includes a function that allows them to download the data locally in txt format. The application was a customized solution that improved efficiency and accuracy in tracking key data for the appointment setters team"
+    },
+    {
+      "title": "Freelance Web Developer",
+      "company": "at Make It Happen",
+      "description": "I worked collaboratively with a design and marketing team to develop a platform for an international Christian ministry. I used Angular for platform development and set up Firebase hosting with Hostinger. I created a form for users to anonymously send their messages to contact professional counselors. I connected the ministry's official radio so that users can listen to real-time broadcasts"
     }
   ],
   "education": [
@@ -47,16 +57,20 @@
       "title": "English for IT"
     },
     {
-      "school": "Platzi",
-      "title": "Basic Programming"
-    },
-    {
-      "school": "Codo a Codo 4.0",
+      "school": "Codo a Codo",
       "title": "Full-Stack JavaScript Development"
     },
     {
-      "school": "Argentina Programa 4.0",
+      "school": "Argentina Programa",
+      "title": "Full Stack Web Development"
+    },
+    {
+      "school": "Argentina Programa",
       "title": "Introduction to Programming"
+    },
+    {
+      "school": "Platzi",
+      "title": "Basic Programming"
     },
     {
       "school": "freeCodeCamp",
@@ -65,6 +79,10 @@
     {
       "school": "freeCodeCamp",
       "title": "Responsive Web Design"
+    },
+    {
+      "school": "LinkedIn Learning",
+      "title": "Angular Advanced"
     },
     {
       "school": "LinkedIn Learning",
@@ -120,54 +138,58 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/django.svg",
-      "title": "PostgreSQL",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/firebase.png",
-      "title": "Firebase",
-      "level": "Sí"
-    },
-
-    {
-      "img": "../../../assets/tech/mysql.png",
-      "title": "PostgreSQL",
+      "img": "../../../assets/tech/docker.png",
+      "title": "Docker",
       "level": "Sí"
     },
     {
       "img": "../../../assets/tech/mongodb.svg",
       "title": "MongoDB",
       "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/mysql.png",
+      "title": "MySQL",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/git.png",
+      "title": "Git",
+      "level": "Sí"
     }
   ],
   "projects": [
     {
-      "title": "LER",
-      "description": "Appointment Setter App",
-      "techs": "Angular",
+      "title": "L.E.R",
+      "description": "Freelance Web Developer",
       "link_github": "https://github.com/josuehoenicka/laestamosrompiendo",
       "link_google": "https://josuehoenicka.github.io/laestamosrompiendo",
-      "disabled_github": true,
-      "disabled_google": true
+      "available_github": true,
+      "available_google": true
     },
     {
       "title": "Thecodebash",
-      "description": "Ecommerce Plataform",
-      "techs": "Angular / Flask / MongoDB",
+      "description": "Front-End Engineer",
       "link_github": "https://github.com/Thecodebash",
-      "link_google": "https://thecodebash.web.app",
-      "disabled_github": true,
-      "disabled_google": false
+      "link_google": "https://thecodebash.firebaseapp.com/",
+      "available_github": true,
+      "available_google": true
     },
     {
-      "title": "Dexcarriados",
-      "description": "Christian Website",
-      "techs": "Angular / Firebase",
-      "link_github": "https://github.com/josuehoenicka/dexcarriadosanonymous",
+      "title": "Liberasoft",
+      "description": "Front-End Developer",
+      "link_github": "none",
+      "link_google": "https://www.liberasoft.com.ar/",
+      "available_github": false,
+      "available_google": true
+    },
+    {
+      "title": "Make It Happen",
+      "description": "Freelance Web Developer",
+      "link_github": "none",
       "link_google": "https://dexcarriadosanonymous.com",
-      "disabled_github": false,
-      "disabled_google": true
+      "available_github": false,
+      "available_google": true
     }
   ]
 }
