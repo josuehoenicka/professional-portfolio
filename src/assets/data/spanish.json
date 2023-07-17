@@ -138,8 +138,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/docker.png",
-      "title": "Docker",
+      "img": "../../../assets/tech/nestjs.png",
+      "title": "NestJS",
       "level": "Sí"
     },
     {
@@ -148,13 +148,13 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/firebase.png",
-      "title": "Firebase",
+      "img": "../../../assets/tech/mongodb.svg",
+      "title": "MongoDB",
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/mongodb.svg",
-      "title": "MongoDB",
+      "img": "../../../assets/tech/docker.png",
+      "title": "Docker",
       "level": "Sí"
     }
   ],
