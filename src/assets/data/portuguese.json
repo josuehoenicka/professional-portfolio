@@ -33,7 +33,7 @@
     {
       "title": "Front-End Developer",
       "company": "at Liberasoft",
-      "description": "(Atual trabalho)"
+      "description": "Atualmente, estou trabalhando no projeto LiberaSoft na empresa Depsys Informática, onde estou refatorando e trabalhando do lado do cliente com Angular"
     },
     {
       "title": "Front-End Engineer",
@@ -128,11 +128,6 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/nodejs.png",
-      "title": "NodeJS",
-      "level": "Sí"
-    },
-    {
       "img": "../../../assets/tech/angular.svg",
       "title": "Angular",
       "level": "Sí"
@@ -140,6 +135,11 @@
     {
       "img": "../../../assets/tech/nestjs.png",
       "title": "NestJS",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/linux.png",
+      "title": "Linux",
       "level": "Sí"
     },
     {
