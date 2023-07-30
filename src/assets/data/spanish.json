@@ -69,6 +69,14 @@
       "title": "Introducción a la Programación"
     },
     {
+      "school": "Fundación Teléfonica Movistar",
+      "title": "Ciberseguridad para el Entorno Educativo"
+    },
+    {
+      "school": "Fundación Teléfonica Movistar",
+      "title": "Introducción a la Ciberseguridad"
+    },
+    {
       "school": "Platzi",
       "title": "Programación Básica"
     },
@@ -99,16 +107,16 @@
   ],
   "languages": [
     {
-      "img": "../../../assets/lang/us.svg",
-      "name": "INGLÉS"
-    },
-    {
       "img": "../../../assets/lang/es.svg",
       "name": "ESPAÑOL"
     },
     {
       "img": "../../../assets/lang/br.svg",
       "name": "PORTUGUÉS"
+    },
+    {
+      "img": "../../../assets/lang/us.svg",
+      "name": "INGLÉS"
     }
   ],
   "techs": [
@@ -128,8 +136,23 @@
       "level": "Sí"
     },
     {
+      "img": "../../../assets/tech/nodejs.png",
+      "title": "Node.js",
+      "level": "Sí"
+    },
+    {
       "img": "../../../assets/tech/angular.svg",
       "title": "Angular",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/tensorflow.png",
+      "title": "Tensorflow",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/expressjs.png",
+      "title": "Express.js",
       "level": "Sí"
     },
     {
@@ -138,8 +161,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/linux.png",
-      "title": "Linux",
+      "img": "../../../assets/tech/numpy.svg",
+      "title": "Numpy",
       "level": "Sí"
     },
     {
@@ -155,6 +178,21 @@
     {
       "img": "../../../assets/tech/docker.png",
       "title": "Docker",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/windows.png",
+      "title": "Windows",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/chrome.png",
+      "title": "Chrome OS",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/linux.png",
+      "title": "Linux",
       "level": "Sí"
     }
   ],

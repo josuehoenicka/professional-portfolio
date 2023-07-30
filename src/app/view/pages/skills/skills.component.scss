@@ -21,9 +21,9 @@
 }
 
 .tech-items {
-  width: 6.5em;
-  height: 6.5em;
-  margin: 1em 2em;
+  width: 4em;
+  height: 4em;
+  margin: .7em 3.7em;
   background-color: transparent;
 }
 
@@ -68,7 +68,7 @@
 }
 
 .flag-items {
-  width: 5.5em;
+  width: 4.6em;
   padding: 2em 0;
   cursor: pointer;
 }
@@ -81,16 +81,14 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 100vw;
     user-select: none;
-    padding-top: 5em;
   }
   #tech-container {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding-top: 0;
+  margin-top: 9em;
   }
   #tech-grid-container {
     display: grid;
@@ -105,7 +103,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: row;
-    padding-top: 2em;
+    padding-top: 3em;
   }
   .lang-items {
     display: flex;

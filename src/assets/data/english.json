@@ -69,8 +69,12 @@
       "title": "Introduction to Programming"
     },
     {
-      "school": "Platzi",
-      "title": "Basic Programming"
+      "school": "Fundación Teléfonica Movistar",
+      "title": "Cybersecurity for Education Environment"
+    },
+    {
+      "school": "Fundación Teléfonica Movistar",
+      "title": "Introduction to Programming"
     },
     {
       "school": "freeCodeCamp",
@@ -79,6 +83,10 @@
     {
       "school": "freeCodeCamp",
       "title": "Responsive Web Design"
+    },
+    {
+      "school": "Platzi",
+      "title": "Basic Programming"
     },
     {
       "school": "LinkedIn Learning",
@@ -98,18 +106,18 @@
     }
   ],
   "languages": [
-  {
-    "img": "../../../assets/lang/us.svg",
-    "name": "ENGLISH"
-  },
-  {
-    "img": "../../../assets/lang/es.svg",
-    "name": "SPANISH"
-  },
-  {
-    "img": "../../../assets/lang/br.svg",
-    "name": "PORTUGUESE"
-  }
+    {
+      "img": "../../../assets/lang/es.svg",
+      "name": "SPANISH"
+    },
+    {
+      "img": "../../../assets/lang/br.svg",
+      "name": "PORTUGUESE"
+    },
+    {
+      "img": "../../../assets/lang/us.svg",
+      "name": "ENGLISH"
+    }
   ],
   "techs": [
     {
@@ -128,8 +136,23 @@
       "level": "Sí"
     },
     {
+      "img": "../../../assets/tech/nodejs.png",
+      "title": "Node.js",
+      "level": "Sí"
+    },
+    {
       "img": "../../../assets/tech/angular.svg",
       "title": "Angular",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/tensorflow.png",
+      "title": "Tensorflow",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/expressjs.png",
+      "title": "Express.js",
       "level": "Sí"
     },
     {
@@ -138,8 +161,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/linux.png",
-      "title": "Linux",
+      "img": "../../../assets/tech/numpy.svg",
+      "title": "Numpy",
       "level": "Sí"
     },
     {
@@ -155,6 +178,21 @@
     {
       "img": "../../../assets/tech/docker.png",
       "title": "Docker",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/windows.png",
+      "title": "Windows",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/chrome.png",
+      "title": "Chrome OS",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/linux.png",
+      "title": "Linux",
       "level": "Sí"
     }
   ],
