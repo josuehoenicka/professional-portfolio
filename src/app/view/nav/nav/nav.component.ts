@@ -28,12 +28,4 @@ export class NavComponent  {
     this.activeMenu = !this.activeMenu;
   }
 
-  downloadCV() {
-    const link = document.createElement('a');
-    link.setAttribute('target', '_blank');
-    link.setAttribute('href', '../../../assets/personal/resume.pdf');
-    link.setAttribute('download', 'resume.pdf');
-    link.click();
-  }
-
 }

@@ -17,6 +17,7 @@
     {"link": "Contato", "router": "contact"}
   ],
   "contract": "Currículo",
+  "resume": "resume_pt.pdf",
   "photo": "../../../assets/personal/josuehoenicka.png",
 	"im": "Sou ",
   "occupation1": "Angular Developer",
@@ -33,20 +34,20 @@
     {
       "title": "Front-End Developer",
       "company": "at Liberasoft",
-      "description": "Atualmente, estou trabalhando no projeto LiberaSoft na empresa Depsys Informática, onde estou refatorando e trabalhando do lado do cliente com Angular"
+      "description": "Dentro da empresa Depsys Informática, trabalho no projeto LiberaSOFT, que oferece um sistema de gestão de todos os processos empresariais de maneira rápida e segura. Também inclui aplicativos móveis que permitem otimizar os tempos de resposta dentro de uma empresa, sendo modulares com a possibilidade de adquirir módulos conforme as necessidades surgem, e uma loja de comércio eletrônico integrada com B2C, B2B e Mercado Livre Colaboro com minha equipe no lado do cliente utilizando a biblioteca PrimeNg, Angular e seus pacotes de ambiente de trabalho. Juntos, implementamos o carregamento preguiçoso (lazy loading) e a modularização no projeto. Da minha parte, refatorei componentes de formulários orientados a modelos, migrando-os para formulários reativos em diferentes módulos da aplicação. Personalizei métodos que permitem imprimir tabelas do PrimeNg em formatos Excel e PDF, bem como métodos para carregar todos os dados necessários dos pontos de extremidade para cada componente Atualmente, estou implementando melhorias e soluções para os vários problemas que surgem em diferentes módulos durante o desenvolvimento da aplicação. Utilizamos o software MantisBT para gerenciar tarefas de forma eficaz com minha equipe"
     },
     {
-      "title": "Front-End Engineer",
+      "title": "Full-Stack Developer",
       "company": "at Thecodebash",
-      "description": "Junto com a minha equipe, trabalho em uma plataforma de comércio eletrônico utilizando as tecnologias Angular, Flask e MongoDB. Desenvolvi a estrutura do lado do cliente e implementei o módulo de roteamento e carregamento preguiçoso na aplicação. Também criei os sistemas de login, registro, validação e estabeleci a conexão com os dados do usuário e produtos registrados no banco de dados. Atualmente, estou incorporando lógica em cada módulo e trabalhando com minha equipe semanalmente"
+      "description": "Thecodebash é uma loja de comércio eletrônico internacional de compra e venda de código, onde os usuários terão uma plataforma interessante e acessível para fazer crescer seu perfil e produtos dentro de uma comunidade ativa. Fora da comercialização, a plataforma oferecerá um espaço aos usuários que desejam se abrir para a comunidade de código aberto Junto com a minha equipe trabalho utilizando as tecnologias Angular, Flask e MongoDB. Desenvolvi a estrutura do lado do cliente e implementei o módulo de roteamento e carregamento preguiçoso na aplicação. Também criei os sistemas de login, registro, validação e estabeleci a conexão com os dados do usuário e produtos registrados no banco de dados. Atualmente, estou incorporando lógica em cada módulo e trabalhando com minha equipe semanalmente"
     },
     {
-      "title": "Freelance Web Developer",
+      "title": "Front-End Developer",
       "company": "at L.E.R",
-      "description": "Desenvolvi um aplicativo utilizando HTML, CSS e JavaScript para a equipe de Appointment Setters en La Estamos Rompiendo. Forneci aos funcionários uma maneira simples e eficiente de gerenciar o acompanhamento de diversos dados importantes em seu trabalho diário. Os funcionários poderão inserir e rastrear informações cruciais (Follow-ups, leads recebidos, leads enviados, propostas de ligação, novas reservas, etc.). A plataforma inclui uma função que permite o download dos dados localmente em formato txt. O aplicativo foi uma solução personalizada que melhorou a eficiência e a precisão no acompanhamento dos dados-chave para a equipe de appointment setters"
+      "description": "Desenvolvi um aplicativo utilizando HTML, CSS e JavaScript para a equipe de Appointment Setters de La Estamos Rompiendo. Forneci aos funcionários uma maneira simples e eficiente de gerenciar o acompanhamento de diversos dados importantes em seu trabalho diário. Os funcionários poderão inserir e rastrear informações cruciais (Follow-ups, leads recebidos, leads enviados, propostas de ligação, novas reservas, etc.). A plataforma inclui uma função que permite o download dos dados localmente em formato txt. O aplicativo foi uma solução personalizada que melhorou a eficiência e a precisão no acompanhamento dos dados-chave para a equipe de appointment setters"
     },
     {
-      "title": "Freelance Web Developer",
+      "title": "Front-End Developer",
       "company": "at Make It Happen",
       "description": "Trabalhei em conjunto com uma equipe de design e marketing para desenvolver uma plataforma para um ministério cristão internacional. Utilizei o Angular para o desenvolvimento da plataforma e configurei o hospedagem no Firebase com o Hostinger. Criei um formulário para que os usuários possam enviar suas mensagens anonimamente e entrar em contato com conselheiros profissionais. Conectei o rádio oficial do ministério para que os usuários possam ouvir a transmissão em tempo real"
     }
@@ -138,7 +139,7 @@
     {
       "img": "../../../assets/tech/nodejs.png",
       "title": "Node.js",
-      "level": "Sí"
+      "level": "No"
     },
     {
       "img": "../../../assets/tech/angular.svg",
@@ -153,7 +154,7 @@
     {
       "img": "../../../assets/tech/expressjs.png",
       "title": "Express.js",
-      "level": "Sí"
+      "level": "No"
     },
     {
       "img": "../../../assets/tech/nestjs.png",
@@ -168,7 +169,7 @@
     {
       "img": "../../../assets/tech/mysql.png",
       "title": "MySQL",
-      "level": "Sí"
+      "level": "No"
     },
     {
       "img": "../../../assets/tech/mongodb.svg",
@@ -199,7 +200,7 @@
   "projects": [
     {
       "title": "L.E.R",
-      "description": "Freelance Web Developer",
+      "description": "Front-End Developer",
       "link_github": "https://github.com/josuehoenicka/laestamosrompiendo",
       "link_google": "https://josuehoenicka.github.io/laestamosrompiendo",
       "available_github": true,
@@ -207,7 +208,7 @@
     },
     {
       "title": "Thecodebash",
-      "description": "Front-End Engineer",
+      "description": "Full-Stack Developer",
       "link_github": "https://github.com/Thecodebash",
       "link_google": "https://thecodebash.firebaseapp.com/",
       "available_github": true,
@@ -223,7 +224,7 @@
     },
     {
       "title": "Make It Happen",
-      "description": "Freelance Web Developer",
+      "description": "Front-End Developer",
       "link_github": "none",
       "link_google": "https://dexcarriadosanonymous.com",
       "available_github": false,
