@@ -148,7 +148,7 @@
     {
       "img": "../../../assets/tech/tensorflow.png",
       "title": "Tensorflow",
-      "level": "Sí"
+      "level": "No"
     },
     {
       "img": "../../../assets/tech/expressjs.png",
@@ -163,7 +163,7 @@
     {
       "img": "../../../assets/tech/numpy.svg",
       "title": "Numpy",
-      "level": "Sí"
+      "level": "No"
     },
     {
       "img": "../../../assets/tech/mysql.png",
@@ -178,7 +178,7 @@
     {
       "img": "../../../assets/tech/docker.png",
       "title": "Docker",
-      "level": "Sí"
+      "level": "No"
     },
     {
       "img": "../../../assets/tech/windows.png",
@@ -214,7 +214,7 @@
       "available_google": true
     },
     {
-      "title": "Liberasoft",
+      "title": "LiberaSOFT",
       "description": "Front-End Developer",
       "link_github": "none",
       "link_google": "https://www.liberasoft.com.ar/",
