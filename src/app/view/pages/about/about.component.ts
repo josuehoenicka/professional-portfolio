@@ -11,7 +11,7 @@ export class AboutComponent implements OnInit, OnDestroy {
   josuehoenicka: any;
   experience: any;
   certification: any;
-  occupations = ["JavaScript Developer", "TypeScript Developer", "Python Developer"];
+  occupations = ["Software Developer", "Web Developer", "Mobile Developer"];
   public currentOccupation: string = "";
 
   private intervalId: any;

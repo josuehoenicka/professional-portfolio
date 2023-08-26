@@ -131,14 +131,16 @@
       "title": "TypeScript",
       "level": "Sí"
     },
+
     {
-      "img": "../../../assets/tech/python.png",
-      "title": "Python",
+      "img": "../../../assets/tech/mysql.png",
+      "title": "MySQL",
       "level": "Sí"
     },
+
     {
-      "img": "../../../assets/tech/nodejs.png",
-      "title": "Node.js",
+      "img": "../../../assets/tech/react.png",
+      "title": "React",
       "level": "No"
     },
     {
@@ -147,9 +149,29 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/tensorflow.png",
-      "title": "Tensorflow",
+      "img": "../../../assets/tech/mongodb.svg",
+      "title": "MongoDB",
+      "level": "Sí"
+    },
+
+
+    {
+      "img": "../../../assets/tech/reactnative.svg",
+      "title": "React Nativo",
       "level": "No"
+    },
+    {
+      "img": "../../../assets/tech/ionic.png",
+      "title": "Ionic",
+      "level": "Sí"
+    },
+
+
+
+    {
+      "img": "../../../assets/tech/docker.png",
+      "title": "Docker",
+      "level": "Sí"
     },
     {
       "img": "../../../assets/tech/expressjs.png",
@@ -157,45 +179,35 @@
       "level": "No"
     },
     {
+      "img": "../../../assets/tech/rxjs.png",
+      "title": "RxJS",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/git.png",
+      "title": "Git",
+      "level": "Sí"
+    },
+
+    {
+      "img": "../../../assets/tech/nodejs.png",
+      "title": "Node.js",
+      "level": "No"
+    },
+    {
       "img": "../../../assets/tech/nestjs.png",
       "title": "NestJS",
       "level": "Sí"
     },
-    {
-      "img": "../../../assets/tech/numpy.svg",
-      "title": "Numpy",
-      "level": "No"
-    },
-    {
-      "img": "../../../assets/tech/mysql.png",
-      "title": "MySQL",
-      "level": "No"
-    },
-    {
-      "img": "../../../assets/tech/mongodb.svg",
-      "title": "MongoDB",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/docker.png",
-      "title": "Docker",
-      "level": "No"
-    },
-    {
-      "img": "../../../assets/tech/windows.png",
-      "title": "Windows",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/chrome.png",
-      "title": "Chrome OS",
-      "level": "Sí"
-    },
+
+
     {
       "img": "../../../assets/tech/linux.png",
-      "title": "Linux",
+      "title": "Python",
       "level": "Sí"
     }
+
+
   ],
   "projects": [
     {
