@@ -131,16 +131,14 @@
       "title": "TypeScript",
       "level": "Sí"
     },
-
     {
-      "img": "../../../assets/tech/mysql.png",
-      "title": "MySQL",
-      "level": "Sí"
+      "img": "../../../assets/tech/c-sharp.svg",
+      "title": "C#",
+      "level": "No"
     },
-
     {
-      "img": "../../../assets/tech/react.png",
-      "title": "React",
+      "img": "../../../assets/tech/nodejs.png",
+      "title": "Node.js",
       "level": "No"
     },
     {
@@ -149,29 +147,9 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/mongodb.svg",
-      "title": "MongoDB",
-      "level": "Sí"
-    },
-
-
-    {
-      "img": "../../../assets/tech/reactnative.svg",
-      "title": "React Nativo",
+      "img": "../../../assets/tech/net-core.png",
+      "title": ".NET Core",
       "level": "No"
-    },
-    {
-      "img": "../../../assets/tech/ionic.png",
-      "title": "Ionic",
-      "level": "Sí"
-    },
-
-
-
-    {
-      "img": "../../../assets/tech/docker.png",
-      "title": "Docker",
-      "level": "Sí"
     },
     {
       "img": "../../../assets/tech/expressjs.png",
@@ -179,35 +157,45 @@
       "level": "No"
     },
     {
-      "img": "../../../assets/tech/rxjs.png",
-      "title": "RxJS",
+      "img": "../../../assets/tech/nestjs.png",
+      "title": "NestJS",
+      "level": "No"
+    },
+    {
+      "img": "../../../assets/tech/asp-net-core.png",
+      "title": "ASP.NET Core",
+      "level": "No"
+    },
+    {
+      "img": "../../../assets/tech/docker.png",
+      "title": "Docker",
+      "level": "No"
+    },
+    {
+      "img": "../../../assets/tech/firebase.png",
+      "title": "Firebase",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/azure.png",
+      "title": "Azure",
+      "level": "No"
+    },
+    {
+      "img": "../../../assets/tech/mysql.png",
+      "title": "MySQL",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/mongodb.svg",
+      "title": "MongoDB",
       "level": "Sí"
     },
     {
       "img": "../../../assets/tech/git.png",
       "title": "Git",
       "level": "Sí"
-    },
-
-    {
-      "img": "../../../assets/tech/nodejs.png",
-      "title": "Node.js",
-      "level": "No"
-    },
-    {
-      "img": "../../../assets/tech/nestjs.png",
-      "title": "NestJS",
-      "level": "Sí"
-    },
-
-
-    {
-      "img": "../../../assets/tech/linux.png",
-      "title": "Python",
-      "level": "Sí"
     }
-
-
   ],
   "projects": [
     {
