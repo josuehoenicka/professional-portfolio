@@ -192,9 +192,9 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/git.png",
-      "title": "Git",
-      "level": "Sí"
+      "img": "../../../assets/tech/sqlserver.png",
+      "title": "SQL Server",
+      "level": "No"
     }
   ],
   "projects": [
