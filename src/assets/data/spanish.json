@@ -134,12 +134,12 @@
     {
       "img": "../../../assets/tech/c-sharp.svg",
       "title": "C#",
-      "level": "No"
+      "level": "Si"
     },
     {
-      "img": "../../../assets/tech/nodejs.png",
-      "title": "Node.js",
-      "level": "No"
+      "img": "../../../assets/tech/react.png",
+      "title": "React.js",
+      "level": "Si"
     },
     {
       "img": "../../../assets/tech/angular.svg",
@@ -149,37 +149,22 @@
     {
       "img": "../../../assets/tech/net-core.png",
       "title": ".NET Core",
-      "level": "No"
+      "level": "Si"
     },
     {
-      "img": "../../../assets/tech/expressjs.png",
-      "title": "Express.js",
-      "level": "No"
+      "img": "../../../assets/tech/nodejs.png",
+      "title": "Node.js",
+      "level": "Si"
     },
     {
       "img": "../../../assets/tech/nestjs.png",
       "title": "NestJS",
-      "level": "No"
+      "level": "Si"
     },
     {
       "img": "../../../assets/tech/asp-net-core.png",
       "title": "ASP.NET Core",
-      "level": "No"
-    },
-    {
-      "img": "../../../assets/tech/docker.png",
-      "title": "Docker",
-      "level": "No"
-    },
-    {
-      "img": "../../../assets/tech/firebase.png",
-      "title": "Firebase",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/azure.png",
-      "title": "Azure",
-      "level": "No"
+      "level": "Si"
     },
     {
       "img": "../../../assets/tech/mysql.png",
@@ -194,7 +179,22 @@
     {
       "img": "../../../assets/tech/sqlserver.png",
       "title": "SQL Server",
-      "level": "No"
+      "level": "Si"
+    },
+    {
+      "img": "../../../assets/tech/docker.png",
+      "title": "Docker",
+      "level": "Si"
+    },
+    {
+      "img": "../../../assets/tech/firebase.png",
+      "title": "Firebase",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/azure.png",
+      "title": "Azure",
+      "level": "Si"
     }
   ],
   "projects": [
