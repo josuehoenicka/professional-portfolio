@@ -132,8 +132,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/c-sharp.svg",
-      "title": "C#",
+      "img": "../../../assets/tech/html.png",
+      "title": "HTML",
       "level": "Si"
     },
     {
@@ -147,8 +147,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/net-core.png",
-      "title": ".NET Core",
+      "img": "../../../assets/tech/css.png",
+      "title": "CSS",
       "level": "Si"
     },
     {
@@ -162,8 +162,8 @@
       "level": "Si"
     },
     {
-      "img": "../../../assets/tech/asp-net-core.png",
-      "title": "ASP.NET Core",
+      "img": "../../../assets/tech/bootstrap.svg",
+      "title": "Bootstrap",
       "level": "Si"
     },
     {
@@ -177,7 +177,7 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/sqlserver.png",
+      "img": "../../../assets/tech/tailwind.png",
       "title": "SQL Server",
       "level": "Si"
     },
@@ -192,8 +192,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/azure.png",
-      "title": "Azure",
+      "img": "../../../assets/tech/git.png",
+      "title": "Git",
       "level": "Si"
     }
   ],
