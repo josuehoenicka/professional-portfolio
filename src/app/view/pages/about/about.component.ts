@@ -11,7 +11,7 @@ export class AboutComponent implements OnInit, OnDestroy {
   josuehoenicka: any;
   experience: any;
   certification: any;
-  occupations = ["Software Developer", "Web Developer", "Mobile Developer"];
+  name = ["Josue Hoenicka"];
   public currentOccupation: string = "";
 
   private intervalId: any;
@@ -32,8 +32,8 @@ export class AboutComponent implements OnInit, OnDestroy {
   }
 
   startAnimatingTitle() {
-    let occupationIndex = 0;
-    let occupation = this.occupations[occupationIndex];
+    let _i = 0;
+    let occupation = this.name[_i];
     let i = 0;
     const time = 100;
 
@@ -53,11 +53,11 @@ export class AboutComponent implements OnInit, OnDestroy {
       if (i >= 0) {
         this.intervalId = setTimeout(deleteLetter, time);
       } else {
-        occupationIndex++;
-        if (occupationIndex >= this.occupations.length) {
-          occupationIndex = 0;
+        _i++;
+        if (_i >= this.name.length) {
+          _i = 0;
         }
-        occupation = this.occupations[occupationIndex];
+        occupation = this.name[_i];
         this.intervalId = setTimeout(addLetter, time);
       }
     };

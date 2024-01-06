@@ -37,7 +37,7 @@
       "description": "Dentro da empresa Depsys Informática, trabalho no projeto LiberaSOFT, que oferece um sistema de gestão de todos os processos empresariais de maneira rápida e segura. Também inclui aplicativos móveis que permitem otimizar os tempos de resposta dentro de uma empresa, sendo modulares com a possibilidade de adquirir módulos conforme as necessidades surgem, e uma loja de comércio eletrônico integrada com B2C, B2B e Mercado Livre Colaboro com minha equipe no lado do cliente utilizando a biblioteca PrimeNg, Angular e seus pacotes de ambiente de trabalho. Juntos, implementamos o carregamento preguiçoso (lazy loading) e a modularização no projeto. Da minha parte, refatorei componentes de formulários orientados a modelos, migrando-os para formulários reativos em diferentes módulos da aplicação. Personalizei métodos que permitem imprimir tabelas do PrimeNg em formatos Excel e PDF, bem como métodos para carregar todos os dados necessários dos pontos de extremidade para cada componente Atualmente, estou implementando melhorias e soluções para os vários problemas que surgem em diferentes módulos durante o desenvolvimento da aplicação. Utilizamos o software MantisBT para gerenciar tarefas de forma eficaz com minha equipe"
     },
     {
-      "title": "Full-Stack Developer",
+      "title": "Front-End Developer",
       "company": "at Thecodebash",
       "description": "Thecodebash é uma loja de comércio eletrônico internacional de compra e venda de código, onde os usuários terão uma plataforma interessante e acessível para fazer crescer seu perfil e produtos dentro de uma comunidade ativa. Fora da comercialização, a plataforma oferecerá um espaço aos usuários que desejam se abrir para a comunidade de código aberto Junto com a minha equipe trabalho utilizando as tecnologias Angular, Flask e MongoDB. Desenvolvi a estrutura do lado do cliente e implementei o módulo de roteamento e carregamento preguiçoso na aplicação. Também criei os sistemas de login, registro, validação e estabeleci a conexão com os dados do usuário e produtos registrados no banco de dados. Atualmente, estou incorporando lógica em cada módulo e trabalhando com minha equipe semanalmente"
     },
@@ -122,6 +122,11 @@
   ],
   "techs": [
     {
+      "img": "../../../assets/tech/html.png",
+      "title": "HTML",
+      "level": "Si"
+    },
+    {
       "img": "../../../assets/tech/javascript.png",
       "title": "JavaScript",
       "level": "Sí"
@@ -132,8 +137,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/html.png",
-      "title": "HTML",
+      "img": "../../../assets/tech/css.png",
+      "title": "CSS",
       "level": "Si"
     },
     {
@@ -147,8 +152,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/css.png",
-      "title": "CSS",
+      "img": "../../../assets/tech/bootstrap.svg",
+      "title": "Bootstrap",
       "level": "Si"
     },
     {
@@ -161,9 +166,25 @@
       "title": "NestJS",
       "level": "Si"
     },
+
     {
-      "img": "../../../assets/tech/bootstrap.svg",
-      "title": "Bootstrap",
+      "img": "../../../assets/tech/sass.png",
+      "title": "Sass",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/expressjs.png",
+      "title": "Express.js",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/rxjs.png",
+      "title": "RxJS",
+      "level": "Si"
+    },
+    {
+      "img": "../../../assets/tech/tailwind.png",
+      "title": "TailwindCSS ",
       "level": "Si"
     },
     {
@@ -171,31 +192,12 @@
       "title": "MySQL",
       "level": "Sí"
     },
-    {
-      "img": "../../../assets/tech/mongodb.svg",
-      "title": "MongoDB",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/tailwind.png",
-      "title": "SQL Server",
-      "level": "Si"
-    },
-    {
-      "img": "../../../assets/tech/docker.png",
-      "title": "Docker",
-      "level": "Si"
-    },
-    {
-      "img": "../../../assets/tech/firebase.png",
-      "title": "Firebase",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/git.png",
-      "title": "Git",
-      "level": "Si"
-    }
+      {
+        "img": "../../../assets/tech/firebase.png",
+        "title": "Firebase",
+        "level": "Sí"
+      }
+
   ],
   "projects": [
     {
@@ -208,7 +210,7 @@
     },
     {
       "title": "Thecodebash",
-      "description": "Full-Stack Developer",
+      "description": "Front-End Developer",
       "link_github": "https://github.com/Thecodebash",
       "link_google": "https://thecodebash.firebaseapp.com/",
       "available_github": true,

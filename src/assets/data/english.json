@@ -37,7 +37,7 @@
       "description": "Within the Depsys Informatica company, I work on the LiberaSOFT project, which provides a management system for all business processes quickly and securely. Mobile apps are included, which allow for the optimization of response times within a company. These apps are modular, with the possibility of acquiring modules as needs arise, and an integrated e-commerce store with B2C, B2B, and Mercado Libre I collaborate with my team on the client side using the PrimeNg library, Angular, and its workspace packages. Together with my team, we implement lazy loading and modularization in the project. On my part, I refactored template-driven form components, migrating them to reactive forms in different modules of the application. I customized methods that allow for printing PrimeNg tables in Excel and PDF formats, as well as methods to load all the necessary endpoint data for each component Currently, I'm implementing improvements and solutions to the various problems that arise in different modules during application development. We use the MantisBT software to effectively manage tasks with my team"
     },
     {
-      "title": "Full-Stack Developer",
+      "title": "Front-End Developer",
       "company": "at Thecodebash",
       "description": "Thecodebash is an international e-commerce store for buying and selling code. Users will have an exciting and accessible platform to grow their profile and products within an active community. Outside of commercialization, the platform will provide a space for users who want to open up to the open-source community Together with my team working using Angular, Flask, and MongoDB technologies. I developed the client-side structure and implemented a routing module and lazy loading in the application. I also created the login, register, and validate systems and established the connection to the database's user data and product records. Currently, I am incorporating logic into each module and working with my team on a weekly basis"
     },
@@ -122,6 +122,11 @@
   ],
   "techs": [
     {
+      "img": "../../../assets/tech/html.png",
+      "title": "HTML",
+      "level": "Si"
+    },
+    {
       "img": "../../../assets/tech/javascript.png",
       "title": "JavaScript",
       "level": "Sí"
@@ -132,8 +137,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/html.png",
-      "title": "HTML",
+      "img": "../../../assets/tech/css.png",
+      "title": "CSS",
       "level": "Si"
     },
     {
@@ -147,8 +152,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/css.png",
-      "title": "CSS",
+      "img": "../../../assets/tech/bootstrap.svg",
+      "title": "Bootstrap",
       "level": "Si"
     },
     {
@@ -161,9 +166,25 @@
       "title": "NestJS",
       "level": "Si"
     },
+
     {
-      "img": "../../../assets/tech/bootstrap.svg",
-      "title": "Bootstrap",
+      "img": "../../../assets/tech/sass.png",
+      "title": "Sass",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/expressjs.png",
+      "title": "Express.js",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/rxjs.png",
+      "title": "RxJS",
+      "level": "Si"
+    },
+    {
+      "img": "../../../assets/tech/tailwind.png",
+      "title": "TailwindCSS ",
       "level": "Si"
     },
     {
@@ -171,31 +192,12 @@
       "title": "MySQL",
       "level": "Sí"
     },
-    {
-      "img": "../../../assets/tech/mongodb.svg",
-      "title": "MongoDB",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/tailwind.png",
-      "title": "SQL Server",
-      "level": "Si"
-    },
-    {
-      "img": "../../../assets/tech/docker.png",
-      "title": "Docker",
-      "level": "Si"
-    },
-    {
-      "img": "../../../assets/tech/firebase.png",
-      "title": "Firebase",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/git.png",
-      "title": "Git",
-      "level": "Si"
-    }
+      {
+        "img": "../../../assets/tech/firebase.png",
+        "title": "Firebase",
+        "level": "Sí"
+      }
+
   ],
   "projects": [
     {
@@ -208,7 +210,7 @@
     },
     {
       "title": "Thecodebash",
-      "description": "Full-Stack Developer",
+      "description": "Front-End Developer",
       "link_github": "https://github.com/Thecodebash",
       "link_google": "https://thecodebash.firebaseapp.com/",
       "available_github": true,
