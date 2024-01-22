@@ -16,14 +16,14 @@
 
 #tech-grid-container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   padding-top: 1em;
 }
 
 .tech-items {
-  width: 4.5em;
-  height: 4.5em;
-  margin: .7em 3.5em;
+  width: 5em;
+  height: 5em;
+  margin: 1em 3em;
   background-color: transparent;
 }
 
@@ -68,7 +68,7 @@
 }
 
 .flag-items {
-  width: 4.6em;
+  width: 5em;
   padding: 2em 0;
   cursor: pointer;
 }
@@ -92,7 +92,7 @@
   }
   #tech-grid-container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     padding-top: 0;
   }
   #lang-container-desktop {

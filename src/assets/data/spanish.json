@@ -145,6 +145,11 @@
       "level": "Sí"
     },
     {
+      "img": "../../../assets/tech/mysql.png",
+      "title": "MySQL",
+      "level": "Sí"
+    },
+    {
       "img": "../../../assets/tech/css.png",
       "title": "CSS",
       "level": "Si"
@@ -157,6 +162,11 @@
     {
       "img": "../../../assets/tech/angular.svg",
       "title": "Angular",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/mongodb.svg",
+      "title": "MongoDB",
       "level": "Sí"
     },
     {
@@ -174,6 +184,11 @@
       "title": "NestJS",
       "level": "Si"
     },
+    {
+      "img": "../../../assets/tech/firebase.png",
+      "title": "Firebase",
+      "level": "Sí"
+    },
 
     {
       "img": "../../../assets/tech/sass.png",
@@ -183,28 +198,18 @@
     {
       "img": "../../../assets/tech/expressjs.png",
       "title": "Express.js",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/rxjs.png",
-      "title": "RxJS",
       "level": "Si"
     },
     {
-      "img": "../../../assets/tech/tailwind.png",
-      "title": "TailwindCSS ",
+      "img": "../../../assets/tech/ionic.png",
+      "title": "Ionic",
       "level": "Si"
     },
     {
-      "img": "../../../assets/tech/mysql.png",
-      "title": "MySQL",
-      "level": "Sí"
-    },
-      {
-        "img": "../../../assets/tech/firebase.png",
-        "title": "Firebase",
-        "level": "Sí"
-      }
+      "img": "../../../assets/tech/docker.png",
+      "title": "Docker",
+      "level": "Si"
+    }
 
   ],
   "projects": [
