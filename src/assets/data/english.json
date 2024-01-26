@@ -32,22 +32,22 @@
   "gmail": "mailto:josuee.vzla@gmail.com",
   "experience": [
     {
-      "title": "Front-End Developer",
+      "title": "Angular Developer",
       "company": "at Liberasoft",
       "description": "Within the Depsys Informatica company, I work on the LiberaSOFT project, which provides a management system for all business processes quickly and securely. Mobile apps are included, which allow for the optimization of response times within a company. These apps are modular, with the possibility of acquiring modules as needs arise, and an integrated e-commerce store with B2C, B2B, and Mercado Libre I collaborate with my team on the client side using the PrimeNg library, Angular, and its workspace packages. Together with my team, we implement lazy loading and modularization in the project. On my part, I refactored template-driven form components, migrating them to reactive forms in different modules of the application. I customized methods that allow for printing PrimeNg tables in Excel and PDF formats, as well as methods to load all the necessary endpoint data for each component Currently, I'm implementing improvements and solutions to the various problems that arise in different modules during application development. We use the MantisBT software to effectively manage tasks with my team"
     },
     {
-      "title": "Front-End Developer",
+      "title": "Angular Developer",
       "company": "at Thecodebash",
       "description": "Thecodebash is an international e-commerce store for buying and selling code. Users will have an exciting and accessible platform to grow their profile and products within an active community. Outside of commercialization, the platform will provide a space for users who want to open up to the open-source community Together with my team working using Angular, Flask, and MongoDB technologies. I developed the client-side structure and implemented a routing module and lazy loading in the application. I also created the login, register, and validate systems and established the connection to the database's user data and product records. Currently, I am incorporating logic into each module and working with my team on a weekly basis"
     },
     {
-      "title": "Front-End Developer",
+      "title": "Web Developer",
       "company": "at L.E.R",
       "description": "I developed an application using HTML, CSS, and JavaScript for the Appointment Setters team at La Estamos Rompiendo. I provided employees with a simple and efficient way to manage the tracking of various important data in their daily work. Employees will be able to input and track crucial information (Follow-ups, inbound leads, outbound leads, calls proposed, new bookings, etc.). The platform includes a function that allows them to download the data locally in txt format. The application was a customized solution that improved efficiency and accuracy in tracking key data for the appointment setters team"
     },
     {
-      "title": "Front-End Developer",
+      "title": "Angular Developer",
       "company": "at Make It Happen",
       "description": "I worked collaboratively with a design and marketing team to develop a platform for an international Christian ministry. I used Angular for platform development and set up Firebase hosting with Hostinger. I created a form for users to anonymously send their messages to contact professional counselors. I connected the ministry's official radio so that users can listen to real-time broadcasts"
     }
@@ -127,6 +127,26 @@
       "level": "Si"
     },
     {
+      "img": "../../../assets/tech/css.png",
+      "title": "CSS",
+      "level": "Si"
+    },
+    {
+      "img": "../../../assets/tech/sass.png",
+      "title": "Sass",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/tailwind.png",
+      "title": "TailwindCSS",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/bootstrap.svg",
+      "title": "Bootstrap",
+      "level": "Si"
+    },
+    {
       "img": "../../../assets/tech/javascript.png",
       "title": "JavaScript",
       "level": "Sí"
@@ -137,33 +157,40 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/mysql.png",
-      "title": "MySQL",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/css.png",
-      "title": "CSS",
-      "level": "Si"
-    },
-    {
       "img": "../../../assets/tech/react.png",
       "title": "React.js",
-      "level": "Si"
+      "level": "No"
     },
     {
       "img": "../../../assets/tech/angular.svg",
       "title": "Angular",
       "level": "Sí"
     },
+
+
     {
-      "img": "../../../assets/tech/mongodb.svg",
-      "title": "MongoDB",
-      "level": "Sí"
+      "img": "../../../assets/tech/redux.png",
+      "title": "Redux",
+      "level": "No"
     },
     {
-      "img": "../../../assets/tech/bootstrap.svg",
-      "title": "Bootstrap",
+      "img": "../../../assets/tech/rxjs.png",
+      "title": "RxJS",
+      "level": "Si"
+    },
+    {
+      "img": "../../../assets/tech/capacitor.png",
+      "title": "Capacitor",
+      "level": "Si"
+    },
+    {
+      "img": "../../../assets/tech/reactnative.svg",
+      "title": "React Native",
+      "level": "No"
+    },
+    {
+      "img": "../../../assets/tech/ionic.png",
+      "title": "Ionic",
       "level": "Si"
     },
     {
@@ -172,35 +199,34 @@
       "level": "Si"
     },
     {
+      "img": "../../../assets/tech/expressjs.png",
+      "title": "Express.js",
+      "level": "Si"
+    },
+    {
       "img": "../../../assets/tech/nestjs.png",
       "title": "NestJS",
-      "level": "Si"
+      "level": "No"
+    },
+    {
+      "img": "../../../assets/tech/mysql.png",
+      "title": "MySQL",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/mongodb.svg",
+      "title": "MongoDB",
+      "level": "No"
     },
     {
       "img": "../../../assets/tech/firebase.png",
       "title": "Firebase",
       "level": "Sí"
     },
-
-    {
-      "img": "../../../assets/tech/sass.png",
-      "title": "Sass",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/expressjs.png",
-      "title": "Express.js",
-      "level": "Si"
-    },
-    {
-      "img": "../../../assets/tech/ionic.png",
-      "title": "Ionic",
-      "level": "Si"
-    },
     {
       "img": "../../../assets/tech/docker.png",
       "title": "Docker",
-      "level": "Si"
+      "level": "No"
     }
 
   ],
