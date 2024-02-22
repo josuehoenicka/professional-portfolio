@@ -130,31 +130,6 @@
   ],
   "techs": [
     {
-      "img": "../../../assets/tech/html.png",
-      "title": "HTML",
-      "level": "Si"
-    },
-    {
-      "img": "../../../assets/tech/css.png",
-      "title": "CSS",
-      "level": "Si"
-    },
-    {
-      "img": "../../../assets/tech/sass.png",
-      "title": "Sass",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/tailwind.png",
-      "title": "TailwindCSS",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/bootstrap.svg",
-      "title": "Bootstrap",
-      "level": "Si"
-    },
-    {
       "img": "../../../assets/tech/javascript.png",
       "title": "JavaScript",
       "level": "Sí"
@@ -165,41 +140,24 @@
       "level": "Sí"
     },
     {
+      "img": "../../../assets/tech/php.png",
+      "title": "PHP",
+      "level": "Sí"
+    },
+    {
       "img": "../../../assets/tech/react.png",
       "title": "React.js",
-      "level": "No"
+      "level": "Sí"
     },
     {
       "img": "../../../assets/tech/angular.svg",
       "title": "Angular",
       "level": "Sí"
     },
-
-
     {
-      "img": "../../../assets/tech/redux.png",
-      "title": "Redux",
-      "level": "No"
-    },
-    {
-      "img": "../../../assets/tech/rxjs.png",
-      "title": "RxJS",
-      "level": "Si"
-    },
-    {
-      "img": "../../../assets/tech/capacitor.png",
-      "title": "Capacitor",
-      "level": "Si"
-    },
-    {
-      "img": "../../../assets/tech/reactnative.svg",
-      "title": "React Native",
-      "level": "No"
-    },
-    {
-      "img": "../../../assets/tech/ionic.png",
-      "title": "Ionic",
-      "level": "Si"
+      "img": "../../../assets/tech/laravel.png",
+      "title": "Laravel",
+      "level": "Sí"
     },
     {
       "img": "../../../assets/tech/nodejs.png",
@@ -207,36 +165,15 @@
       "level": "Si"
     },
     {
-      "img": "../../../assets/tech/expressjs.png",
-      "title": "Express.js",
-      "level": "Si"
-    },
-    {
       "img": "../../../assets/tech/nestjs.png",
       "title": "NestJS",
-      "level": "No"
+      "level": "Sí"
     },
     {
       "img": "../../../assets/tech/mysql.png",
       "title": "MySQL",
       "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/mongodb.svg",
-      "title": "MongoDB",
-      "level": "No"
-    },
-    {
-      "img": "../../../assets/tech/firebase.png",
-      "title": "Firebase",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/docker.png",
-      "title": "Docker",
-      "level": "No"
     }
-
   ],
   "projects": [
     {

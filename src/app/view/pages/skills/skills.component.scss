@@ -16,14 +16,14 @@
 
 #tech-grid-container {
   display: grid;
-  grid-template-columns:  repeat(7, 1fr);
+  grid-template-columns:  repeat(3, 1fr);
   padding-top: 1em;
 }
 
 .tech-items {
-  width: 5em;
-  height: 5em;
-  margin: 1.7em 1em;
+  width: 6em;
+  height: 6em;
+  margin: 1.5em 3em;
   background-color: transparent;
 }
 
