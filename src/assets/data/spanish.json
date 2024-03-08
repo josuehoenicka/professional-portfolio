@@ -120,12 +120,12 @@
       "name": "ESPAÑOL"
     },
     {
-      "img": "../../../assets/lang/br.svg",
-      "name": "PORTUGUÉS"
-    },
-    {
       "img": "../../../assets/lang/us.svg",
       "name": "INGLÉS"
+    },
+    {
+      "img": "../../../assets/lang/br.svg",
+      "name": "PORTUGUÉS"
     }
   ],
   "techs": [
@@ -140,9 +140,10 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/php.png",
+      "img": "../../../assets/tech/php3.png",
       "title": "PHP",
-      "level": "Sí"
+      "level": "Sí",
+      "size": "techBg"
     },
     {
       "img": "../../../assets/tech/react.png",
@@ -155,8 +156,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/laravel.png",
-      "title": "Laravel",
+      "img": "../../../assets/tech/vuejs.png",
+      "title": "Vue.js",
       "level": "Sí"
     },
     {

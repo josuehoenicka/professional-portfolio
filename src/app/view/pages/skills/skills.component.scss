@@ -21,10 +21,16 @@
 }
 
 .tech-items {
-  width: 6em;
-  height: 6em;
+  width: 5em;
+  height: 5em;
   margin: 1.5em 3em;
   background-color: transparent;
+}
+
+.techBg {
+  margin: 1.5em 2.2em;
+  width: 65%;
+  object-fit: cover;
 }
 
 .tech-items:hover {
@@ -64,18 +70,19 @@
 
 .lvl-items {
   color: var(--white-on);
-  font-size: 3em;
+  font-size: 2.5em;
 }
 
 .flag-items {
+  border-radius: 100%;
   width: 5em;
-  padding: 2em 0;
+  padding: 2em .5em;
   cursor: pointer;
 }
 
 
 // Mobile
-@media (min-width: 15em) and (max-width: 39.9em){
+@media (min-width: 15em) and (max-width: 49em){
   #skills {
     display: flex;
     flex-direction: column;
@@ -92,7 +99,7 @@
   }
   #tech-grid-container {
     display: grid;
-    grid-template-columns:  repeat(7, 1fr);
+    grid-template-columns:  repeat(3, 1fr);
     padding-top: 0;
   }
   #lang-container-desktop {

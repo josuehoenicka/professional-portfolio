@@ -3,7 +3,7 @@
   <div id="tech-container">
       <div id="tech-grid-container" >
         <div *ngFor="let tech of tech">
-          <img [src]="tech.img" class="tech-items {{tech.level}}" title="{{tech.name}}">
+          <img [src]="tech.img" class="tech-items {{tech.level}} {{tech.size}}" title="{{tech.name}}">
         </div>
       </div>
   </div>
