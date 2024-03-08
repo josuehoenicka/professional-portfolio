@@ -170,36 +170,29 @@
   ],
   "projects": [
     {
-      "title": "L.E.R",
-      "description": "Front-End Developer",
-      "link_github": "https://github.com/josuehoenicka/laestamosrompiendo",
-      "link_google": "https://josuehoenicka.github.io/laestamosrompiendo",
-      "available_github": true,
-      "available_google": true
-    },
-    {
       "title": "Thecodebash",
-      "description": "Front-End Developer",
-      "link_github": "https://github.com/Thecodebash",
-      "link_google": "https://thecodebash.firebaseapp.com/",
-      "available_github": true,
-      "available_google": true
+      "description": "Angular Front-End Developer",
+      "link_website": "https://thecodebash.firebaseapp.com/"
     },
     {
-      "title": "LiberaSOFT",
-      "description": "Front-End Developer",
-      "link_github": "none",
-      "link_google": "https://www.liberasoft.com.ar/",
-      "available_github": false,
-      "available_google": true
+      "title": "Depsys Informática (LiberaSOFT)",
+      "description": "Angular Front-End Developer",
+      "link_website": "https://www.liberasoft.com.ar/"
     },
     {
-      "title": "Make It Happen",
-      "description": "Front-End Developer",
-      "link_github": "none",
-      "link_google": "https://dexcarriadosanonymous.com",
-      "available_github": false,
-      "available_google": true
+      "title": "RevenueB2B",
+      "description": "Technical Support",
+      "link_website": "https://revenueb2b.com/"
+    },
+    {
+      "title": "LA ESTAMOS ROMPIENDO",
+      "description": "Freelance Web Developer",
+      "link_website": "https://www.davidmorenoecom.com/"
+    },
+    {
+      "title": "Make It Happen Ministry",
+      "description": "Freelance Web Developer",
+      "link_website": "https://www.davidmorenoecom.com/"
     }
   ]
 }

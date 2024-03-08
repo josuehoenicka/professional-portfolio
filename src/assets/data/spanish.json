@@ -1,5 +1,5 @@
 {
-  "config" : {
+  "config": {
     "lang": "ESPAÑOL"
   },
   "navmobile": {
@@ -11,15 +11,15 @@
   "welcome": "Bienvenido a mi portafolio",
   "slidetext": "Haz click para deslizar",
   "navbar": [
-    {"link": "Sobre mí", "router": "about"},
-    {"link": "Habilidades", "router": "skills"},
-    {"link": "Experiencia", "router": "projects"},
-    {"link": "Contacto", "router": "contact"}
+    { "link": "Sobre mí", "router": "about" },
+    { "link": "Habilidades", "router": "skills" },
+    { "link": "Experiencia", "router": "projects" },
+    { "link": "Contacto", "router": "contact" }
   ],
   "contract": "Curriculum",
   "resume": "resume_es.pdf",
   "photo": "../../../assets/personal/josuehoenicka.png",
-	"im": "Soy ",
+  "im": "Soy ",
   "occupation1": "Angular Developer",
   "occupation2": "Node.js Developer",
   "occupation3": "Python Developer",
@@ -33,85 +33,66 @@
   "experience": [
     {
       "title": "Angular Developer",
-      "company": "at Liberasoft",
-      "description": "En mis primeros dos meses dentro de la empresa, conocí acerca del proyecto LiberaSOFT, mi equipo de trabajo, la herramienta MantisBT que es un gestor de tareas que se utiliza dentro de la empresa y la librería PrimeNG que la utilizamos en conjunto con Angular. Ya una vez dentro del equipo de desarrollo del lado del cliente, migré los formularios template-driven a formularios reactivos que estaban en los diferentes componentes de la aplicación; Apliqué asincronismo para cargar endpoints; Desarollé mejoras y resolví bugs dentro del módulo clientes, donde el usuario puede cargar, editar, eliminar clientes, y a su vez puede exportar clientes para formato Excel y PDF. Actualmente tengo apróximadamente un año dentro de Depsys Informática, donde trabajo la lógica de nuevos módulos como proveedores, factura de compra, nota de credito/debito, entre otros; Que me han llevado cada día a profundizar más en el desarrollo del lado del cliente con Angular y PrimeNG"
+      "company": "at Depsys Informática",
+      "description": "Desarrollar lado del cliente con Angular, PrimeNG, entre otras dependencias. Migrar el proyecto desde Angular 11 a Angular 16, incluyendo las dependencias para que fueran compatibles. Migrar formularios template-driven de los componentes en la aplicación a formularios reactivos, más aplicación de lazy loading y standalone components"
+    },
+    {
+      "title": "Technical Support",
+      "company": "at RevenueB2B",
+      "description": "Soporte a la comunidad por vía Skool y Slack. Creación de contenido y FAQs por vía Skool, YouTube, etc. Desarrollar código HTML para los email bodies en campañas de email marketing"
     },
     {
       "title": "Web Developer",
-      "company": "at L.E.R",
-      "description": "Desarrollé una aplicación utilizando HTML, CSS y JavaScript para el equipo de Appointment Setters en La Estamos Rompiendo. Ofrecí al equipo una herramienta intuitiva y eficiente para gestionar el seguimiento de datos clave en su rutina diaria. Los empleados ahora pueden ingresar y monitorear información crucial, como seguimientos, leads entrantes y salientes, propuestas de llamadas, nuevas reservas, entre otros. La plataforma también cuenta con la capacidad de descargar los datos localmente en formato txt. Esta aplicación personalizada resultó ser una solución que elevó la eficiencia y precisión en el seguimiento diario de dato"
+      "company": "at LA ESTAMOS ROMPIENDO",
+      "description": "Desarrollar una plataforma para el equipo de Appointment Setters con HTML, CSS y JavaScript. Desarrollar una plataforma para el equipo de Call Confirmers con HTML, CSS y JavaScript. Incorporar la funcionalidad de imprimir en formato .txt para que los equipos puedan descargar los datos, y posteriormente compartir el reporte con el equipo vía Slack para dar seguimiento de datos diarios"
     },
     {
       "title": "Angular Developer",
-      "company": "at Make It Happen",
-      "description": "Trabajé con un cliente de Estados Unidos para desarrollar una plataforma para un ministerio internacional cristiano. Utilicé Angular para el desarrollo del lado del cliente; Realicé el deploy con Firebase y lo configuré con el dominio que el cliente compró en Hostinger; Creé y desarrollé un caurosel con los flyers de la iglesia, un formulario reactivo para que el usuario pueda estar en contacto con la persona que seleccione hablar (el usuario puede ver la foto e imagen de 6 personas, puede seleccionar 1); Conecté la radio oficial del ministerio para que sus usuarios puedan escuchar la transmisión en tiempo real. Este sitio web sirvió para que los usuarios puedan estar en sintonía con los programas radiales del ministerio, y a contactar con las personas que quieran expresarse de forma anónima"
+      "company": "at Make It Happen Ministry",
+      "description": "Desarrollar toda la plataforma del lado del cliente con Angular 14 y PrimeNG 14. Comprar el dominio del cliente con Hostinger y conectarlo con el hosting de Firebase. Mantenimiento anual por dos años a la plataforma y estado del dominio"
     },
     {
       "title": "Angular Developer",
       "company": "at Thecodebash",
-      "description": "Dentro de la startup Thecodebash, trabajé en conjunto con mi equipo para desarrollar una tienda e-commerce, utilizando las tecnologías Angular para lado del cliente y Python/MongoDB para el servidor. Desarrollé la lógica y el UI del login, register, auth para validar usuarios recién registrados, home page para usuarios logeados y profile, y hice un adelanto al profile y manejo de datos para los primeros usuarios. El proyecto se pauso en finales del año 2022 por motivos de la directiva"
+      "description": "Desarrollar el lado del cliente con Angular 12 y PrimeNG 12. Migrar código de estilos del proyecto de CSS a SASS. Hostear y deployar la plataforma con Firebase"
     }
   ],
   "education": [
     {
       "school": "Universidad de Buenos Aires",
-      "title": "Inglés para IT"
+      "title": "English for IT"
     },
     {
       "school": "Universidad Tecnológica Nacional",
-      "title": "Desarrollo Web con React"
+      "title": "React Web Development"
     },
     {
       "school": "Codo a Codo",
-      "title": "Desarrollo Full-Stack con JavaScript"
+      "title": "Full-Stack JavaScript Development"
     },
     {
       "school": "Argentina Programa",
-      "title": "Desarrollo Web Full-Stack"
-    },
-    {
-      "school": "Argentina Programa",
-      "title": "Introducción a la Programación"
-    },
-    {
-      "school": "Argentina Programa",
-      "title": "Introducción a Python"
+      "title": "Full-Stack Web Development / Introduction to Python / Introduction to Programming"
     },
     {
       "school": "Fundación Teléfonica Movistar",
-      "title": "Ciberseguridad para el Entorno Educativo"
-    },
-    {
-      "school": "Fundación Teléfonica Movistar",
-      "title": "Introducción a la Ciberseguridad"
+      "title": "Cybersecurity for the Educational Environment / Introduction to Cybersecurity"
     },
     {
       "school": "Platzi",
-      "title": "Programación Básica"
+      "title": "Programming Basis"
     },
     {
       "school": "freeCodeCamp",
-      "title": "Algoritmos con JavaScript y Estructura de Datos"
-    },
-    {
-      "school": "freeCodeCamp",
-      "title": "Diseño Web Responsivo"
+      "title": "JavaScript Algorithms & Data Structure / Responsive Web Design"
     },
     {
       "school": "LinkedIn Learning",
-      "title": "Angular Avanzado"
-    },
-    {
-      "school": "LinkedIn Learning",
-      "title": "Angular Básico"
-    },
-    {
-      "school": "LinkedIn Learning",
-      "title": "Desarrollo Web Básico"
+      "title": "Angular Advanced / Angular Basis / Web Development Basis"
     },
     {
       "school": "EEMPI N°3060 San Jorge",
-      "title": "Escuela Secundaria"
+      "title": "Bachelor's Degree"
     }
   ],
   "languages": [
@@ -178,36 +159,29 @@
   ],
   "projects": [
     {
-      "title": "L.E.R",
-      "description": "Front-End Developer",
-      "link_github": "https://github.com/josuehoenicka/laestamosrompiendo",
-      "link_google": "https://josuehoenicka.github.io/laestamosrompiendo",
-      "available_github": true,
-      "available_google": true
-    },
-    {
       "title": "Thecodebash",
-      "description": "Front-End Developer",
-      "link_github": "https://github.com/Thecodebash",
-      "link_google": "https://thecodebash.firebaseapp.com/",
-      "available_github": true,
-      "available_google": true
+      "description": "Angular Front-End Developer",
+      "link_website": "https://thecodebash.firebaseapp.com/"
     },
     {
-      "title": "LiberaSOFT",
-      "description": "Front-End Developer",
-      "link_github": "none",
-      "link_google": "https://www.liberasoft.com.ar/",
-      "available_github": false,
-      "available_google": true
+      "title": "Depsys Informática (LiberaSOFT)",
+      "description": "Angular Front-End Developer",
+      "link_website": "https://www.liberasoft.com.ar/"
     },
     {
-      "title": "Make It Happen",
-      "description": "Front-End Developer",
-      "link_github": "none",
-      "link_google": "https://dexcarriadosanonymous.com",
-      "available_github": false,
-      "available_google": true
+      "title": "RevenueB2B",
+      "description": "Technical Support",
+      "link_website": "https://revenueb2b.com/"
+    },
+    {
+      "title": "LA ESTAMOS ROMPIENDO",
+      "description": "Freelance Web Developer",
+      "link_website": "https://www.davidmorenoecom.com/"
+    },
+    {
+      "title": "Make It Happen Ministry",
+      "description": "Freelance Web Developer",
+      "link_website": "https://www.davidmorenoecom.com/"
     }
   ]
 }
