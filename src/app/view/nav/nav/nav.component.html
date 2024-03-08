@@ -1,36 +1,62 @@
 <nav>
-    <div class="show-mobile">
-      <div>
-        <button (click)="toggleMenu()" [class.active]="activeMenu">
-          <img src="../../../../assets/icons/nav.svg" alt="menu">
-        </button>
-        <select name="" id="" (change)="onChangeLanguage($event)">
-          <option disabled selected class="option-first">{{josuehoenicka.config.lang}}</option>
-          <option value="english">ENGLISH</option>
-          <option value="spanish">SPANISH</option>
-          <option value="portuguese">PORTUGUESE</option>
-        </select>
-      </div>
-      <div class="side-menu" [class.active]="activeMenu">
-        <button (click)="toggleMenu()">X</button>
-        <ul>
-          <li><a routerLink="/about">{{josuehoenicka.navmobile.about}}</a></li>
-          <li><a routerLink="/skills">{{josuehoenicka.navmobile.skills}}</a></li>
-          <li><a routerLink="/contact">{{josuehoenicka.navmobile.contact}}</a></li>
-          <li><a href="../../../../assets/personal/{{josuehoenicka.resume}}" target="_blank">{{josuehoenicka.navmobile.resume}}</a></li>
-        </ul>
-      </div>
-    </div>
-    <div class="navbar-container">
+  <div class="show-mobile">
+    <div>
+      <button (click)="toggleMenu()" [class.active]="activeMenu">
+        <img src="../../../../assets/icons/nav.svg" alt="menu" />
+      </button>
       <select name="" id="" (change)="onChangeLanguage($event)">
-        <option disabled selected class="option-first">{{josuehoenicka.config.lang}}</option>
+        <option disabled selected class="option-first">
+          {{ josuehoenicka.config.lang }}
+        </option>
         <option value="english">ENGLISH</option>
-        <option value="spanish">ESPAÑOL</option>
-        <option value="portuguese">PORTUGUÊS</option>
+        <option value="spanish">SPANISH</option>
+        <option value="portuguese">PORTUGUESE</option>
       </select>
-      <div>
-        <a *ngFor="let i of josuehoenicka.navbar" routerLink="/{{i.router}}" class="navbar-items">{{i.link}}</a>
-        <a href="../../../../assets/personal/{{josuehoenicka.resume}}" target="_blank" class="btn-navbar">{{josuehoenicka.contract}}</a>
-      </div>
     </div>
+    <div class="side-menu" [class.active]="activeMenu">
+      <button (click)="toggleMenu()">X</button>
+      <ul>
+        <li>
+          <a routerLink="/about">{{ josuehoenicka.navmobile.about }}</a>
+        </li>
+        <li>
+          <a routerLink="/skills">{{ josuehoenicka.navmobile.skills }}</a>
+        </li>
+        <li>
+          <a routerLink="/contact">{{ josuehoenicka.navmobile.contact }}</a>
+        </li>
+        <li>
+          <a
+            href="../../../../assets/personal/{{ josuehoenicka.resume }}"
+            target="_blank"
+            >{{ josuehoenicka.navmobile.resume }}</a
+          >
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="navbar-container">
+    <select name="" id="" (change)="onChangeLanguage($event)">
+      <option disabled selected class="option-first">
+        {{ josuehoenicka.config.lang }}
+      </option>
+      <option value="english">ENGLISH</option>
+      <option value="spanish">ESPAÑOL</option>
+      <option value="portuguese">PORTUGUÊS</option>
+    </select>
+    <div>
+      <a
+        *ngFor="let i of josuehoenicka.navbar"
+        routerLink="/{{ i.router }}"
+        class="navbar-items"
+        >{{ i.link }}</a
+      >
+      <a
+        href="https://www.canva.com/design/DAFC-QUHZzE/4nPj8uudpuhyVfY_M_wpew/edit?utm_content=DAFC-QUHZzE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+        target="_blank"
+        class="btn-navbar"
+        >{{ josuehoenicka.contract }}</a
+      >
+    </div>
+  </div>
 </nav>

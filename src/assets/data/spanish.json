@@ -34,27 +34,27 @@
     {
       "title": "Angular Developer",
       "company": "at Depsys Informática",
-      "description": "Desarrollar lado del cliente con Angular, PrimeNG, entre otras dependencias. Migrar el proyecto desde Angular 11 a Angular 16, incluyendo las dependencias para que fueran compatibles. Migrar formularios template-driven de los componentes en la aplicación a formularios reactivos, más aplicación de lazy loading y standalone components"
+      "description": "Desarrollar lado del cliente con Angular, PrimeNG, entre otras dependencias / Migrar el proyecto desde Angular 11 a Angular 16, incluyendo las dependencias para que fueran compatibles / Migrar formularios template-driven de los componentes en la aplicación a formularios reactivos, más aplicación de lazy loading y standalone components"
     },
     {
       "title": "Technical Support",
       "company": "at RevenueB2B",
-      "description": "Soporte a la comunidad por vía Skool y Slack. Creación de contenido y FAQs por vía Skool, YouTube, etc. Desarrollar código HTML para los email bodies en campañas de email marketing"
+      "description": "Soporte a la comunidad por vía Skool y Slack / Creación de contenido y FAQs por vía Skool, YouTube, etc / Desarrollar código HTML para los email bodies en campañas de email marketing"
     },
     {
       "title": "Web Developer",
       "company": "at LA ESTAMOS ROMPIENDO",
-      "description": "Desarrollar una plataforma para el equipo de Appointment Setters con HTML, CSS y JavaScript. Desarrollar una plataforma para el equipo de Call Confirmers con HTML, CSS y JavaScript. Incorporar la funcionalidad de imprimir en formato .txt para que los equipos puedan descargar los datos, y posteriormente compartir el reporte con el equipo vía Slack para dar seguimiento de datos diarios"
+      "description": "Desarrollar una plataforma para el equipo de Appointment Setters con HTML, CSS y JavaScript / Desarrollar una plataforma para el equipo de Call Confirmers con HTML, CSS y JavaScript / Incorporar la funcionalidad de imprimir en formato .txt para que los equipos puedan descargar los datos, y posteriormente compartir el reporte con el equipo vía Slack para dar seguimiento de datos diarios"
     },
     {
       "title": "Angular Developer",
       "company": "at Make It Happen Ministry",
-      "description": "Desarrollar toda la plataforma del lado del cliente con Angular 14 y PrimeNG 14. Comprar el dominio del cliente con Hostinger y conectarlo con el hosting de Firebase. Mantenimiento anual por dos años a la plataforma y estado del dominio"
+      "description": "Desarrollar toda la plataforma del lado del cliente con Angular 14 y PrimeNG 14 / Comprar el dominio del cliente con Hostinger y conectarlo con el hosting de Firebase / Mantenimiento anual por dos años a la plataforma y estado del dominio"
     },
     {
       "title": "Angular Developer",
       "company": "at Thecodebash",
-      "description": "Desarrollar el lado del cliente con Angular 12 y PrimeNG 12. Migrar código de estilos del proyecto de CSS a SASS. Hostear y deployar la plataforma con Firebase"
+      "description": "Desarrollar el lado del cliente con Angular 12 y PrimeNG 12 / Migrar código de estilos del proyecto de CSS a SASS / Hostear y deployar la plataforma con Firebase"
     }
   ],
   "education": [
@@ -75,16 +75,16 @@
       "title": "Full-Stack Web Development / Introduction to Python / Introduction to Programming"
     },
     {
-      "school": "Fundación Teléfonica Movistar",
-      "title": "Cybersecurity for the Educational Environment / Introduction to Cybersecurity"
+      "school": "freeCodeCamp",
+      "title": "JavaScript Algorithms & Data Structure / Responsive Web Design"
     },
     {
       "school": "Platzi",
       "title": "Programming Basis"
     },
     {
-      "school": "freeCodeCamp",
-      "title": "JavaScript Algorithms & Data Structure / Responsive Web Design"
+      "school": "Fundación Teléfonica Movistar",
+      "title": "Cybersecurity for the Educational Environment / Introduction to Cybersecurity"
     },
     {
       "school": "LinkedIn Learning",
@@ -147,8 +147,8 @@
       "level": "Si"
     },
     {
-      "img": "../../../assets/tech/nestjs.png",
-      "title": "NestJS",
+      "img": "../../../assets/tech/ionic.png",
+      "title": "Ionic",
       "level": "Sí"
     },
     {

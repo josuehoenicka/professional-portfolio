@@ -1,5 +1,5 @@
 {
-  "config" : {
+  "config": {
     "lang": "PORTUGUÊS"
   },
   "navmobile": {
@@ -11,15 +11,15 @@
   "welcome": "Bem-vindo ao meu portfólio",
   "slidetext": "Clique para deslizar",
   "navbar": [
-    {"link": "Sobre mim", "router": "about"},
-    {"link": "Habilidades", "router": "skills"},
-    {"link": "Experiência", "router": "projects"},
-    {"link": "Contato", "router": "contact"}
+    { "link": "Sobre mim", "router": "about" },
+    { "link": "Habilidades", "router": "skills" },
+    { "link": "Experiência", "router": "projects" },
+    { "link": "Contato", "router": "contact" }
   ],
   "contract": "Currículo",
   "resume": "resume_pt.pdf",
   "photo": "../../../assets/personal/josuehoenicka.png",
-	"im": "Sou ",
+  "im": "Sou ",
   "occupation1": "Angular Developer",
   "occupation2": "Node.js Developer",
   "occupation3": "Python Developer",
@@ -32,78 +32,67 @@
   "gmail": "mailto:josuee.vzla@gmail.com",
   "experience": [
     {
-      "title": "Angular Developer",
-      "company": "at Liberasoft",
-      "description": "Dentro da empresa Depsys Informática, trabalho no projeto LiberaSOFT, que oferece um sistema de gestão de todos os processos empresariais de maneira rápida e segura. Também inclui aplicativos móveis que permitem otimizar os tempos de resposta dentro de uma empresa, sendo modulares com a possibilidade de adquirir módulos conforme as necessidades surgem, e uma loja de comércio eletrônico integrada com B2C, B2B e Mercado Livre Colaboro com minha equipe no lado do cliente utilizando a biblioteca PrimeNg, Angular e seus pacotes de ambiente de trabalho. Juntos, implementamos o carregamento preguiçoso (lazy loading) e a modularização no projeto. Da minha parte, refatorei componentes de formulários orientados a modelos, migrando-os para formulários reativos em diferentes módulos da aplicação. Personalizei métodos que permitem imprimir tabelas do PrimeNg em formatos Excel e PDF, bem como métodos para carregar todos os dados necessários dos pontos de extremidade para cada componente Atualmente, estou implementando melhorias e soluções para os vários problemas que surgem em diferentes módulos durante o desenvolvimento da aplicação. Utilizamos o software MantisBT para gerenciar tarefas de forma eficaz com minha equipe"
+      "title": "Desenvolvedor Angular",
+      "company": "na Depsys Informática",
+      "description": "Desenvolvimento do lado do cliente com Angular, PrimeNG, entre outras dependências / Migração do projeto do Angular 11 para o Angular 16, incluindo as dependências para torná-lo compatível / Migração de formulários template-driven dos componentes na aplicação para formulários reativos, além da aplicação de lazy loading e componentes autônomos"
     },
     {
-      "title": "Angular Developer",
-      "company": "at Thecodebash",
-      "description": "Thecodebash é uma loja de comércio eletrônico internacional de compra e venda de código, onde os usuários terão uma plataforma interessante e acessível para fazer crescer seu perfil e produtos dentro de uma comunidade ativa. Fora da comercialização, a plataforma oferecerá um espaço aos usuários que desejam se abrir para a comunidade de código aberto Junto com a minha equipe trabalho utilizando as tecnologias Angular, Flask e MongoDB. Desenvolvi a estrutura do lado do cliente e implementei o módulo de roteamento e carregamento preguiçoso na aplicação. Também criei os sistemas de login, registro, validação e estabeleci a conexão com os dados do usuário e produtos registrados no banco de dados. Atualmente, estou incorporando lógica em cada módulo e trabalhando com minha equipe semanalmente"
+      "title": "Suporte Técnico",
+      "company": "na RevenueB2B",
+      "description": "Suporte à comunidade via Skool e Slack / Criação de conteúdo e FAQs via Skool, YouTube, etc / Desenvolvimento de código HTML para os corpos de e-mail em campanhas de e-mail marketing"
     },
     {
-      "title": "Web Developer",
-      "company": "at L.E.R",
-      "description": "Desenvolvi um aplicativo utilizando HTML, CSS e JavaScript para a equipe de Appointment Setters de La Estamos Rompiendo. Forneci aos funcionários uma maneira simples e eficiente de gerenciar o acompanhamento de diversos dados importantes em seu trabalho diário. Os funcionários poderão inserir e rastrear informações cruciais (Follow-ups, leads recebidos, leads enviados, propostas de ligação, novas reservas, etc.). A plataforma inclui uma função que permite o download dos dados localmente em formato txt. O aplicativo foi uma solução personalizada que melhorou a eficiência e a precisão no acompanhamento dos dados-chave para a equipe de appointment setters"
+      "title": "Desenvolvedor Web",
+      "company": "na LA ESTAMOS ROMPIENDO",
+      "description": "Desenvolvimento de uma plataforma para a equipe de Appointment Setters com HTML, CSS e JavaScript / Desenvolvimento de uma plataforma para a equipe de Call Confirmers com HTML, CSS e JavaScript / Incorporação da funcionalidade de impressão em formato .txt para que as equipes possam baixar os dados e, posteriormente, compartilhar o relatório com a equipe via Slack para acompanhamento de dados diários"
     },
     {
-      "title": "Angular Developer",
-      "company": "at Make It Happen",
-      "description": "Trabalhei em conjunto com uma equipe de design e marketing para desenvolver uma plataforma para um ministério cristão internacional. Utilizei o Angular para o desenvolvimento da plataforma e configurei o hospedagem no Firebase com o Hostinger. Criei um formulário para que os usuários possam enviar suas mensagens anonimamente e entrar em contato com conselheiros profissionais. Conectei o rádio oficial do ministério para que os usuários possam ouvir a transmissão em tempo real"
+      "title": "Desenvolvedor Angular",
+      "company": "na Make It Happen Ministry",
+      "description": "Desenvolvimento de toda a plataforma do lado do cliente com Angular 14 e PrimeNG 14 / Compra do domínio do cliente com Hostinger e conexão com o hosting do Firebase / Manutenção anual por dois anos da plataforma e status do domínio"
+    },
+    {
+      "title": "Desenvolvedor Angular",
+      "company": "na Thecodebash",
+      "description": "Desenvolvimento do lado do cliente com Angular 12 e PrimeNG 12 / Migração do código de estilos do projeto de CSS para SASS / Hospedagem e implantação da plataforma com Firebase"
     }
   ],
   "education": [
     {
       "school": "Universidad de Buenos Aires",
-      "title": "Inglês para TI"
+      "title": "English for IT"
+    },
+    {
+      "school": "Universidad Tecnológica Nacional",
+      "title": "React Web Development"
     },
     {
       "school": "Codo a Codo",
-      "title": "Desenvolvimento Full-Stack com JavaScript"
+      "title": "Full-Stack JavaScript Development"
     },
     {
       "school": "Argentina Programa",
-      "title": "Desenvolvimento Web Full-Stack"
-    },
-    {
-      "school": "Argentina Programa",
-      "title": "Introdução à Programação"
-    },
-    {
-      "school": "Fundación Teléfonica Movistar",
-      "title": "Cíberseguranç para Ambiente Educacional"
-    },
-    {
-      "school": "Fundación Teléfonica Movistar",
-      "title": "Introdução à Cíbersegurança"
+      "title": "Full-Stack Web Development / Introduction to Python / Introduction to Programming"
     },
     {
       "school": "freeCodeCamp",
-      "title": "Algoritmos com JavaScript e Estrutura de Dados"
-    },
-    {
-      "school": "freeCodeCamp",
-      "title": "Design Web Responsivo"
+      "title": "JavaScript Algorithms & Data Structure / Responsive Web Design"
     },
     {
       "school": "Platzi",
-      "title": "Programação Básica"
+      "title": "Programming Basis"
+    },
+    {
+      "school": "Fundación Teléfonica Movistar",
+      "title": "Cybersecurity for the Educational Environment / Introduction to Cybersecurity"
     },
     {
       "school": "LinkedIn Learning",
-      "title": "Angular Avançado"
-    },
-    {
-      "school": "LinkedIn Learning",
-      "title": "Angular Básico"
-    },
-    {
-      "school": "LinkedIn Learning",
-      "title": "Desenvolvimento Web Básico"
+      "title": "Angular Advanced / Angular Basis / Web Development Basis"
     },
     {
       "school": "EEMPI N°3060 San Jorge",
-      "title": "Ensino Médio"
+      "title": "Bachelor's Degree"
     }
   ],
   "languages": [
@@ -158,8 +147,8 @@
       "level": "Si"
     },
     {
-      "img": "../../../assets/tech/nestjs.png",
-      "title": "NestJS",
+      "img": "../../../assets/tech/ionic.png",
+      "title": "Ionic",
       "level": "Sí"
     },
     {
