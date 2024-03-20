@@ -127,24 +127,14 @@
       "size": "techBg"
     },
     {
-      "img": "../../../assets/tech/react.png",
-      "title": "React.js",
-      "level": "Sí"
+      "img": "../../../assets/tech/nodejs.png",
+      "title": "Node.js",
+      "level": "Si"
     },
     {
       "img": "../../../assets/tech/angular.svg",
       "title": "Angular",
       "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/vuejs.png",
-      "title": "Vue.js",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/nodejs.png",
-      "title": "Node.js",
-      "level": "Si"
     },
     {
       "img": "../../../assets/tech/ionic.png",
@@ -154,6 +144,16 @@
     {
       "img": "../../../assets/tech/mysql.png",
       "title": "MySQL",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/firebase.png",
+      "title": "Firebase",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/capacitor.png",
+      "title": "Capacitor",
       "level": "Sí"
     }
   ],
