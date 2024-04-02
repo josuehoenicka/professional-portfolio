@@ -121,10 +121,9 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/php3.png",
-      "title": "PHP",
-      "level": "Sí",
-      "size": "techBg"
+      "img": "../../../assets/tech/dart.png",
+      "title": "Dart",
+      "level": "Sí"
     },
     {
       "img": "../../../assets/tech/nodejs.png",
@@ -136,11 +135,13 @@
       "title": "Angular",
       "level": "Sí"
     },
+
     {
-      "img": "../../../assets/tech/ionic.png",
-      "title": "Ionic",
+      "img": "../../../assets/tech/flutter.webp",
+      "title": "Flutter",
       "level": "Sí"
     },
+
     {
       "img": "../../../assets/tech/mysql.png",
       "title": "MySQL",
@@ -152,8 +153,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/capacitor.png",
-      "title": "Capacitor",
+      "img": "../../../assets/tech/ionic.png",
+      "title": "Ionic",
       "level": "Sí"
     }
   ],
