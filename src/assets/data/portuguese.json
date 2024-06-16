@@ -97,32 +97,53 @@
   ],
   "languages": [
     {
-      "img": "../../../assets/lang/br.svg",
-      "name": "PORTUGUÊS"
+      "img": "../../../assets/lang/es.svg",
+      "name": "ESPANHOL"
     },
     {
       "img": "../../../assets/lang/us.svg",
       "name": "INGLÊS"
     },
     {
-      "img": "../../../assets/lang/es.svg",
-      "name": "ESPANHOL"
+      "img": "../../../assets/lang/br.svg",
+      "name": "PORTUGUÊS"
     }
   ],
   "techs": [
-    {
-      "img": "../../../assets/tech/javascript.png",
-      "title": "JavaScript",
-      "level": "Sí"
-    },
     {
       "img": "../../../assets/tech/typescript.png",
       "title": "TypeScript",
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/dart.png",
-      "title": "Dart",
+      "img": "../../../assets/tech/javascript.png",
+      "title": "JavaScript",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/php3.png",
+      "title": "PHP",
+      "level": "Sí",
+      "size": "techBg"
+    },
+    {
+      "img": "../../../assets/tech/angular.svg",
+      "title": "Angular",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/react.png",
+      "title": "React.js",
+      "level": "Si"
+    },
+    {
+      "img": "../../../assets/tech/mongodb.svg",
+      "title": "MongoDB",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/nestjs.png",
+      "title": "NestJS",
       "level": "Sí"
     },
     {
@@ -131,30 +152,8 @@
       "level": "Si"
     },
     {
-      "img": "../../../assets/tech/angular.svg",
-      "title": "Angular",
-      "level": "Sí"
-    },
-
-    {
-      "img": "../../../assets/tech/flutter.webp",
-      "title": "Flutter",
-      "level": "Sí"
-    },
-
-    {
       "img": "../../../assets/tech/mysql.png",
       "title": "MySQL",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/firebase.png",
-      "title": "Firebase",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/ionic.png",
-      "title": "Ionic",
       "level": "Sí"
     }
   ],
