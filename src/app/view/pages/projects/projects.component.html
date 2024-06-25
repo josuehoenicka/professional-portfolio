@@ -6,9 +6,9 @@
           <div class="mySlides2" *ngFor="let proj of project">
             <h4 class="slider-title">{{proj.title}}</h4>
             <p class="slider-description">{{proj.description}}</p>
-            <button>
-              <a href="{{proj.link_website}}" target="_blank" class="fa fa-chrome fa-on-projects"></a>
-            </button>
+              <a href="{{proj.link_website}}" target="_blank">
+                <img style="width: 30vw" src="{{proj.image}}" alt="{{proj.image_alt}}">
+              </a>
           </div>
           <div class="slide-bottom-container">
             <p class="title-slide-text">{{josuehoenicka.slidetext}}</p>

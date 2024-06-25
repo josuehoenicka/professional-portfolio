@@ -5,16 +5,16 @@
   "navmobile": {
     "about": "About me",
     "skills": "Skills",
-    "contact": "Contact",
-    "resume": "Resume"
+    "contact": "Projects",
+    "resume": "Resume",
+    "resume_link": "https://www.canva.com/design/DAFC-QUHZzE/KlKb5QJXAQLdfXQovlfqPA/view?utm_content=DAFC-QUHZzE&utm_campaign=designshare&utm_medium=link&utm_source=editor#1"
   },
   "welcome": "Welcome to my portfolio",
   "slidetext": "Click to slide",
   "navbar": [
     { "link": "About me", "router": "about" },
     { "link": "Skills", "router": "skills" },
-    { "link": "Experience", "router": "projects" },
-    { "link": "Contact", "router": "contact" }
+    { "link": "Projects", "router": "projects" }
   ],
   "about": {
     "experience": "EXPERIENCE",
@@ -32,29 +32,34 @@
   "gmail": "mailto:josuee.vzla@gmail.com",
   "experience": [
     {
-      "title": "Angular Developer",
-      "company": "at Depsys Informática",
-      "description": "Client-side development with Angular, PrimeNG, among other dependencies / Migrated project from Angular 11 to Angular 16, including dependencies to make them compatible / Migrated template-driven forms from components in the application to reactive forms, plus implementation of lazy loading and standalone components"
+      "title": "Mid Angular Developer",
+      "company": "@ LiberaSOFT (May 2024 - Present)",
+      "description": "I supervise and mentor the team of Juniors and Trainees. I designed and created the PDF printing style with jsPDF. Currently, I am developing the purchasing module (order, delivery note, and purchase invoice, etc.) and the sales module (quotation, etc.)."
     },
     {
-      "title": "Technical Support",
-      "company": "at RevenueB2B",
-      "description": "Community support via Skool and Slack / Created content and FAQs via Skool, YouTube, etc / Developed HTML code for email bodies in email marketing campaigns"
+      "title": "Angular Developer Jr",
+      "company": "@ LiberaSOFT (Aug 2023 - Apr 2024)",
+      "description": "I migrated the project from Angular 11 to Angular 16. I developed logic for client, supplier, sales, stock, and sales modules with Angular, PrimeNG, jsPDF, leaflet, moment, and other dependencies."
+    },
+    {
+      "title": "Angular Developer Trainee",
+      "company": "@ LiberaSOFT (Jun 2023 - Jul 2023)",
+      "description": "I migrated template-driven forms to reactive forms. I conducted in-depth research on PrimeNG documentation and the project's structure."
+    },
+    {
+      "title": "Support Assistant",
+      "company": "@ Revenue B2B (Oct 2023 - May 2024)",
+      "description": "I developed HTML code for email bodies in the company's email marketing campaigns. I created forms for leads using Typeform and Zapier. I provided technical support to clients via Slack and Skools."
     },
     {
       "title": "Web Developer",
-      "company": "at LA ESTAMOS ROMPIENDO",
-      "description": "Developed a platform for the Appointment Setters team with HTML, CSS, and JavaScript / Developed a platform for the Call Confirmers team with HTML, CSS, and JavaScript / Incorporated print functionality in .txt format so teams can download the data and subsequently share the report with the team via Slack for daily data tracking"
+      "company": "@ LER (Apr 2023 - Apr 2023)",
+      "description": "I created a website (with HTML5, CSS3, and JavaScript) where the Appointment Setters and Call Confirmers team can track daily data. I also developed the functionality to print to a .txt file so the teams can send them to their communication channels. These projects were completed on the client's scheduled date and improved the performance/dynamics of the two teams within the company."
     },
     {
       "title": "Angular Developer",
-      "company": "at Make It Happen Ministry",
-      "description": "Developed the entire client-side platform with Angular 14 and PrimeNG 14 / Purchased client's domain with Hostinger and connected it to Firebase hosting / Annual maintenance for two years of the platform and domain status"
-    },
-    {
-      "title": "Angular Developer",
-      "company": "at Thecodebash",
-      "description": "Client-side development with Angular 12 and PrimeNG 12 / Migrated project style code from CSS to SASS / Hosted and deployed the platform with Firebase"
+      "company": "@ Make It Happen (Oct 2022 - Dec 2022)",
+      "description": "I created a website (with Angular 16 and PrimeNG 16) where users can listen to the radio frequency and content related to the Christian association. I hosted the website with Firebase and linked it to the domain purchased on Hostinger. This project was completed on the client's scheduled date and increased their radio audience by 85%."
     }
   ],
   "education": [
@@ -68,15 +73,27 @@
     },
     {
       "school": "Codo a Codo",
-      "title": "Full-Stack JavaScript Development"
+      "title": "Full-Stack Development (JavaScript + Node.js)"
     },
     {
       "school": "Argentina Programa",
-      "title": "Full-Stack Web Development / Introduction to Python / Introduction to Programming"
+      "title": "Full-Stack Web Development (Angular + Spring Boot)"
+    },
+    {
+      "school": "Argentina Programa",
+      "title": "Introduction to Programming (JavaScript)"
+    },
+    {
+      "school": "Argentina Programa",
+      "title": "Python Algorithms"
     },
     {
       "school": "freeCodeCamp",
-      "title": "JavaScript Algorithms & Data Structure / Responsive Web Design"
+      "title": "JavaScript Algorithms & Data Structure"
+    },
+    {
+      "school": "freeCodeCamp",
+      "title": "Responsive Web Design"
     },
     {
       "school": "Platzi",
@@ -84,15 +101,15 @@
     },
     {
       "school": "Fundación Teléfonica Movistar",
-      "title": "Cybersecurity for the Educational Environment / Introduction to Cybersecurity"
+      "title": "Cybersecurity for the Educational Environment"
     },
     {
-      "school": "LinkedIn Learning",
-      "title": "Angular Advanced / Angular Basis / Web Development Basis"
+      "school": "Fundación Teléfonica Movistar",
+      "title": "Introduction to Cybersecurity"
     },
     {
       "school": "EEMPI N°3060 San Jorge",
-      "title": "Bachelor's Degree"
+      "title": "High School Diploma"
     }
   ],
   "languages": [
@@ -121,10 +138,9 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/php3.png",
-      "title": "PHP",
-      "level": "Sí",
-      "size": "techBg"
+      "img": "../../../assets/tech/mysql.png",
+      "title": "MySQL",
+      "level": "Sí"
     },
     {
       "img": "../../../assets/tech/angular.svg",
@@ -143,7 +159,7 @@
     },
     {
       "img": "../../../assets/tech/nestjs.png",
-      "title": "NestJS",
+      "title": "Nest.js",
       "level": "Sí"
     },
     {
@@ -152,36 +168,46 @@
       "level": "Si"
     },
     {
-      "img": "../../../assets/tech/mysql.png",
-      "title": "MySQL",
+      "img": "../../../assets/tech/docker.png",
+      "title": "Docker",
       "level": "Sí"
     }
   ],
   "projects": [
     {
       "title": "Thecodebash",
-      "description": "Angular Front-End Developer",
-      "link_website": "https://thecodebash.firebaseapp.com/"
+      "description": "mar. 2022 - jun. 2023 (+1 año)",
+      "link_website": "https://github.com/Thecodebash",
+      "image": "../../assets/images/thecodebash.jpg",
+      "image_alt": "Thecodebash"
     },
     {
-      "title": "Depsys Informática (LiberaSOFT)",
-      "description": "Angular Front-End Developer",
-      "link_website": "https://www.liberasoft.com.ar/"
+      "title": "LiberaSOFT",
+      "description": "jun. 2023 - actualidad (+1 año)",
+      "link_website": "https://www.liberasoft.com.ar/",
+      "image": "../../assets/images/liberasoft.jpg",
+      "image_alt": "Depsys Informática - LiberaSOFT"
     },
     {
-      "title": "RevenueB2B",
-      "description": "Technical Support",
-      "link_website": "https://revenueb2b.com/"
+      "title": "Revenue B2B",
+      "description": "oct. 2023 - may. 2024 (8 meses)",
+      "link_website": "https://revenueb2b.com/",
+      "image": "../../assets/images/revenueb2b.jpg",
+      "image_alt": "Revenue B2B - GO Global"
     },
     {
-      "title": "LA ESTAMOS ROMPIENDO",
-      "description": "Freelance Web Developer",
-      "link_website": "https://www.davidmorenoecom.com/"
+      "title": "La Estamos Rompiendo",
+      "description": "abr. 2023 - abr. 2023 (1 mes)",
+      "link_website": "https://www.davidmorenoecom.com/",
+      "image": "../../assets/images/ler.jpg",
+      "image_alt": "La Estamos Rompiendo"
     },
     {
-      "title": "Make It Happen Ministry",
-      "description": "Freelance Web Developer",
-      "link_website": "https://www.davidmorenoecom.com/"
+      "title": "Make It Happen",
+      "description": "oct. 2022 - dic. 2022 (3 meses)",
+      "link_website": "https://www.davidmorenoecom.com/",
+      "image": "../../assets/images/makeithappen.jpg",
+      "image_alt": "Make it Happen Ministry - Dexcarriados Anonymous"
     }
   ]
 }

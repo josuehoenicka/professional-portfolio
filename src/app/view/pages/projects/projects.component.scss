@@ -2,7 +2,7 @@ button {
   background-color: transparent;
   outline: none;
   border: none;
-  padding: 0 .5em;
+  padding: 0 0.5em;
 }
 
 #projects {
@@ -36,22 +36,23 @@ button {
   padding: 0.5em;
 }
 
-.slider-title{
-font-family: 'Alumni Sans Pinstripe';
-font-size: 3em;
-color: var(--white_on);
+.slider-title {
+  font-family: "Alumni Sans Pinstripe";
+  font-size: 4em;
+  color: var(--white_on);
+  font-weight: bolder;
 }
 
 .slider-description {
-padding: 0.5em 0;
-font-size: 1.8em;
-color: var(--white_off);
+  padding-bottom: 1em;
+  font-size: 1.5em;
+  color: var(--white-off);
 }
 
 .slider-techs {
-padding: 0.25em 0;
-font-size: 2em;
-color: var(--white-off);
+  padding: 0.25em 0;
+  font-size: 2em;
+  color: var(--white-off);
 }
 
 .mySlides2 {
@@ -65,7 +66,8 @@ color: var(--white-off);
   align-items: center;
 }
 
-.prev, .next {
+.prev,
+.next {
   cursor: pointer;
   padding: 2.5em;
   color: var(--white-off);
@@ -88,7 +90,8 @@ color: var(--white-off);
   align-items: center;
 }
 
-.prev:hover, .next:hover {
+.prev:hover,
+.next:hover {
   transition: 0.3s;
   font-size: 3em;
   color: var(--white-on);
@@ -109,7 +112,7 @@ color: var(--white-off);
 }
 
 // Mobile
-@media (min-width: 15em) and (max-width: 39.9em){
+@media (min-width: 15em) and (max-width: 39.9em) {
   .slideshow-container {
     display: none;
   }

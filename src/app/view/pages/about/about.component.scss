@@ -88,8 +88,8 @@ figcaption {
   background-size: cover;
   object-fit: cover;
   object-position: center;
-  width: 18em;
-  height: 18em;
+  width: 15em;
+  height: 15em;
   border-radius: 100%;
   padding: 0.5em 0;
 }
@@ -165,67 +165,78 @@ figcaption {
     width: 100vw;
     padding-top: 1em;
     .fig-title {
-      font-size: 2em;
+      font-size: 1.5em;
+      text-align: center;
     }
     .fig-ocupation {
       font-size: 1em;
+      text-align: center;
     }
+  }
+  .photo-item {
+    width: 11em;
+    height: 11em;
   }
   .scroll-container {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     text-align: center;
     width: 100vw;
-    height: 100%;
+    height: auto;
     margin-top: 1em;
-    margin-right: 0;
-    padding-top: 1em;
+    padding: 1em 0;
     line-height: 2em;
     overflow-y: hidden;
-    &.education-section {
-      display: none;
-    }
     .description-config-container {
       display: flex;
+      flex-direction: column;
       align-items: center;
       justify-content: center;
+      width: 100%;
       .about-containers {
         margin: 1em 0;
+        width: 90%;
         .about-titles {
           text-align: center;
-          padding-right: 0;
-          font-size: 1.7em;
+          font-size: 1.2em;
           color: var(--white_off);
+          padding-right: 0;
         }
         .about-subtitles {
-          text-align: justify-all;
-          padding: 0 1em;
-          font-size: 1.5em;
+          text-align: center;
+          font-size: 1.2em;
           color: var(--white-on);
+          padding-right: 0;
         }
         .certification-items {
           padding: 0;
         }
+      }
     }
-    }
+
     hr {
       margin: 2em 0;
+      width: 90%;
     }
+
     .titles {
       margin: 0;
-      font-size: 2em;
+      font-size: 1.5em;
       border: none;
+
       &.active {
         font-size: 2em;
       }
     }
+
     .active {
       margin: 0;
     }
   }
-
 }
+
 
 // Tablet
 @media  screen and (min-width: 40em) and (max-width: 63.9em){
