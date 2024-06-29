@@ -9,7 +9,6 @@ import { ContactComponent } from './pages/contact/contact.component';
 import { NavComponent } from './nav/nav/nav.component';
 import { FormsModule } from '@angular/forms';
 
-
 @NgModule({
   declarations: [
     AboutComponent,
@@ -18,13 +17,7 @@ import { FormsModule } from '@angular/forms';
     ContactComponent,
     NavComponent,
   ],
-  imports: [
-    CommonModule,
-    ViewRoutingModule,
-    FormsModule
-  ],
-  exports: [
-
-  ]
+  imports: [CommonModule, ViewRoutingModule, FormsModule],
+  exports: [],
 })
-export class ViewModule { }
+export class ViewModule {}
