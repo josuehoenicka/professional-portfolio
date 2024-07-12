@@ -147,8 +147,8 @@ import { PortfolioService } from 'src/app/services/portfolio.service';
           list-style: none;
         }
         .side-menu ul li {
-          font-size: 4em;
-          margin: 0.5em 0;
+          font-size: 3em;
+          margin: .7em 0em;
           color: var(--white-on);
         }
         .side-menu ul li a {
