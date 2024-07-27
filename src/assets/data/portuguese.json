@@ -163,13 +163,13 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/expressjs.png",
-      "title": "Express.js",
-      "level": "Si"
-    },
-    {
       "img": "../../../assets/tech/docker.png",
       "title": "Docker",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/firebase.png",
+      "title": "Firebase",
       "level": "Sí"
     }
   ],
