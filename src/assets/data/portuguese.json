@@ -148,21 +148,6 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/react.png",
-      "title": "Reactjs",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/firebase.png",
-      "title": "Firebase",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/nestjs.png",
-      "title": "Nestjs",
-      "level": "Sí"
-    },
-    {
       "img": "../../../assets/tech/nodejs.png",
       "title": "Node.js",
       "level": "Si"
@@ -170,6 +155,21 @@
     {
       "img": "../../../assets/tech/docker.png",
       "title": "Docker",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/ionic.png",
+      "title": "Ionic",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/expressjs.png",
+      "title": "Express.js",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/linux.png",
+      "title": "Linux",
       "level": "Sí"
     }
   ],
