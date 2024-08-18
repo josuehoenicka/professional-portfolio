@@ -136,10 +136,9 @@
       "img": "../../../assets/tech/javascript.png",
       "title": "JavaScript",
       "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/mysql.png",
-      "title": "MySQL",
+    },{
+      "img": "../../../assets/tech/c-sharp.svg",
+      "title": "C#",
       "level": "Sí"
     },
     {
@@ -158,18 +157,18 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/ionic.png",
-      "title": "Ionic",
+      "img": "../../../assets/tech/capacitor.png",
+      "title": "Capacitor",
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/expressjs.png",
-      "title": "Express.js",
+      "img": "../../../assets/tech/mysql.png",
+      "title": "MySQL",
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/linux.png",
-      "title": "Linux",
+      "img": "../../../assets/tech/firebase.png",
+      "title": "Firebase",
       "level": "Sí"
     }
   ],
