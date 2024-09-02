@@ -136,7 +136,8 @@
       "img": "../../../assets/tech/javascript.png",
       "title": "JavaScript",
       "level": "Sí"
-    },{
+    },
+    {
       "img": "../../../assets/tech/c-sharp.svg",
       "title": "C#",
       "level": "Sí"
@@ -157,8 +158,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/capacitor.png",
-      "title": "Capacitor",
+      "img": "../../../assets/tech/firebase.png",
+      "title": "Firebase",
       "level": "Sí"
     },
     {
@@ -167,8 +168,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/firebase.png",
-      "title": "Firebase",
+      "img": "../../../assets/tech/mongodb.svg",
+      "title": "MongoDB",
       "level": "Sí"
     }
   ],
