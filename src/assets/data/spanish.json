@@ -148,8 +148,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/react.png",
-      "title": "React.js",
+      "img": "../../../assets/tech/nodejs.png",
+      "title": "Node.js",
       "level": "Si"
     },
     {
@@ -163,8 +163,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/nodejs.png",
-      "title": "Node.js",
+      "img": "../../../assets/tech/expressjs.png",
+      "title": "Express.js",
       "level": "Si"
     },
     {
