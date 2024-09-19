@@ -128,23 +128,18 @@
   ],
   "techs": [
     {
-      "img": "../../../assets/tech/typescript.png",
-      "title": "TypeScript",
-      "level": "Sí"
-    },
-    {
       "img": "../../../assets/tech/javascript.png",
       "title": "JavaScript",
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/mysql.png",
-      "title": "MySQL",
+      "img": "../../../assets/tech/typescript.png",
+      "title": "TypeScript",
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/angular.svg",
-      "title": "Angular",
+      "img": "../../../assets/tech/c-sharp.svg",
+      "title": "C#",
       "level": "Sí"
     },
     {
@@ -153,23 +148,28 @@
       "level": "Si"
     },
     {
+      "img": "../../../assets/tech/angular.svg",
+      "title": "Angular",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/docker.png",
+      "title": "Docker",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/mysql.png",
+      "title": "Express.js",
+      "level": "Si"
+    },
+    {
       "img": "../../../assets/tech/mongodb.svg",
       "title": "MongoDB",
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/ionic.png",
-      "title": "Ionic",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/expressjs.png",
-      "title": "Express.js",
-      "level": "Si"
-    },
-    {
-      "img": "../../../assets/tech/docker.png",
-      "title": "Docker",
+      "img": "../../../assets/tech/azure.png",
+      "title": "Azure",
       "level": "Sí"
     }
   ],
