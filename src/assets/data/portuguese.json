@@ -138,9 +138,9 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/mysql.png",
-      "title": "MySQL",
-      "level": "Sí"
+      "img": "../../../assets/tech/c-sharp.svg",
+      "title": "C#",
+      "level": "Si"
     },
     {
       "img": "../../../assets/tech/angular.svg",
@@ -153,23 +153,23 @@
       "level": "Si"
     },
     {
+      "img": "../../../assets/tech/docker.png",
+      "title": "Docker",
+      "level": "Sí"
+    },
+    {
       "img": "../../../assets/tech/mongodb.svg",
       "title": "MongoDB",
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/ionic.png",
-      "title": "Ionic",
+      "img": "../../../assets/tech/mysql.png",
+      "title": "MySQL",
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/expressjs.png",
-      "title": "Express.js",
-      "level": "Si"
-    },
-    {
-      "img": "../../../assets/tech/docker.png",
-      "title": "Docker",
+      "img": "../../../assets/tech/azure.png",
+      "title": "Azure",
       "level": "Sí"
     }
   ],
