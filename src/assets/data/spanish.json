@@ -5,7 +5,7 @@
   "navmobile": {
     "about": "Sobre mí",
     "skills": "Habilidades",
-    "contact": "Proyectos",
+    "contact": "Experiencia",
     "resume": "Curriculum",
     "resume_link": "https://www.canva.com/design/DAFC-QUHZzE/KlKb5QJXAQLdfXQovlfqPA/view?utm_content=DAFC-QUHZzE&utm_campaign=designshare&utm_medium=link&utm_source=editor#2"
   },
@@ -14,7 +14,7 @@
   "navbar": [
     { "link": "Sobre mí", "router": "about" },
     { "link": "Habilidades", "router": "skills" },
-    { "link": "Proyectos", "router": "projects" }
+    { "link": "Experiencia", "router": "projects" }
   ],
   "contract": "Curriculum",
   "resume": "resume_es.pdf",
@@ -60,6 +60,54 @@
       "title": "Angular Developer",
       "company": "@ Make It Happen (oct. 2022 - dic. 2022)",
       "description": "Creé un sitio web (con Angular 16 y PrimeNG 16) para los usuarios puedan escuchar la frecuencia radial y contenido respecto a la asociación cristiana. Hosteé el sitio web con Firebase, y lo enlacé con el dominio comprado en Hostinger. Este proyecto fue culminado en la fecha pautada con el cliente y aumento en un 85% en su audiencia radial"
+    }
+  ],
+  "techs": [
+    {
+      "img": "../../../assets/tech/typescript.png",
+      "title": "TypeScript",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/javascript.png",
+      "title": "JavaScript",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/nodejs.png",
+      "title": "Node.js",
+      "level": "Si"
+    },
+    {
+      "img": "../../../assets/tech/angular.svg",
+      "title": "Angular",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/react.png",
+      "title": "React.js",
+      "level": "Si"
+    },
+
+    {
+      "img": "../../../assets/tech/docker.png",
+      "title": "Docker",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/ionic.png",
+      "title": "Ionic",
+      "level": "Si"
+    },
+    {
+      "img": "../../../assets/tech/firebase.png",
+      "title": "Firebase",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/azure.png",
+      "title": "Azure",
+      "level": "Sí"
     }
   ],
   "education": [

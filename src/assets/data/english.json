@@ -5,7 +5,7 @@
   "navmobile": {
     "about": "About me",
     "skills": "Skills",
-    "contact": "Projects",
+    "contact": "Companies",
     "resume": "Resume",
     "resume_link": "https://www.canva.com/design/DAFC-QUHZzE/KlKb5QJXAQLdfXQovlfqPA/view?utm_content=DAFC-QUHZzE&utm_campaign=designshare&utm_medium=link&utm_source=editor#1"
   },
@@ -14,7 +14,7 @@
   "navbar": [
     { "link": "About me", "router": "about" },
     { "link": "Skills", "router": "skills" },
-    { "link": "Projects", "router": "projects" }
+    { "link": "Companies", "router": "projects" }
   ],
   "about": {
     "experience": "EXPERIENCE",
@@ -138,8 +138,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/c-sharp.svg",
-      "title": "C#",
+      "img": "../../../assets/tech/nodejs.png",
+      "title": "Node.js",
       "level": "Si"
     },
     {
@@ -148,23 +148,24 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/nodejs.png",
-      "title": "Node.js",
+      "img": "../../../assets/tech/react.png",
+      "title": "React.js",
       "level": "Si"
     },
+
     {
       "img": "../../../assets/tech/docker.png",
       "title": "Docker",
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/mongodb.svg",
-      "title": "MongoDB",
-      "level": "Sí"
+      "img": "../../../assets/tech/ionic.png",
+      "title": "Ionic",
+      "level": "Si"
     },
     {
-      "img": "../../../assets/tech/mysql.png",
-      "title": "MySQL",
+      "img": "../../../assets/tech/firebase.png",
+      "title": "Firebase",
       "level": "Sí"
     },
     {

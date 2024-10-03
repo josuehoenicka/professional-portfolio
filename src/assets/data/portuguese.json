@@ -138,8 +138,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/c-sharp.svg",
-      "title": "C#",
+      "img": "../../../assets/tech/nodejs.png",
+      "title": "Node.js",
       "level": "Si"
     },
     {
@@ -148,23 +148,24 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/nodejs.png",
-      "title": "Node.js",
+      "img": "../../../assets/tech/react.png",
+      "title": "React.js",
       "level": "Si"
     },
+
     {
       "img": "../../../assets/tech/docker.png",
       "title": "Docker",
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/mongodb.svg",
-      "title": "MongoDB",
-      "level": "Sí"
+      "img": "../../../assets/tech/ionic.png",
+      "title": "Ionic",
+      "level": "Si"
     },
     {
-      "img": "../../../assets/tech/mysql.png",
-      "title": "MySQL",
+      "img": "../../../assets/tech/firebase.png",
+      "title": "Firebase",
       "level": "Sí"
     },
     {
