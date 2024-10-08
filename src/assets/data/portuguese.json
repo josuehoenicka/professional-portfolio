@@ -138,8 +138,8 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/nodejs.png",
-      "title": "Node.js",
+      "img": "../../../assets/tech/dart.png",
+      "title": "Dart",
       "level": "Si"
     },
     {
@@ -148,24 +148,23 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/react.png",
-      "title": "React.js",
+      "img": "../../../assets/tech/nodejs.png",
+      "title": "Node.js",
       "level": "Si"
     },
-
     {
-      "img": "../../../assets/tech/docker.png",
-      "title": "Docker",
+      "img": "../../../assets/tech/flutter.webp",
+      "title": "Flutter",
       "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/ionic.png",
-      "title": "Ionic",
-      "level": "Si"
     },
     {
       "img": "../../../assets/tech/firebase.png",
       "title": "Firebase",
+      "level": "Si"
+    },
+    {
+      "img": "../../../assets/tech/docker.png",
+      "title": "Docker",
       "level": "Sí"
     },
     {
