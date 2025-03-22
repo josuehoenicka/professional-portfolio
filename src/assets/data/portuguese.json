@@ -17,7 +17,7 @@
   ],
   "contract": "Currículo",
   "resume": "resume_pt.pdf",
-  "photo": "../../../assets/personal/josuehoenicka.png",
+  "photo": "../../../assets/personal/josuehoenicka.jpg",
   "im": "Sou ",
   "occupation1": "Angular Developer",
   "occupation2": "Node.js Developer",
@@ -31,145 +31,130 @@
   "gmail": "mailto:josuee.vzla@gmail.com",
   "experience": [
     {
-      "title": "Mid Angular Developer",
-      "company": "@ LiberaSOFT (mai. 2024 - atualidade)",
-      "description": "Supervisiono e mentoro a equipe de Juniors e Trainees. Desenhei e criei o estilo de impressão de PDFs com jsPDF. Atualmente, estou desenvolvendo o módulo de compras (pedido, nota de entrega e fatura de compra, etc.) e o módulo de vendas (orçamento, etc.)."
+      "title": "Software Developer",
+      "description": "➥ LiberaSOFT (Depsys Informática)"
     },
     {
-      "title": "Angular Developer Jr",
-      "company": "@ LiberaSOFT (ago. 2023 - abr. 2024)",
-      "description": "Migrei o projeto do Angular 11 para o Angular 16. Desenvolvi lógica para os módulos de clientes, fornecedores, vendas, estoque e vendas com Angular, PrimeNG, jsPDF, leaflet, moment e outras dependências."
+      "title": "Front-End Developer",
+      "description": "➥ DR Ecommerce (Depsys Informática)"
     },
     {
-      "title": "Angular Developer Trainee",
-      "company": "@ LiberaSOFT (jun. 2023 - jul. 2023)",
-      "description": "Migrei formulários template-driven para formulários reativos. Realizei pesquisas aprofundadas na documentação do PrimeNG e na estrutura do projeto."
-    },
-    {
-      "title": "Support Assistant",
-      "company": "@ Revenue B2B (out. 2023 - mai. 2024)",
-      "description": "Desenvolvi código HTML para os corpos de e-mail nas campanhas de e-mail marketing da empresa. Criei formulários para leads usando Typeform e Zapier. Forneci suporte técnico aos clientes via Slack e Skools."
+      "title": "Front-End Engineer",
+      "description": "➥ Wuypo (Datzure)"
     },
     {
       "title": "Web Developer",
-      "company": "@ LER (abr. 2023 - abr. 2023)",
-      "description": "Criei um site (com HTML5, CSS3 e JavaScript) onde a equipe de Appointment Setters e Call Confirmers pode acompanhar os dados diários. Também desenvolvi a funcionalidade de impressão para um arquivo .txt para que as equipes possam enviá-los para seus canais de comunicação. Esses projetos foram concluídos na data agendada pelo cliente e melhoraram o desempenho/dinâmica do trabalho das duas equipes dentro da empresa."
+      "description": "➥ Make It Happen Ministry"
     },
     {
-      "title": "Angular Developer",
-      "company": "@ Make It Happen (out. 2022 - dez. 2022)",
-      "description": "Criei um site (com Angular 16 e PrimeNG 16) onde os usuários podem ouvir a frequência de rádio e o conteúdo relacionado à associação cristã. Hospedei o site no Firebase e o vinculei ao domínio comprado na Hostinger. Este projeto foi concluído na data agendada pelo cliente e aumentou sua audiência de rádio em 85%."
-    }
-  ],
-  "education": [
-    {
-      "school": "Universidad de Buenos Aires",
-      "title": "English for IT"
+      "title": "Web Developer",
+      "description": "➥ LA ESTAMOS ROMPIENDO "
     },
     {
-      "school": "Universidad Tecnológica Nacional",
-      "title": "React Web Development"
-    },
-    {
-      "school": "Codo a Codo",
-      "title": "Full-Stack Development (JavaScript + Node.js)"
-    },
-    {
-      "school": "Argentina Programa",
-      "title": "Full-Stack Web Development (Angular + Spring Boot)"
-    },
-    {
-      "school": "Argentina Programa",
-      "title": "Introduction to Programming (JavaScript)"
-    },
-    {
-      "school": "Argentina Programa",
-      "title": "Python Algorithms"
-    },
-    {
-      "school": "freeCodeCamp",
-      "title": "JavaScript Algorithms & Data Structure"
-    },
-    {
-      "school": "freeCodeCamp",
-      "title": "Responsive Web Design"
-    },
-    {
-      "school": "Platzi",
-      "title": "Programming Basis"
-    },
-    {
-      "school": "Fundación Teléfonica Movistar",
-      "title": "Cybersecurity for the Educational Environment"
-    },
-    {
-      "school": "Fundación Teléfonica Movistar",
-      "title": "Introduction to Cybersecurity"
-    },
-    {
-      "school": "EEMPI N°3060 San Jorge",
-      "title": "High School Diploma"
-    }
-  ],
-  "languages": [
-    {
-      "img": "../../../assets/lang/es.svg",
-      "name": "ESPANHOL"
-    },
-    {
-      "img": "../../../assets/lang/us.svg",
-      "name": "INGLÊS"
-    },
-    {
-      "img": "../../../assets/lang/br.svg",
-      "name": "PORTUGUÊS"
+      "title": "IT Support",
+      "description": "➥ Revenue B2B"
     }
   ],
   "techs": [
     {
       "img": "../../../assets/tech/javascript.png",
-      "title": "JavaScript",
       "level": "Sí"
     },
     {
       "img": "../../../assets/tech/typescript.png",
-      "title": "TypeScript",
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/c-sharp.svg",
-      "title": "C#",
+      "img": "../../../assets/tech/python.png",
       "level": "Si"
     },
     {
       "img": "../../../assets/tech/nodejs.png",
-      "title": "Node.js",
       "level": "Si"
     },
     {
       "img": "../../../assets/tech/angular.svg",
-      "title": "Angular",
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/asp-net-core.png",
-      "title": "ASP.NET Core",
-      "level": "Si"
-    },
-    {
-      "img": "../../../assets/tech/nginx.png",
-      "title": "Docker",
-      "level": "Si"
-    },
-    {
-      "img": "../../../assets/tech/googlecloud.png",
-      "title": "Flutter",
+      "img": "../../../assets/tech/docker.png",
       "level": "Si"
     },
     {
       "img": "../../../assets/tech/azure.png",
-      "title": "Azure",
       "level": "Si"
+    },
+    {
+      "img": "../../../assets/tech/googlecloud.png",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/linux.png",
+      "level": "Si"
+    }
+  ],
+  "education": [
+    {
+      "school": "Universidad de Buenos Aires",
+      "title": "➥ English for IT"
+    },
+    {
+      "school": "Universidad Tecnológica Nacional",
+      "title": "➥ React Web Development"
+    },
+    {
+      "school": "Codo a Codo",
+      "title": "➥ Full-Stack Development"
+    },
+    {
+      "school": "Argentina Programa",
+      "title": "➥ Full-Stack Development"
+    },
+    {
+      "school": "Argentina Programa",
+      "title": "➥ Introduction to Programming"
+    },
+    {
+      "school": "Argentina Programa",
+      "title": "➥ Python Algorithms"
+    },
+    {
+      "school": "freeCodeCamp",
+      "title": "➥ JavaScript Algorithms & Data Structure"
+    },
+    {
+      "school": "freeCodeCamp",
+      "title": "➥ Responsive Web Design"
+    },
+    {
+      "school": "Platzi",
+      "title": "➥ Programming Basis"
+    },
+    {
+      "school": "Fundación Teléfonica Movistar",
+      "title": "➥ Cybersecurity for the Educational Environment"
+    },
+    {
+      "school": "Fundación Teléfonica Movistar",
+      "title": "➥ Introduction to Cybersecurity"
+    },
+    {
+      "school": "EEMPI N°3060 San Jorge",
+      "title": "➥ Science Degree"
+    }
+  ],
+  "languages": [
+    {
+      "img": "../../../assets/lang/us.svg",
+      "name": "INGLÊS"
+    },
+    {
+      "img": "../../../assets/lang/es.svg",
+      "name": "ESPANHOL"
+    },
+    {
+      "img": "../../../assets/lang/br.svg",
+      "name": "PORTUGUÊS"
     }
   ],
   "projects": [
@@ -185,7 +170,7 @@
       "description": "jun. 2023 - actualidad (+1 año)",
       "link_website": "https://www.liberasoft.com.ar/",
       "image": "../../assets/images/liberasoft.jpg",
-      "image_alt": "Depsys Informática - LiberaSOFT"
+      "image_alt": "DI - LiberaSOFT"
     },
     {
       "title": "Revenue B2B",
