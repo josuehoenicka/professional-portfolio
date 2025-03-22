@@ -31,28 +31,34 @@
   "gmail": "mailto:josuee.vzla@gmail.com",
   "experience": [
     {
-      "title": "Software Developer",
-      "description": "➥ LiberaSOFT (Depsys Informática)"
+      "title": "Software Developer @ LiberaSOFT",
+      "company": "ⓘ ERP System Management",
+      "description": "➥ Angular - Node.js - Docker - Capacitor"
     },
     {
-      "title": "Front-End Developer",
-      "description": "➥ DR Ecommerce (Depsys Informática)"
+      "title": "Front-End Developer @ DR Ecommerce",
+      "company": "ⓘ Ecommerce Store",
+      "description": "➥ Angular - Capacitor"
     },
     {
-      "title": "Front-End Engineer",
-      "description": "➥ Wuypo (Datzure)"
+      "title": "Software Developer @ Wuypo",
+      "company": "ⓘ Virtual Wallet",
+      "description": "➥ Angular - Azure"
     },
     {
-      "title": "Web Developer",
-      "description": "➥ Make It Happen Ministry"
+      "title": "Front-End Developer @ Make It Happen Ministry",
+      "company": "ⓘ Web App with Radio FM",
+      "description": "➥ Angular - Google Cloud - Capacitor"
     },
     {
-      "title": "Web Developer",
-      "description": "➥ LA ESTAMOS ROMPIENDO "
+      "title": "Front-End Developer @ LA ESTAMOS ROMPIENDO",
+      "company": "ⓘ Scheduling Counter",
+      "description": "➥ Angular"
     },
     {
-      "title": "IT Support",
-      "description": "➥ Revenue B2B"
+      "title": "IT Support @ Revenue B2B",
+      "company": "ⓘ Scheduling Counter",
+      "description": "➥ Skool - Typeform - Google Workspace"
     }
   ],
   "techs": [
