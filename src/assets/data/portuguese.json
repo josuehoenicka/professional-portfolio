@@ -31,47 +31,61 @@
   "gmail": "mailto:josuee.vzla@gmail.com",
   "experience": [
     {
-      "title": "Software Developer @ LiberaSOFT",
-      "company": "ⓘ ERP System Management",
-      "description": "➥ Angular - Node.js - Docker - Capacitor"
+      "title": "Full Stack Developer",
+      "company": "HeyNow (Quantik)",
+      "description": "➥ Chatbot & AI Agent Platform"
     },
     {
-      "title": "Front-End Developer @ DR Ecommerce",
-      "company": "ⓘ Ecommerce Store",
-      "description": "➥ Angular - Capacitor"
+      "title": "Sr. Front-End Developer",
+      "company": "LiberaSOFT (Depsys)",
+      "description": "➥ ERP System Management"
     },
     {
-      "title": "Software Developer @ Wuypo",
-      "company": "ⓘ Virtual Wallet",
-      "description": "➥ Angular - Capacitor - Hostinger - Azure - Google Play Console"
+      "title": "Sr. Front-End Developer",
+      "company": "Posmobile (Depsys)",
+      "description": "➥ Ecommerce Store"
     },
     {
-      "title": "Front-End Developer @ Make It Happen Ministry",
-      "company": "ⓘ Web App with Radio FM",
-      "description": "➥ Angular - Capacitor - Firebase"
+      "title": "Sr. Front-End Developer",
+      "company": "DR Ecommerce (Depsys)",
+      "description": "➥ Ecommerce Store"
     },
     {
-      "title": "Front-End Developer @ LA ESTAMOS ROMPIENDO",
-      "company": "ⓘ Scheduling Counter",
-      "description": "➥ Angular"
+      "title": "Front-End Engineer",
+      "company": "Wuypo (Datzure)",
+      "description": "➥ Virtual Wallet"
     },
     {
-      "title": "IT Support @ Revenue B2B",
-      "company": "ⓘ Mentoring to internationalize SaaS",
-      "description": "➥ Skool - Typeform - Google Workspace"
+      "title": "Software Developer (Freelance)",
+      "company": "Make It Happen",
+      "description": "➥ Christian Platform"
+    },
+    {
+      "title": "Web Developer (Freelance)",
+      "company": "LA ESTAMOS ROMPIENDO",
+      "description": "➥ Lead System Management"
+    },
+    {
+      "title": "IT Support (Freelance)",
+      "company": "Revenue B2B",
+      "description": "➥ Mentoring and Consulting for Companies"
     }
   ],
   "techs": [
+    {
+      "img": "../../../assets/tech/typescript.png",
+      "level": "Si"
+    },
     {
       "img": "../../../assets/tech/javascript.png",
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/typescript.png",
+      "img": "../../../assets/tech/python.png",
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/python.png",
+      "img": "../../../assets/tech/angular.svg",
       "level": "Si"
     },
     {
@@ -79,11 +93,11 @@
       "level": "Si"
     },
     {
-      "img": "../../../assets/tech/angular.svg",
-      "level": "Sí"
+      "img": "../../../assets/tech/docker.png",
+      "level": "Si"
     },
     {
-      "img": "../../../assets/tech/docker.png",
+      "img": "../../../assets/tech/googlecloud.png",
       "level": "Si"
     },
     {
@@ -91,11 +105,7 @@
       "level": "Si"
     },
     {
-      "img": "../../../assets/tech/googlecloud.png",
-      "level": "Sí"
-    },
-    {
-      "img": "../../../assets/tech/linux.png",
+      "img": "../../../assets/tech/mysql.png",
       "level": "Si"
     }
   ],
